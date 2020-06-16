@@ -12,8 +12,8 @@
 - [ ] White granulated sugar
 
 ## 2. Spiralized Cucumber
-|
-|
+|<!-- -->|<!-- -->|
+|---|---|
 | **1** cucumber, spiralized | **3 cloves** of garlic, minced|
 | **1/3 tsp** of table salt| |
 1. Spiralize the cucumber into noodles
@@ -22,8 +22,8 @@
 4. Reserve **2 tbsp** of liquid from the bowl, and pour out the rest
 
 ## 3. Peanut Butter Mix
-|
-|
+|<!-- -->|<!-- -->|
+|---|---|
 |**2 tbsp** of peanut butter|**2 tsp** of vinegar|
 |**2 tsp** of light soy sauce|**1 tsp** of sesame oil|
 |**1 tsp** of seasame paste|**1/2 tsp** of sugar|
