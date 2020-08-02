@@ -9,8 +9,8 @@
 - [ ] Black peppercorn
 - [ ] Five spice powder
 - [ ] Cumin seeds
-- [ ] Stars of anis
-- [ ] Bayleaf
+- [ ] Star anis
+- [ ] Bay leaf
 - [ ] Table salt
 
 ## 2. Dry brining
@@ -32,9 +32,9 @@
 ## 3. Cooking
 |<!-- -->|<!-- -->|
 |---|---|
-**2 tbsp** of cumin seeds|**4** stars of anis
+**2 tbsp** of cumin seeds|**4** star anis
 **2 tbsp** of whole black peppercorn|**2 tbsp** of whole Sichuan peppercorn
-**3** bayleafs|**3** green onions, chopped roughly
+**3** bay leaves|**3** green onions, chopped roughly
 **5** slices of ginger, cut thick|**1/2 cup** of cooking wine
 
 1. In a roasting pan or pot large enough to submerge the entire duck, bring about **3L** of water to a boil
