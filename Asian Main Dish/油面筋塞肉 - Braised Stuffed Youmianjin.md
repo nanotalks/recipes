@@ -1,4 +1,4 @@
-# 红烧猪蹄 - Red Braised Pork Trotters
+# 油面筋塞肉 - Braised Stuffed Youmianjin
 
 ## 1. Shopping List
 - [ ] 2 bags of gluten puffs
