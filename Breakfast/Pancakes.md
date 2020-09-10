@@ -1,4 +1,4 @@
-# Cucumber Cold Noodles
+# Pancakes
 
 ## 1. Shopping List
 - [ ] 1 large egg
