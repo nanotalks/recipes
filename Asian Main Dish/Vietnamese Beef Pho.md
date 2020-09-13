@@ -73,6 +73,7 @@ Beef tripe|
 **1 handful** of beansprouts|Thai basil
 **1** lime, cut in wedges|**2 tsp** of satay sauce *(Optional)*
 Sriracha|Hosin sauce
+
 1. Rinse beansprouts and basil, and place immediately in hot soup
 2. *Optional:* Add 2 tsp of satay sauce
 3. Serve with lime wedges, sriracha sauce and hoisin sauce
