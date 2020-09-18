@@ -33,7 +33,7 @@
 ## 3. Roasting
 |<!-- -->|<!-- -->|
 |---|---|
-|**1/4 cup** of sea salt}**2 tbsp** of Shaoxing cooking wine|
+|**1/4 cup** of sea salt|**2 tbsp** of Shaoxing cooking wine|
 |Apple cider vinegar||
 
 1. Preheat the oven to 350°F
