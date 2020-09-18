@@ -18,7 +18,7 @@
 1. Beat the egg and sugar together evenly
 2. Add 1/4 cup of cream and blend evenly
 3. Preheat the oven to 325°F
-4. Bring 2 3/4 cup of cream to a simemr on medium heat in a pan
+4. Bring 2 3/4 cup of cream to a simmer on medium heat in a pan
 5. While mixing, slowly add 1 cup of cream to the batter, avoiding curdling.
 6. Pour the batter back into the remaining cream, and mix evenly.
 7. Remove from heat, add a pinch of salt, 2 tsp of vanilla and espresso
