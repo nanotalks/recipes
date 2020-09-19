@@ -25,7 +25,7 @@
 6. Let rest for 30min
 7. Preheat the oven to 300°F
 8. Spread the batter out on a baking sheet on some parchment paper. Spread the batter out evenly and as thin as possible
-9. When the oven has reached the pre-heated temperature, back the batter for 15min
+9. When the oven has reached the pre-heated temperature, bake the batter for 15min
 10. Remove the baking sheet and using a butter knife, cut up the thins into serving size
 11. Return the baking sheet to the oven, and bake.
 12. Check every 3-5minutes. Remove individual pieces as they begin to brown and cool on rack

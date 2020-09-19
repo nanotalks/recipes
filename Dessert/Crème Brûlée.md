@@ -11,7 +11,7 @@
 ## 2. Custard
 |<!-- -->|<!-- -->|
 |---|---|
-| **6** large egg yolk | **0.5 cup** of granulated sugar|
+| **6** large egg yolk | **0.25 cup** of granulated sugar|
 | **3 cups** of heavy cream| **1/4 tsp** of table salt|
 | **2 tsp** of vanilla extract| **1/2 tsp** of espresso powder or **1/2 shot** of espresso *(Optional)*|
 
@@ -25,7 +25,7 @@
 8. Place the ramekins into a raised side pan, filled with warm water (up to the half-way mark of the ramekins)
 9. Pour the cream into the ramekin and bake for about 30min.
 10. Test by pressing the back of a spoon to the top of the batter. The surface should hold together when gently pressed, but still wobble when the ramekin's shaken.
-11. Remove from the oven and let cool
+11. Remove from the oven and allow it to cool
 12. Using a spoon, scrape away any foam from the surface of each ramekin.
 12. When each ramekin is cool to the tuch, cover and place in refrigerated to chill for at least 2 hours
 
