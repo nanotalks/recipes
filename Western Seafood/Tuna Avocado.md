@@ -1,10 +1,10 @@
 # Tuna Avocado
 
 ## 1. Shopping List
-- [ ] 2 cans of light tuna (5oz each, drained mass, solid or flake is fine)
-- [ ] 3 large avocadoes
-- [ ] 2 stalks of green onion
-- [ ] 1/2 red bell pepper
+- [ ] 1 cans of light tuna (5oz drained mass, solid or flake is fine)
+- [ ] 2 large avocadoes
+- [ ] 1 stalks of green onion
+- [ ] 1/4 red bell pepper
 - [ ] Mayonnaise
 - [ ] Balsamic vinegar
 - [ ] Ground black pepper
@@ -13,9 +13,9 @@
 ## 2. Assembly
 |<!-- -->|<!-- -->|
 |---|---|
-|**2 cans** of light tuna, drained|**3** large avocadoes, halved and pitted|
-|**2 stalks** of green onions, minced|**1/2** red bell pepper, diced|
-|**1 tbsp** of mayonnaise|Dash of balsamic vinegar|
+|**1 cans** of light tuna, drained|**2** large avocadoes, halved and pitted|
+|**1 stalks** of green onions, minced|**1/4** red bell pepper, diced|
+|**2 tsp** of mayonnaise|Dash of balsamic vinegar|
 |Freshly ground black pepper|Toasted bread *(optional)*|
 
 1. Halve and pit the avocadoes.
