@@ -1,7 +1,7 @@
 # Blanched Jie Lan with Oyster Sauce
 
 ## 1. Shopping List
-- [ ] 1 lb Jie Lan
+- [ ] 1 lb jie lan
 - [ ] 2 tbsp of oyster sauce
 - [ ] 5 cloves of garlic
 - [ ] ginger
@@ -44,4 +44,4 @@
 2. As the sauce begins to boil, add the sugar in mix until dissolved
 3. Add the cooking wine, and stir until the sauce begins bubbling. Reduce heat to low
 4. Reduce the sauce until a desired consistency
-Remove the sauce from the heat, and add the sesame oil
+5. Remove the sauce from the heat, and add the sesame oil
