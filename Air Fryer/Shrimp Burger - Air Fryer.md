@@ -12,7 +12,7 @@
 - [ ] Onion powder
 - [ ] Black peppercorn
 - [ ] Table salt
-- [ ] [Homemade tartar sauce](../Spices and Sauces/Tartar Sauce.md)
+- [ ] [Homemade tartar sauce][1]
 
 ## 2. Patty
 |<!-- -->|<!-- -->|
@@ -44,3 +44,5 @@
 4. Place the buns in the air fryer to toast, and grill for another minute.
 5. Remove the buns and the burger from the air fryer.
 6. Serve with a slice of American cheese, Filet-o-Fish style, or with some lettuce
+
+[1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Tartar%20Sauce.md
