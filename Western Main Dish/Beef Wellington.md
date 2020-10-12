@@ -1,4 +1,4 @@
-# Beef Wellington - Sous Vide
+# Beef Wellington
 
 ## 1. Shopping List
 - [ ] 0.5kg beef tenderloin (centre cut)
@@ -9,28 +9,27 @@
 - [ ] 200g of button mushroom
 - [ ] 1/2 an onion
 - [ ] 3 shallots
-- [ ] 8 cloves of garlic
+- [ ] 5 cloves of garlic
 - [ ] 2 sprigs of thyme
 - [ ] Dijon mustard
 - [ ] Cornstarch
 - [ ] Table salt
-- [ ] Black peppercorn
+- [ ] Garlic powder
 - [ ] 236mL of beef broth (1 can)
 - [ ] 200mL of white wine
 
 ## 2. Tenderloin
 |<!-- -->|<!-- -->|
 |---|---|
-|**0.5kg** of beef tenderloin|**3 cloves** of garlic, minced|
+| **0.5kg** of beef tenderloin | **1 tbsp** of garlic powder |
 | **1 tbsp** of table salt | **1 tbsp** of black peppercorn, freshly ground |
-|Dijon mustard||
+| **2 tbsp** of butter | Dijon mustard |
 
-1. Prepare the sous vide water bath at 140°F
-2. Select the centre cut of a tenderloin, where the piece is most consistent in size
-3. Season generously with salt, pepper and minced garlic on all sides
-4. Place the entire tenderloin into a ziploc or vacuum bag and sous vide for 2:30h
-5. Remove tenderloin from the water bath, and pat dry. Wipe away remaining spices to prevent burning.
-6. Using a torch or a hot cast iron pan, sear the tenderloin until browned
+1. Select the centre cut of a tenderloin, where the piece is most consistent in size
+2. Season generously with salt, pepper and minced garlic on all sides
+3. Allow the tenderloin to rest for at least 30 minutes in the fridge, covered
+4. Heat up a cast iron skillet on high, and melt **2 tbsp** of butter
+5. Sear all sides and end of the meat until brown, about 30s on each side
 7. Cover tenderloin in Dijon mustard and allow the meat to chill in a freezer for 15min
 
 ## 3. Mushroom Duxelles
@@ -55,13 +54,13 @@
 |---|---|
 |**400g** of puff pastry|**2** large egg yolks|
 
-1. Preheat the oven to 450°F
+1. Preheat the oven to 400°F
 2. Roll out the puff pastry on another sheet of cling wrap. If the pastry is too small for the Wellington, connect two sheets together
 3. Brush egg yolk around the edge of the pastry for sealing
 4. Take the tenderloin out of the fridge, unwarp, and wrap with the pastry using the cling wrap. Leave about half an inch excess on each side to
 5. Brush the egg yolk across the top of the pastry, and gently score a crosshatch pattern
 6. Place the Wellington on a baking sheet over the hot stove for 2min to crisp up the bottom
-7. Place in the oven for 25min on the bottom rack 
+7. Place in the oven for 60min on the bottom rack 
 8. Take out and rest uncovered for 15min
 
 
