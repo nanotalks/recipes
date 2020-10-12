@@ -12,7 +12,7 @@
 - [ ] Onion powder
 - [ ] Black peppercorn
 - [ ] Table salt
-- [ ] Homemade tartar sauce
+- [ ] [Homemade tartar sauce](../Spices and Sauces/Tartar Sauce.md)
 
 ## 2. Patty
 |<!-- -->|<!-- -->|
