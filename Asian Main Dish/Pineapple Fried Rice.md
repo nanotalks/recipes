@@ -1,5 +1,5 @@
 # Pineapple Fried Rice
-![alt text](Images/Pineapple%20Fried%20Rice%20-%20Overview.jpg)
+
 ## 1. Shopping List
 - [ ] 125g of shrimp
 - [ ] 300g of spam or ham
@@ -77,3 +77,5 @@
 12. Add everything else back into the rice, stir and remove from heat
 13. Carefully scoop fried rice into the pineapple. There will be more fried rice than space inside the pineapple
 14. To help with the presentation, close off the lid of the pineapple until ready to serve.
+
+![Final presentation of Pineapple Fried Rice](Images/Pineapple%20Fried%20Rice%20-%20Overview.jpg)

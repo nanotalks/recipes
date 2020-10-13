@@ -46,3 +46,5 @@
 8. After the 1 hour, remove the pork from the oven, and remove the sea salt and foil cover.
 9. Set the oven on broil and place the pork, completely uncovered, onto the top rack. Broil for 10-20 minutes, until the skin has bubbled over completely
 10. Remove the pork from the oven and allow to rest for 15min before serving
+
+![Final presentation of Crispy Pork Belly](Images/Crispy%20Pork%20Belly%20-%20Overview.jpg)

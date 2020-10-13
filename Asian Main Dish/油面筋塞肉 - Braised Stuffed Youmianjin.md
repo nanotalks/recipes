@@ -58,3 +58,5 @@
 12. After 10 minutes, examine the pan. Flip the puffs around to ensure even colouring. If the pan is about dried, add another 1/2 cup of water
 13. Cover for another 10 minutes
 14. Remove from heat, and serve the puffs with a splash of fond for colour. Add in the remainder of the green onions for garnish along with the whole red peppers from the pan, and serve
+
+![Final presentation of Braised Stuffed Youmianjin](Images/Braised%20Stuffed%20Youmianjin%20-%20Overview.jpg)
