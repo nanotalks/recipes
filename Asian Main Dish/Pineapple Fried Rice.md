@@ -1,5 +1,5 @@
 # Pineapple Fried Rice
-![alt text](Images/Pineapple%20Fried%20Rice.jpg)
+![alt text](Images/Pineapple%20Fried%20Rice%20-%20Overview.jpg)
 ## 1. Shopping List
 - [ ] 125g of shrimp
 - [ ] 300g of spam or ham
