@@ -45,4 +45,6 @@
 5. Remove the buns and the burger from the air fryer.
 6. Serve with a slice of American cheese, Filet-o-Fish style, or with some lettuce
 
+![Final presentation of Shrimp Burger](Images/Shrimp%20Burger%20-%20Overview.jpg)
+
 [1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Tartar%20Sauce.md

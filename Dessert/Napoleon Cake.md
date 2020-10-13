@@ -37,3 +37,6 @@
 17. When all the layers have been assembled into the cake, spread remaining custard onto all sides of the cake
 18. Crush any remaining crumbs and any unused trimmings from before, and sprinkle as garnish onto the cake
 19. Refrigerate for at least 4 hours before serving
+
+
+![Final presentation of Napolean Cake](Images/Napolean%20Cake%20-%20Overview.jpg)
