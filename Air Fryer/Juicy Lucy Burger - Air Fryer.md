@@ -1,6 +1,6 @@
 # Juicy Lucy Burger - Air Fryer
 
-## 1. Shopping List
+## 1. Shopping List (Serves 4)
 - [ ] 4 burger buns
 - [ ] 800g of lean ground beef
 - [ ] 3 slices of bacon

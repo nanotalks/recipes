@@ -1,6 +1,6 @@
 # Crème Brûlée
 
-## 1. Shopping List
+## 1. Shopping List (Serves 8)
 - [ ] 6 large eggs
 - [ ] 3 cups of heavy cream
 - [ ] 0.5 cup of granulated sugar
