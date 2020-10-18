@@ -1,4 +1,4 @@
-# Cumin rub
+# Cumin Rub
 
 ## 1. Shopping List
 - [ ] Garlic powder
