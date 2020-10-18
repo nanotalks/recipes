@@ -8,7 +8,7 @@
 - [ ] Ground black peppercorn
 - [ ] Table salt
 
-## 2. Spice mix
+## 2. Dressing mix
 |<!-- -->|<!-- -->|
 |---|---|
 | **2 tbsp** of white vinegar | **3 tbsp** of olive oil |

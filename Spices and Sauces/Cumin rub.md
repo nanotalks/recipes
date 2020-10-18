@@ -8,7 +8,7 @@
 - [ ] Ground black pepper
 - [ ] Table salt
 
-## 2. Spice mix
+## 2. Rub mix
 |<!-- -->|<!-- -->|
 |---|---|
 | **1 tbsp** of garlic powder | **1 tbsp** of onion powder |
