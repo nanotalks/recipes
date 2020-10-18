@@ -3,22 +3,24 @@
 ## 1. Shopping List
 - [ ] 1 small butternut squash
 - [ ] 3 large eggs
-- [ ] 1 cup of unsalted butter
+- [ ] 115g of unsalted butter
 - [ ] 1/2 can of evaluated milk
 - [ ] 1/2 cup of honey
-- [ ] 2 cups of all-purpose flour
-- [ ] Pumpkin pie spice (cinnamon, cloves, allspice, ginger, 3:2:2:1)
+- [ ] 225g of all-purpose flour
+- [ ] Pumpkin pie spice*
 - [ ] Table salt
 - [ ] Granulated sugar
+
+**Pumpkin pie spice is a mix of ground cinnamon, cloves, allspice and ginger, in a 3:2:2:1 ratio*
 
 ## 2. Pie Crust
 |<!-- -->|<!-- -->|
 |---|---|
-| **150g** of unsalted butter |**2 cups** of all-purpose flour (240g) |
+| **115g** of unsalted butter |**225g** of all-purpose flour |
 | **1/3 tsp** of granulated sugar | **1/3 tsp** of table salt |
 
 1. Cut up the butter into small pieces
-2. Mix the flour with the butter, trying to keep the dough as cool as possible. Add cold water to help the dough take shape (about 1/2 cup total)
+2. Mix the flour with the butter, trying to keep the dough as cool as possible. Add cold water to help the dough take shape (about **1/3 cup** total)
 3. When the dough is able to hold together, place it in the fridge ofr 30min
 4. Generously cover the working surface with flour to prevent the dough from sticking when being rolled out
 5. Roll the dough into a pie crust about 1.5" larger than the circumference of the pie plate.
@@ -33,7 +35,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1** small butternut squash |**1/2 cup** of honey |
-| **3 tsp** of pumpkin pie spice (or the main ingrediences mixed in a 3:2:2:1 ratio)| **1/3 tsp** of table salt |
+| **3 tsp** of pumpkin pie spice | **1/3 tsp** of table salt |
 | **3** large eggs | **1/2 can** of evaporated milk |
 
 1. Cut the squash into pieces that can fit on a steamer trivet. Steam for 20 minutes

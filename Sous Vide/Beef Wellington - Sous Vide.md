@@ -6,9 +6,9 @@
 - [ ] 2 large eggs
 - [ ] 400g of puff pastry
 - [ ] Butter
-- [ ] 200g of button mushroom
+- [ ] 150g of button mushroom
 - [ ] 1/2 an onion
-- [ ] 3 shallots
+- [ ] 2 shallots
 - [ ] 8 cloves of garlic
 - [ ] 2 sprigs of thyme
 - [ ] Dijon mustard
@@ -36,13 +36,13 @@
 ## 3. Mushroom Duxelles
 |<!-- -->|<!-- -->|
 |---|---|
-|**3** shallot|**1** sprigs of thyme|
-|**5 cloves** of garlic|**300g** of button mushroom|
-|**2 tbsp** of butter|**100mL** of white wine|
+|**2** shallot|**1** sprigs of thyme|
+|**5 cloves** of garlic|**150g** of button mushroom|
+|**1 tbsp** of butter|**100mL** of white wine|
 |**200g** of prosciutto||
 
 1. Using a food processor, pulse the shallots, mushrooms, 1 sprig of thyme and garlic finely
-2. In the pan, heat up a tablespoon of butter, and add the diced up vegetables
+2. In the pan, heat up a tablespoon of butter on medium low heat, and add the diced up vegetables
 3. Add 100ml of white wine, and cook until the mixture is dry (about 20min). Stir often
 4. On cling-wrap film, lay out the prosciutto in a mat, slightly overlapping
 5. Spread the mushrooms and shallots over the prosciutto
