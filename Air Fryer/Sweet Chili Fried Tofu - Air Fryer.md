@@ -1,4 +1,4 @@
-# Sweet Chili Fried Tofu
+# Sweet Chili Fried Tofu - Air Fryer
 
 ## 1. Shopping List
 - [ ] 1 lb of firm tofu (about 2-4 large pieces)

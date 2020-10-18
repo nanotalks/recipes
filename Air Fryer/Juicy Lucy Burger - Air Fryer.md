@@ -1,4 +1,4 @@
-# Juicy Lucy Burger
+# Juicy Lucy Burger - Air Fryer
 
 ## 1. Shopping List
 - [ ] 4 burger buns
