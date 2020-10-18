@@ -1,42 +1,49 @@
-# Napolean Cake
+# Pumpkin Pie
 
 ## 1. Shopping List
-- [ ] 400g of puff pastry
-- [ ] 6 large eggs
-- [ ] 3 cups of heavy cream
-- [ ] 3 tbsp of all-purpose flour (1/6 cup)
-- [ ] 0.25 cup of granulated sugar
-- [ ] 1 tsp of espresso powder or a shot of espresso *(optional)*
-- [ ] Vanilla extract
+- [ ] 1 small butternut squash
+- [ ] 3 large eggs
+- [ ] 1 cup of unsalted butter
+- [ ] 1/2 can of evaluated milk
+- [ ] 1/2 cup of honey
+- [ ] 2 cups of all-purpose flour
+- [ ] Pumpkin pie spice (cinnamon, cloves, allspice, ginger, 3:2:2:1)
+- [ ] Table salt
+- [ ] Granulated sugar
 
-## 2. Cake Assembly
+## 2. Pie Crust
 |<!-- -->|<!-- -->|
 |---|---|
-| **5** large egg yolk |**1** large egg|
-**0.25 cup** of granulated sugar|**3 tbsp** of all-purpose flour|
-| **3 cups** of heavy cream| **2 tsp** of vanilla extract| 
-|**1 tsp** of espresso powder or **1/2 shot** of espresso *(Optional)*|
-|**400g** of puff pastry||
+| **150g** of unsalted butter |**2 cups** of all-purpose flour (240g) |
+| **1/3 tsp** of granulated sugar | **1/3 tsp** of table salt |
 
-1. Beat the egg and sugar together evenly
-2. Add 1/4 cup of cream 3tbsp of flour to the custard, and blend evenly
-3. Preheat the oven to 400°F
-4. Bring 2 3/4 cup of cream to a simmer on medium heat in a pan
-5. While mixing, slowly add 1 cup of cream to the batter, avoiding curdling.
-6. Pour the batter back into the remaining cream, and mix evenly.
-7. Remove from heat and add 2 tsp of vanilla and espresso
-8. Allow the custard to cool. Cover the surface of the custard with a layer of parchment paper, directly touching the custard, so that no skin form on the surface.
-9. On baking sheets, roll out the puff pastry and trim  to the desired cake size
-10. Any unused trimmings can be roll out into a separate sheet and used as garnish.
-11. Gently poke the puff pastry a few times with a fork
-12. Place the pieces of pastry about 2" apart on the baking sheets, and bake for 20min
-13. Let the pastry cool until it becomes comfortable to handle.
-14. Geently punch holes into the puff pastry with a fork to help the custard seep better.
-15. Start assembly the layers with a layer of custard on the serving tray (for stability)
-16. Coat the bottom of each pastry layer, lay the new layer onto the cake, then coat the top of the layer.
-17. When all the layers have been assembled into the cake, spread remaining custard onto all sides of the cake
-18. Crush any remaining crumbs and any unused trimmings from before, and sprinkle as garnish onto the cake
-19. Refrigerate for at least 4 hours before serving
+1. Cut up the butter into small pieces
+2. Mix the flour with the butter, trying to keep the dough as cool as possible. Add cold water to help the dough take shape (about 1/2 cup total)
+3. When the dough is able to hold together, place it in the fridge ofr 30min
+4. Generously cover the working surface with flour to prevent the dough from sticking when being rolled out
+5. Roll the dough into a pie crust about 1.5" larger than the circumference of the pie plate.
+6. Place the crust over the pie pan, and gently lift and drop the crust into the pan. Lift the sides of the pie crust up into ridges along the plate edge
+7. Return the pie pan back into the fridge for 30 min
+8. Preheat the oven to 400°F
+9. Cover the rested pie in aluminum foil, and weigh down the centre of the pie with dried rice to help reducing the puffing of the dough
+10. Bake the pie crust on the lowest rack of the oven for 12-15 min, until the crust just begins to turn colours.
+11. Remove the foil and rice, poke holes into the bottom of the pie crust with a fork, and return to the oven to back for another 7-9 minutes
 
+## 3. Pie Fillings
+|<!-- -->|<!-- -->|
+|---|---|
+| **1** small butternut squash |**1/2 cup** of honey |
+| **3 tsp** of pumpkin pie spice (or the main ingrediences mixed in a 3:2:2:1 ratio)| **1/3 tsp** of table salt |
+| **3** large eggs | **1/2 can** of evaporated milk |
 
-![Final presentation of Napolean Cake](Images/Napolean%20Cake%20-%20Overview.jpg)
+1. Cut the squash into pieces that can fit on a steamer trivet. Steam for 20 minutes
+2. Peel the squash skins away, and using a hand blender, puree the squash fruit.
+3. In a separate bowl, beat **3** large eggs, pumpkin spice, honey, salt and evaporated milk. 
+4. Stir the mixture into the squash puree, and mix evenly
+5. Fill up the pie crusts with the pumpkin puree
+6. Fill small oven safe bowls with excess pie fillings
+7. Bake the pie, and any excess, for 25min.
+8. Once the 25min has passed, cover the edges of the pie with aluminum foils to prevent burning, and return to the oven
+9. Check the pie every 5-10 minutes. Aside from the outer 4in around the crust, the pie will still be wobbly when shaken.
+10. After about 30-40 total minutes of baking the pie filling, remove the pie, and allow the ceramic pie plates to continue cooking the pie.
+11. Serve after cooling for 15 minutes, or surve chilled in a fridge with whipped cream.
