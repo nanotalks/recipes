@@ -3,7 +3,7 @@
 ## 1. Shopping List
 - [ ] Chicken gizzards
 - [ ] Cumin seeds
-- [ ] [Cumin Rub][1]
+- [ ] [Cumin rub][1]
 - [ ] Canola oil
 - [ ] Sesame seeds
 - [ ] 1 stalk of green onion
@@ -11,7 +11,7 @@
 ## 2. Airfry
 |<!-- -->|<!-- -->|
 |---|---|
-| Chicken gizzards | **1 tbsp** of Cumin rub |
+| Chicken gizzards | **1 tbsp** of cumin rub |
 | **1 tsp** of canola oil | **1 tsp** of cumin seeds |
 | **1 tsp** of sesame seeds | **1 stalk** of green onion, finely chopped |
 
