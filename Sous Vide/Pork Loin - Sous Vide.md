@@ -15,7 +15,7 @@
 | **2 tbsp** of butter | |
 
 1. Preheat the water bath to 145°F
-2. Season pork chops with thyme, salt and pepper, and seal in bag
+2. Season pork chops generously on both sides with thyme, salt and pepper, and seal in bag.
 3. Sous vide the pork loin for 1-1.5 hour, depending on thickness of the pork loins (up to 4 hours)
 4. Remove pork chops from the sous vide and pat try. Remove the thyme
 5. Heat skillet on stove top on high with 1 tbsp of butter until smoking
