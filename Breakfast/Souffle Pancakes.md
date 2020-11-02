@@ -1,4 +1,4 @@
-# Pancakes
+# Souffle Pancakes
 
 ## 1. Shopping List (Serves 2)
 - [ ] 2 large egg
