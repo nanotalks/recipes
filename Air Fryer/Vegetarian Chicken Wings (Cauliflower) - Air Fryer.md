@@ -20,11 +20,11 @@
 |<!-- -->|<!-- -->|
 |---|---|
 |**1/2 a head** of cauliflower|**1/2 cup** of all-purpose flour|
-|**3/4 cup** of milk *(or soy)*|
+|**3/4 cup** of milk *(or soy)* | **1/2 tsp** of table salt |
 |**2 tsp** of garlic powder|**2 tsp** of paprika powder|
 |**1 tsp** of white pepper powder|**1 tsp** of chicken bouillon powder|
 |**1 tsp** of cumin powder|**1 tsp** of granulated sugar|
-|**1/2 tsp** of table salt|**1/2 cup** of panko bread crumbs|
+|**1/2 cup** of panko bread crumbs||
 
 1. Wash and chop up the cauliflowers into medium sized florets (2-3cm cubes)
 2. Mix the powders, flour and canola oil together in a large bowl.
