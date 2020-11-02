@@ -3,7 +3,6 @@
 ## 1. Shopping List
 - [ ] 1/2 head of cauliflower
 - [ ] 1/2 cup of all-purpose flour
-- [ ] 1/2 cup of panko bread crumbs
 - [ ] 3/4 cup of milk *(or soy)*
 - [ ] 1 stalk of green onion
 - [ ] Garlic powder
