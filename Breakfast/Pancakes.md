@@ -1,6 +1,6 @@
 # Pancakes
 
-## 1. Shopping List
+## 1. Shopping List (Serves 4)
 - [ ] 1 large egg
 - [ ] 1 cup of all-purpose flour
 - [ ] 1 cup of whole milk
@@ -16,7 +16,7 @@
 | **1** large egg, beaten | **2 tbsp** of melted butter|
 | **1 cup** of whole milk| **1 tsp** of vanilla extract|
 | **1 cup** of all purpose flour| **2 tbsp** of granulated sugar|
-| **1 tbsp** of baking powder| **1/3 tsp** of table salt|
+| **1 tbsp** of baking powder| **pinch** of table salt|
 
 1. Mix dry ingredients in a bowl
 2. Mix wet ingredients in a separate bowl
