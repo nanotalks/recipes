@@ -1,4 +1,4 @@
-# Crème Brûlée
+# Whipped Cream
 
 ## 1. Shopping List (Makes 2 cups)
 - [ ] 1 cup heavy or whipping cream
