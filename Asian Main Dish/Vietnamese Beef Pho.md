@@ -77,3 +77,5 @@ Sriracha|Hosin sauce
 1. Rinse beansprouts and basil, and place immediately in hot soup
 2. *Optional:* Add 2 tsp of satay sauce
 3. Serve with lime wedges, sriracha sauce and hoisin sauce
+
+![Final presentation of Vietnamese Beef Pho](Images/Vietnamese%20Beef%20Pho%20-%20Overview.jpg)
