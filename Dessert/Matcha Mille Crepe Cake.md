@@ -1,4 +1,4 @@
-# Napolean Cake
+# Matcha Mille Crepe Cake
 
 ## 1. Shopping List
 - [ ] 3 cups of [whipped cream][1]
