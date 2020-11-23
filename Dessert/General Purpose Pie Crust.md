@@ -1,6 +1,6 @@
 # General Purpose Pie Crust
 
-## 1. Shopping List (1 9" pie crust)
+## 1. Shopping List (Makes one 9" pie crust)
 - [ ] 80g of unsalted butter
 - [ ] 165g of all-purpose flour
 - [ ] Table salt
