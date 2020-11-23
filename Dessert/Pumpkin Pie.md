@@ -36,4 +36,5 @@
 11. Serve after cooling for at least 15 minutes, but best when chilled in a fridge overnight. Top with toppings of your preference, such as some whipped cream, ground nutmeg, or pumpkin spice.
 
 ![Final presentation of Pumpkin Pie](Images/Pumpkin%20Pie%20-%20Overview.jpg)
+
 [1]: https://github.com/nanotalks/recipes/blob/master/Dessert/General%20Purpose%20Pie%20Crust.md
