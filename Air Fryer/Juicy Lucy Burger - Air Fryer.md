@@ -37,7 +37,7 @@
 |---|---|
 | **4** burger buns| **4 slices** of American cheese|
 
-1. Preheat the air fryer in grill mode, and on high (400°F)
+1. Preheat the air fryer in grill mode, and on high (500°F)
 2. Carefully add the burgers onto the grill. Leave room around the burger for flipping
 3. Grill the burger on the first side for 4min
 4. Flip each burger, and grill for an additional 2 minutes

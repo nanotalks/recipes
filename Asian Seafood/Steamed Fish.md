@@ -13,6 +13,7 @@
 |---|---|
 | **1.5 lb** whole talipa or bass | **1 stalk** of green onion |
 | **2** thick slices of ginger | **2 tbsp** of Shaoxin cooking wine |
+
 1. Wash the fish in cold water.
 2. With kitchen shears, trim off any fins that are especially sharp
 3. Carefully run the blade flat across the sides of the fish from the tail to the head to remove any scales still on the sides
