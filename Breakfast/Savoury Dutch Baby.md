@@ -21,7 +21,7 @@
 1. Beat the eggs and milk together with a immersion blender for 2 minutes, until frothy
 2. Add in the flour, cream cheese, sugar, salt and chopped green onion
 3. Rest the batter for 30 minutes.
-4. Preheat the oven with with a 10" skillet to 425°F
+4. Preheat the oven with with a 10" skillet to 425°F (or 400°F in a convection oven)
 5. When preheat is done, carefully remove the hot skillet out of the oven, and add butter to cover skillet bottom
 6. Pour in the batter
 7. Return skilled into the oven for 20-25 minutes.
