@@ -1,4 +1,4 @@
-# Vegetarian Chicken Wings (Cauliflower) - Air Fryer
+# Vegetarian Chicken Wings (Cauliflower)
 
 ## 1. Shopping List
 - [ ] 1/2 head of cauliflower
@@ -27,13 +27,13 @@
 |**1/2 tsp** of table salt||
 
 1. Wash and chop up the cauliflowers into medium sized florets (2-3cm cubes)
-2. Mix the powders, flour and canola oil together in a large bowl.
+2. Preheat oven to 400°F (or 375°F on a convection oven)
+3. Mix the powders, flour and canola oil together in a large bowl.
 3. Slowly add in the milk and mix evenly, until the dip reaches a smooth consistency.
 4. Dip florets in the bowl and shake off excess coating.
-4. Preheat the air fryer to 390°F.
 5. Sprinkle the florets with panko breadcrumbs, and shake to coat evenly.
-6. Add the florets into the pre-heated air fryer.
-7. Let the air fryer to 8 minutes, checking in shaking the contents every 3-4 minutes.
+6. Place the florets on some parchement paper and baking tray
+7. Place in oven for 20minutes, checking in shaking the contents after 10 minutes.
 
 ## 3. Garnish & Serve
 |<!-- -->|<!-- -->|
