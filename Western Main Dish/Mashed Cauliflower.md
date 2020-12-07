@@ -20,7 +20,7 @@
 
 1. Cut up the cauliflower into florets
 2. Place the florets directly into a steamer
-3. Fill the bottom of the steamer with a cup of child water, and steam for 10min after the water has been raised to a boil
+3. Fill the bottom of the steamer with a cup of cold water, and steam for 10min after the water has been raised to a boil
 4. Test the cauliflower. A fork should be able to be stuck into and removed from a large floret without any help
 5. Remove the cauliflower and place in a food processor.
 6. Blend until pulp

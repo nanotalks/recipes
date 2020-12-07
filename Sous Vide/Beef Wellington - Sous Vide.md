@@ -36,7 +36,7 @@
 
 1. Prepare the sous vide water bath at 140°F
 2. Select the centre cut of a tenderloin, where the piece is most consistent in size
-3. Season generously with salt, pepper and minced garlic on all sides
+3. Season generously with salt, pepper and garlic powder on all sides
 4. Place the entire tenderloin into a ziploc or vacuum bag and sous vide for 2:30h
 5. Remove tenderloin from the water bath, and pat dry. Reserve the juice from the bag for gravy.
 6. Using a torch or a hot cast iron pan, sear the tenderloin until browned
