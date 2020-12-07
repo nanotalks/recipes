@@ -26,6 +26,8 @@
 6. Blend until pulp
 7. Add salt and black pepper to taster
 8. Add yogurt and cheese to the food processor and mix again. Use Greek yogurt for a thicker consistency.
-9. In a small pan, heat up butter
-10. Add the minced garlic into the melted butter and fry until the garlic is slightly brown
-11. Add garlic and butter into mixing bowl, and manually mix
+9. Return the cauliflower onto the stove in a pot on medium low heat, and stir to help remove excess moisture.
+10. In a small pan, heat up butter
+11. Add the minced garlic into the melted butter and fry until the garlic is slightly brown
+12. Add garlic and butter into mixing bowl, and manually mix
+13. Taste prior to serving, and serve with gravy if desired.
