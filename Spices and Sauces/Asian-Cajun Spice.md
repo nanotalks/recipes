@@ -22,7 +22,7 @@
 **1 tbsp** of onion powder|**1 tsp** of ground Szhechuan peppercorn
 **1 tsp** of white pepper powder|**1 tsp** of ground black peppercorn
 **2 tbsp** of sweet paprika powder|**2 tbsp** of smoked paprika powder
-**1 tsp** of table salt|**3 tbsp** of chicken bouillon
+**1 tsp** of table salt|**2 tbsp** of chicken bouillon
 **2 tbsp** of brown sugar|**1 tbsp** of granulated sugar
 **1 tsp** of baking powder||
 
