@@ -14,3 +14,5 @@
 3. Lay the chicken wing pieces out on a baking tray, and bake for 25min. Coat each wing in sauce, and reserve the excess sauce
 4. Heat up the BBQ to high (500°F)
 5. Add an additional layer of sauce on the wings, and sear on grill for another 5 minutes
+
+[1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Honey%20Garlic%20Sauce.md
