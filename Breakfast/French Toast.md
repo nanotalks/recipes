@@ -15,7 +15,7 @@
 |---|---|
 | **2** large egg, beaten | **1/4 cup** of whole milk| 
 | **1/3 tsp** of ground cinnamon | **1/3 tsp** of ground nutmeg |
-| **1 tsp** of vanilla extract| **1/3 tsp** of table salt|
+| **1 tsp** of vanilla extract| **pinch** of table salt|
 | **2 tbsp** of melted butter | **4 slices** of brioche bread |
 
 1. Whisk the eggs, milk, vanilla and spices together in a plate with raised edges
