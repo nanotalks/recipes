@@ -1,4 +1,4 @@
-# Nanjing Salted Duck
+# 南京盐水鸭 - Nanjing Salted Duck
 
 ## 1. Shopping List
 - [ ] 1 Duck (about 2.5kg)
