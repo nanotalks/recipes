@@ -38,7 +38,7 @@
 | **2 tbsp** of butter | **2** medium sized onions, chopped |
 | **1 tsp** of cumin powder | **1 tsp** of cumin seeds |
 | **2 tbsp** of ketchup | **2 tbsp** of Worcestershire sauce |
-| **1 cup** of chicken stock | **1 tsp** of table salt |
+| **1 cup** of chicken stock | |
 
 1. Soak beef in **2 tbsp** of cooking wine for 30 minutes
 2. Sauté **2 tbsp** of butter, chopped onions, **1 tsp** of cumin seeds (whole) and **1 tsp** of cumin seeds (powder) in a pan on medium-low heat
