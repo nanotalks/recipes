@@ -15,7 +15,7 @@
 - [ ] Honey
 - [ ] Black peppercorn
 - [ ] Table salt
-- [ ] Gravy
+- [ ] [Gravy][1]
 
 *prepare about 1.5lbs per person, including some leftovers for lunch
 
@@ -57,4 +57,6 @@
 9. Place the chicken on the bottom rack of the oven. Roast for about  45min, until the temperature of the thickest parts of the chicken reads 165°F
 10. Take a turkey baster, and baste the chicken every 20 minutes
 11. Take the chicken out of the oven, and let it rest for another 15min
-12. Reserve the roasting juice for a gravy.
+12. Reserve the roast drippings and pan fond for a [gravy][1].
+
+[1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Poutry%20Roast%20Gravy.md
