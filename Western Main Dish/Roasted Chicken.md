@@ -9,7 +9,7 @@
 - [ ] 12 cloves of garlic
 - [ ] 6-8 leaves of dried bayleaf
 - [ ] *(optional)* 2-3 stalks of celery
-- [ ] *(optional)* 1-2 carrots
+- [ ] *(optional)* 1-2 sticks of carrots
 - [ ] *(optional)* 1 small clementine
 - [ ] Butter
 - [ ] Honey
@@ -23,7 +23,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1** 6lb chicken |**6 tbsp** of table salt |
-| **4 tbsp** honey | **1 tbsp** of black peppercorn |
+| **4 tbsp** of honey | **1 tbsp** of black peppercorn |
 | **6 cloves** of garlic | **2 sprigs** of rosemary |
 | **3-4 leaves** of dried bayleaf | **2 sprigs** of thyme | 
 
@@ -39,8 +39,8 @@
 ## 3. Chicken roast
 |<!-- -->|<!-- -->|
 |---|---|
-| **2-3** stalks of celery | **1** carrot, halved length wise |
-| **1** onion, cut roughly | **3-4** Dried bayleaf pieces |
+| **2-3 stalks** of celery | **1 stick** of carrot, halved length wise |
+| **1** onion, cut roughly | **3-4 leaves** of dried bayleaf |
 | **2 sprigs** of rosemary | **2 sprigs** of thyme |
 | **3 cloves** of garlic, whole | **3 cloves** of garlic, minced |
 | **1 tsp** of table salt |  **1 tsp** of black peppercorn, ground |
