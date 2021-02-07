@@ -8,7 +8,7 @@
 - [ ] Corn starch
 - [ ] Chicken bouillon
 
-## 2. Rub mix
+## 2. Gravy mix
 |<!-- -->|<!-- -->|
 |---|---|
 | Roast drippings and pan fond from roast | **100 ml** of white wine |
