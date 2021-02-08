@@ -7,7 +7,7 @@
 - [ ] 2 tbsp of Shaoxing wine
 - [ ] 1/2 a red pepper
 - [ ] 1/2 a green pepper
-1 stalk of green onion
+- [ ] 1 stalk of green onion
 
 ## 2. Twice Cooking
 |<!-- -->|<!-- -->|
