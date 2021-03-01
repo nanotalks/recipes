@@ -24,10 +24,10 @@
 | **20** sea snails | **2 tbsp** canola oil | 
 | **2 thick slices** of ginger, minced | **1 tsp** of black peppercorn, ground |
 | **3 cloves** of garlic, minced | **1/2** an onion, diced |
-| **1 tbsp** of oyster sauce | **1 tsp** of sea food soy sauce | 
-| **4 tbsp** of Shaoxing cooking wine | **1 tsp** of sesame oil |
+| **1 tbsp** of oyster sauce | **1 tsp** of seafood soy sauce | 
+| **4 tbsp** of Shaoxin cooking wine | **1 tsp** of sesame oil |
 | **1/2 tsp** of granulated sugar | **1 tbsp** of light soy sauce |
-| **1 tsp** of dark soy sauce | **pinch** of white peppepper powder |
+| **1 tsp** of dark soy sauce | **pinch** of white pepper powder |
 | **2 tsp** of cornstarch | **1 stalk** of green onion, minced |
 
 1. Fill the sink with cold water, and submerge the sea snails for half an hour to clear out any sand. Strain before cooking to reduce splatter.
