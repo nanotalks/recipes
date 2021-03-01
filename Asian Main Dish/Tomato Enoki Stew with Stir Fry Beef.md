@@ -20,7 +20,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1 tsp** of cumin powder | **1 tsp** of cumin seeds |
-| **1 tsp** of Sichuan peppercorn, grund | **1 tsp** of red chili flakes |
+| **1 tsp** of Sichuan peppercorn, ground | **1 tsp** of red chili flakes |
 | **1/2 tsp** of chicken bouillon | **1/3 tsp** of table salt |
 | **2 tbsp** of olive oil | **1/2** a white onion, diced |
 | **1/3 tsp** of granulated sugar | **500g** of canned diced tomatoes |
@@ -37,7 +37,7 @@
 |---|---|
 | **500g** of sliced beef | **200g** of enoki |
 | **1/3 tsp** of table salt | **1 tbsp** of Shaoxing cooking wine |
-| **2 tbsp** of canola oil |
+| **2 tbsp** of canola oil | |
 
 1. Soak the sliced beef in cold water 10 minutes before cooking. Change the water once after 5 minutes
 2. Bring 4 cups of water to a boil, and add **1/3 tsp** of salt, followed by the enoki
