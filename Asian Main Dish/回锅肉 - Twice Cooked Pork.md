@@ -3,11 +3,11 @@
 ## 1. Shopping List
 - [ ] 0.5kg of pork belly
 - [ ] 1 pack of tofu gan (豆干)
-- [ ] 2 tbsp of Doubanjiang (豆瓣酱)
-- [ ] 2 tbsp of Shaoxing wine
 - [ ] 1/2 a red pepper
 - [ ] 1/2 a green pepper
 - [ ] 1 stalk of green onion
+- [ ] Doubanjiang (豆瓣酱)
+- [ ] Shaoxing wine
 
 ## 2. Twice Cooking
 |<!-- -->|<!-- -->|
