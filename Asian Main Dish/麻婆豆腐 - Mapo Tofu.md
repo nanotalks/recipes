@@ -48,7 +48,7 @@
 ## 4. Garnishing
 |<!-- -->|<!-- -->|
 |---|---|
-| **1 tsp** of corn starch | **2 tsp** of Sichuan peppercorn |
+| **1 tsp** of cornstarch | **2 tsp** of Sichuan peppercorn |
 
 1. Heat up a small pan on low heat
 2. Mix **1/2 cup** of cold water with **1 tsp** of cornstarch
