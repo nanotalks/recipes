@@ -16,7 +16,7 @@
 3. Preheat the air-fryer to 390°F on airfry setting.
 4. Mix the mushroom slices with the sauce immediately before frying.
 5. Lay the mushrooms on the fryer tray in an even layer
-6. Fry for 4 minutes
-7. Stir the mushrooms in the tray, and fry for another 2 minutes and serve.
+6. Fry for 1 minutes
+7. Stir the mushrooms in the tray, and fry for another 1 minutes and serve.
 
 [1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Asian-Cajun%20Spice.md
