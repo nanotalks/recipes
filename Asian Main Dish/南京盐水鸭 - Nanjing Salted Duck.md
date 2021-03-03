@@ -19,15 +19,14 @@
 **1** whole duck (about 2.5kg)|**4 tbsp** of salt
 **2 tbsp** of whole Sichuan peppercorn|**2 tbsp** of five spice powder
 
-1. Wash duck in cold water, remove any giblets
-2. Pat duck dry
-3. Heat up a dry pan on low heat for 10 min
-4. Heat the Sichuan peppercorn and salt on the heated pan and stir frequently for 1-2 minutes, until aromatic
-5. Allow the salt and peppercorn mixture to cool back to room temperature
-6. Crush the salt and peppercorn in a mortar and pestle.
-7. Mix the crushed spice with five spice powder
-8. Apply the salt rub on the duck. About 1/3 should be put into the cavity of the duck
-9. Place in fridge for 48 hours
+1. Pat duck dry
+2. Heat up a dry pan on low heat for 10 min
+3. Heat the Sichuan peppercorn and salt on the heated pan and stir frequently for 1-2 minutes, until aromatic
+4. Allow the salt and peppercorn mixture to cool back to room temperature
+5. Crush the salt and peppercorn in a mortar and pestle.
+6. Mix the crushed spice with five spice powder
+7. Apply the salt rub on the duck. About 1/3 should be put into the cavity of the duck
+8. Place in fridge for 48 hours
 
 ## 3. Cooking
 |<!-- -->|<!-- -->|

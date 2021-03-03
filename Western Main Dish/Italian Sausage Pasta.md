@@ -17,12 +17,12 @@
 | **1 bunch** of kale | **1 tsp** of table salt |
 | **225g** of fresh pasta | **1 clove** of garlic, minced |
 | **285g** of Italian sausage | **1 tbsp** of olive oil |
-| **2 tsp** of black peppercorn, ground | 
+| **2 tsp** of black peppercorn, ground | **25g** of Parmesan cheese |
 
 1. Split the kale leaves length wise, and remove the centre stem from any leaves that feel particularly tough
 2. Bring a small pot of water to boil, and mix in **1/2 tsp** of salt
 3. Add the pasta into the boiling pot of water, and stir for 5min
-4. Mince the garlic and the sausage into round disks
+4. Mince the garlic and cut the sausage into round disks
 5. Heat up olive oil on medium heat
 6. Stir in the garlic until fragrant, and then add the sausage 
 7. Cook for 6 minutes, until the sausage takes shape and browns
