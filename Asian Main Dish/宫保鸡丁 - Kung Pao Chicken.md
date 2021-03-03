@@ -27,8 +27,9 @@
 | **Pinch** of table salt | |
 
 1. Pat the chicken thighs dry
-2. Mix the ingredients together until consistent
-3. Massage the sauce into the chicken thigh, and let sit for 30 minutes 
+2. Dice the chicken thights, about 1cm cubes
+3. Mix the ingredients together until consistent
+4. Massage the sauce into the chicken thigh, and let sit for 30 minutes 
 
 ## 3. Stir-fry
 |<!-- -->|<!-- -->|
@@ -49,7 +50,7 @@
 5. Set the vegetables aside.
 6. Add the chili flakes, ground peppercorn, ginger and garlic into the pan, and stir fry
 7. When fragrant, add the marinated chicken
-8. Stir-fry the chickn until there is the meat is no longer pink
+8. Stir-fry the chicken until there is the meat is no longer pink
 9. Add the cooked onions, green onions and pepper
 10. Mix in the prepared sauce and stir
 11. Allow the sauce to reduce until desired consistency
