@@ -6,8 +6,8 @@
 - [ ] 2 large eggs
 - [ ] 200g of puff pastry
 - [ ] Butter
-- [ ] 150g of button mushroom
-- [ ] 2 shallots
+- [ ] 300g of button mushroom
+- [ ] 3 shallots
 - [ ] 5 cloves of garlic
 - [ ] 2 sprigs of thyme
 - [ ] Dijon mustard
@@ -40,13 +40,14 @@
 4. Place the entire tenderloin into a ziploc or vacuum bag and sous vide for 2:30h
 5. Remove tenderloin from the water bath, and pat dry. Reserve the juice from the bag for gravy.
 6. Using a torch or a hot cast iron pan, sear the tenderloin until browned
-7. Cover tenderloin in Dijon mustard and allow the meat to chill in a freezer for 15min
+7. Cover tenderloin in Dijon mustard.
+8. Wrap the beef in cling wrap tightly, and allow the meat to chill in a freezer for 15min
 
 ## 3. Mushroom Duxelles
 |<!-- -->|<!-- -->|
 |---|---|
-|**2** shallot|**1** sprigs of thyme|
-|**5 cloves** of garlic|**150g** of button mushroom|
+|**3** shallot|**1** sprigs of thyme|
+|**5 cloves** of garlic|**300g** of button mushroom|
 |**1 tbsp** of butter|**100mL** of white wine|
 |**100g** of prosciutto||
 
