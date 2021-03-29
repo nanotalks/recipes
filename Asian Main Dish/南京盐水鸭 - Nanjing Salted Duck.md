@@ -9,15 +9,15 @@
 - [ ] Black peppercorn
 - [ ] Five spice powder
 - [ ] Cumin seeds
-- [ ] Star anis
+- [ ] Star anise
 - [ ] Bay leaf
 - [ ] Table salt
 
 ## 2. Dry brining
 |<!-- -->|<!-- -->|
 |---|---|
-**1** whole duck (about 2.5kg)|**4 tbsp** of salt
-**2 tbsp** of whole Sichuan peppercorn|**2 tbsp** of five spice powder
+| **1** whole duck (about 2.5kg) | **4 tbsp** of salt |
+| **2 tbsp** of whole Sichuan peppercorn | **2 tbsp** of five spice powder |
 
 1. Pat duck dry
 2. Heat up a dry pan on low heat for 10 min
@@ -31,10 +31,10 @@
 ## 3. Cooking
 |<!-- -->|<!-- -->|
 |---|---|
-**2 tbsp** of cumin seeds|**4** star anis
-**2 tbsp** of whole black peppercorn|**2 tbsp** of whole Sichuan peppercorn
-**3** bay leaves|**3** green onions, chopped roughly
-**5** slices of ginger, cut thick|**1/2 cup** of cooking wine
+| **2 tbsp** of cumin seeds | **4** star anise |
+| **2 tbsp** of whole black peppercorn | **2 tbsp** of whole Sichuan peppercorn |
+| **3** bay leaves | **3** green onions, chopped roughly |
+| **5** slices of ginger, cut thick | **1/2 cup** of cooking wine |
 
 1. In a roasting pan or pot large enough to submerge the entire duck, bring about **3L** of water to a boil
 2. Place all the dried ingredients into a spice pouch and add to the pot

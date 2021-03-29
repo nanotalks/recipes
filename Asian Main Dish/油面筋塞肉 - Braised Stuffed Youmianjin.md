@@ -5,7 +5,7 @@
 - [ ] 1.5lbs of ground pork (50% lean)
 - [ ] 1 large egg
 - [ ] 2 stalks of green onion
-- [ ] Star anis
+- [ ] Star anise
 - [ ] Bay leaves
 - [ ] Black peppercorn
 - [ ] Dried red pepper
@@ -22,11 +22,11 @@
 ## 2. Stuffing
 |<!-- -->|<!-- -->|
 |---|---|
-**2 bags** of gluten puffs|**1.5lbs** of ground pork (50% lean)
-**1** large egg|**2 stalks** of green onion, chopped finely
-**Dash** of ground pepper|**Dash** of onion powder
-**Dash** of garlic powder|**1 tsp** of Dijon mustard
-**1tsp** of Worcestershire Sauce|**2 tsp** of Shaoxing cooking wine
+| **2 bags** of gluten puffs | **1.5lbs** of ground pork (50% lean) |
+| **1** large egg | **2 stalks** of green onion, chopped finely |
+| **Dash** of ground pepper | **Dash** of onion powder |
+| **Dash** of garlic powder | **1 tsp** of Dijon mustard |
+| **1tsp** of Worcestershire Sauce | **2 tsp** of Shaoxing cooking wine |
 
 1. Beat a dash of ground pepper, onion powder, garlic powder with an egg
 2. Finely chop 2 green onions. Reserve some of the green onions for garnish later, and mix the rest into the egg mixture
@@ -38,11 +38,11 @@
 ## 3. Braising
 |<!-- -->|<!-- -->|
 |---|---|
-**3 tbsp** of canola oil|**2** dried red pepper flakes, deseeded
-**2 tsp** of rock sugar, crushed|**1 tbsp** of light soy sauce
-**1 tbsp** of sweet soy sauce|**1 tbsp** of Shaoxing wine
-**2-3** Star anis|**2-3** bay leaves
-**1/2 stalk (sprout end)** of green onion, chopped finely|
+| **3 tbsp** of canola oil | **2** dried red pepper flakes, deseeded |
+| **2 tsp** of rock sugar, crushed | **1 tbsp** of light soy sauce |
+| **1 tbsp** of sweet soy sauce | **1 tbsp** of Shaoxing wine |
+| **2-3** Star anis | **2-3** bay leaves |
+| **1/2 stalk (sprout end)** of green onion, chopped finely | |
 
 1. Heat up the canola oil on medium heat
 2. De-seed two dried red pepper, by clipping off the tips or cutting open the side and pouring out the seeds

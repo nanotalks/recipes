@@ -5,7 +5,7 @@
 - [ ] Dried wood ear
 - [ ] Dried shitake mushroom
 - [ ] Dried tea tree mushroom
-- [ ] Star anis
+- [ ] Star anise
 - [ ] Bay leaves
 - [ ] Black peppercorn
 - [ ] Dried red pepper
@@ -18,8 +18,8 @@
 ## 2. Frying
 |<!-- -->|<!-- -->|
 |---|---|
-**250g** of vegetarian chicken, sliced into disks|**Handful** of dried wood ear
-**Handful** of tea tree mushrooms|**Handful** of dried shitake mushroom
+| **250g** of vegetarian chicken, sliced into disks | **Handful** of dried wood ear |
+| **Handful** of tea tree mushrooms | **Handful** of dried shitake mushroom |
 
 1. Soak the dried shitake mushroom and tea trea mushrooms in a bowl of water, stem side down, overnight
 2. Before braising, bring a pot of water to boil. Add in a handful of wood ear and allow it to expand, about 5min
@@ -33,11 +33,11 @@
 ## 3. Braising
 |<!-- -->|<!-- -->|
 |---|---|
-**3 tbsp** of canola oil|**2** dried red pepper flakes, deseeded
-**2 tsp** of rock sugar, crushed|**1 tbsp** of light soy sauce
-**1 tbsp** of sweet soy sauce|**1 tbsp** of Shaoxing wine
-**2-3** Star anis|**2-3** bay leaves
-**1/2 stalk (sprout end)** of green onion, chopped finely|
+| **3 tbsp** of canola oil | **2** dried red pepper flakes, deseeded |
+| **2 tsp** of rock sugar, crushed | **1 tbsp** of light soy sauce |
+| **1 tbsp** of sweet soy sauce | **1 tbsp** of Shaoxing wine |
+| **2-3** Star anise | **2-3** bay leaves |
+| **1/2 stalk (sprout end)** of green onion, chopped finely | |
 
 1. Heat up the canola oil on medium heat
 2. De-seed two dried red pepper, by clipping off the tips or cutting open the side and pouring out the seeds

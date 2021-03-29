@@ -4,7 +4,7 @@
 - [ ] 2 Pork trotters
 - [ ] 1 Stalk of green onion
 - [ ] Ginger
-- [ ] Star anis
+- [ ] Star anise
 - [ ] Bay leaves
 - [ ] Black peppercorn
 - [ ] Dried red pepper
@@ -17,8 +17,8 @@
 ## 2. Pork Trotter Preparation
 |<!-- -->|<!-- -->|
 |---|---|
-**2** pork trotters, divided|**2 tbsp** of Shaoxing cooking wine
-**2 thick slices** of ginger, smashed|**1/2 stalk (stem end)** of green onion, chopped roughly
+| **2** pork trotters, divided | **2 tbsp** of Shaoxing cooking wine |
+| **2 thick slices** of ginger, smashed | **1/2 stalk (stem end)** of green onion, chopped roughly |
 
 1. Place pork trotter in a large pot and fill with cold water until completely covered.
 2. Set pot on stove, on high. 
@@ -33,11 +33,11 @@
 ## 3. Braising
 |<!-- -->|<!-- -->|
 |---|---|
-**3 tbsp** of canola oil|**2** dried red pepper flakes, deseeded
-**2 tsp** of rock sugar, crushed|**1 tbsp** of light soy sauce
-**1 tbsp** of sweet soy sauce|**1 tbsp** of Shaoxing wine
-**2-3** Star anis|**2-3** bay leaves
-**1/2 stalk (sprout end)** of green onion, chopped finely|
+| **3 tbsp** of canola oil | **2** dried red pepper flakes, deseeded |
+| **2 tsp** of rock sugar, crushed | **1 tbsp** of light soy sauce |
+| **1 tbsp** of sweet soy sauce | **1 tbsp** of Shaoxing wine |
+| **2-3** Star anis | **2-3** bay leaves |
+| **1/2 stalk (sprout end)** of green onion, chopped finely | |
 
 1. Heat up the canola oil on medium heat
 2. De-seed two dried red pepper, by clipping off the tips or cutting open the side and pouring out the seeds
