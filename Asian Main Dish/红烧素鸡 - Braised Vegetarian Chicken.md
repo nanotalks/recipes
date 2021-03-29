@@ -48,7 +48,7 @@
 7. Add the disks of vegetarian chicken into the  pan, making sure the oil evenly coats each puff
 8. Carefully add 1 cup of hot water into the pan; BE CAREFUL OF SPLATTER
 9. Add 1 tbsp of light soy sauce, 1 tbsp of sweet soy sauce and 1 tbsp of Shaoxing cooking wine to the liquid
-10. Add star anis, bay leaves and red pepper into the pan
+10. Add star anise, bay leaves and red pepper into the pan
 11. Strain and add shitake mushrooms, tea tree mushrooms and wood ears
 11. Cover for 10 minutes.
 12. After 10 minutes, examine the pan. Flip the puffs around to ensure even colouring. If the pan is about dried, add another 1/2 cup of water

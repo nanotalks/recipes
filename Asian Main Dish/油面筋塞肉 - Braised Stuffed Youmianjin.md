@@ -41,7 +41,7 @@
 | **3 tbsp** of canola oil | **2** dried red pepper flakes, deseeded |
 | **2 tsp** of rock sugar, crushed | **1 tbsp** of light soy sauce |
 | **1 tbsp** of sweet soy sauce | **1 tbsp** of Shaoxing wine |
-| **2-3** Star anis | **2-3** bay leaves |
+| **2-3** Star anise | **2-3** bay leaves |
 | **1/2 stalk (sprout end)** of green onion, chopped finely | |
 
 1. Heat up the canola oil on medium heat
@@ -53,7 +53,7 @@
 7. Add the stuffed puffs, making sure the oil evenly coats each puff
 8. Carefully add 1 cup of hot water into the pan; BE CAREFUL OF SPLATTER
 9. Add 1 tbsp of light soy sauce, 1 tbsp of sweet soy sauce and 1 tbsp of Shaoxing cooking wine to the liquid
-10. Add star anis, bay leaves and red pepper into the pan
+10. Add star anise, bay leaves and red pepper into the pan
 11. Cover for 10 minutes.
 12. After 10 minutes, examine the pan. Flip the puffs around to ensure even colouring. If the pan is about dried, add another 1/2 cup of water
 13. Cover for another 10 minutes

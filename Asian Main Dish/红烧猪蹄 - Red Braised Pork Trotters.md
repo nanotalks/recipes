@@ -36,7 +36,7 @@
 | **3 tbsp** of canola oil | **2** dried red pepper flakes, deseeded |
 | **2 tsp** of rock sugar, crushed | **1 tbsp** of light soy sauce |
 | **1 tbsp** of sweet soy sauce | **1 tbsp** of Shaoxing wine |
-| **2-3** Star anis | **2-3** bay leaves |
+| **2-3** Star anise | **2-3** bay leaves |
 | **1/2 stalk (sprout end)** of green onion, chopped finely | |
 
 1. Heat up the canola oil on medium heat
@@ -48,6 +48,6 @@
 7. Add the trotters, making sure the oil evenly coats each trotter segment
 8. Carefully add 2 ladles of stock from the pressure cooker pot into the frying pan; BE CAREFUL OF SPLATTER
 9. Add 1 tbsp of light soy sauce, 1 tbsp of sweet soy sauce and 1 tbsp of Shaoxing cooking wine to the liquid
-10. Add star anis, bay leaves and red pepper into the pan
+10. Add star anise, bay leaves and red pepper into the pan
 11. Cover for 15 minutes.
 12. Remove from heat, and serve the trotters with a splash of fond for colour. Add in the remainder of the green onions for garnish along with the whole red peppers from the pan, and serve

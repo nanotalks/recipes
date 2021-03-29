@@ -18,13 +18,13 @@
 ## 2. Assembly
 |<!-- -->|<!-- -->|
 |---|---|
-|**1 tbsp** of canola oil|**2 stalks** of celery, trimmed and diced|
-|**1** large carrot, peeled and diced|**2 cloves** of garlic, minced|
-|**1** large onion, diced|**1tbsp** of Shaoxing cooking wine|
-|**3 tbsp** of flour|**2 cups** of half-and-half|
-|**2 cups** of vegetable stock|**150g** of button mushroom, sliced|
-|**1** dried bayleaf|Table salt|
-|Ground black pepper|Croutons or crackers|
+| **1 tbsp** of canola oil | **2 stalks** of celery, trimmed and diced |
+| **1** large carrot, peeled and diced | **2 cloves** of garlic, minced |
+| **1** large onion, diced | **1tbsp** of Shaoxing cooking wine |
+| **3 tbsp** of flour | **2 cups** of half-and-half |
+| **2 cups** of vegetable stock | **150g** of button mushroom, sliced |
+| **1** dried bay leaf | Table salt |
+| Ground black pepper | Croutons or crackers |
 
 1. Heat up 1 tbsp of canola oil on high
 2. Add the diced onions, celery, carrots and minced garlic into the pot, and sauté on high

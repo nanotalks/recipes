@@ -18,13 +18,13 @@
 ## 2. Assembly
 |<!-- -->|<!-- -->|
 |---|---|
-|**4 slices** of bacon|**2 stalks** of celery, trimmed and diced|
-|**1** large onion, diced|**1/4 cup** of white wine|
-|**3 tbsp** of flour|**2 cups** of half-and-half|
-|**2 cans** of clams|**1 8oz. bottle** of clam juice|
-|**1** large potato, peeled and diced|**2 cloves** of garlic, minced|
-|**1** dried bayleaf|Table salt|
-|Ground black pepper|Crackers or croutons|
+| **4 slices** of bacon | **2 stalks** of celery, trimmed and diced |
+| **1** large onion, diced | **1/4 cup** of white wine |
+| **3 tbsp** of flour | **2 cups** of half-and-half |
+| **2 cans** of clams | **1 8oz. bottle** of clam juice |
+| **1** large potato, peeled and diced | **2 cloves** of garlic, minced |
+| **1** dried bay leaf | Table salt |
+| Ground black pepper | Crackers or croutons |
 
 1. In a pan, heat up 4 slices of bacon on medium heat until crispy.
 2. Move the bacon onto some paper towel to strain away the extra oil on the bacon. Reserve about 1 tbsp of oil from the pan and add it to a pot
