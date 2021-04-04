@@ -42,9 +42,9 @@
 4. Carefully pour 2 tbsp on Shaoxing cooking wine into the bottom of the tin foil.
 5. Use a brush, apply apple cider vinegar to the skin
 6. Pour sea salt over the skin. Cover completely, about 1-2cm thick
-7. Place the pork in the preheated oven and roast for 1 hour
-8. After the 1 hour, remove the pork from the oven, and remove the sea salt and foil cover.
-9. Set the oven on broil and place the pork, completely uncovered, onto the top rack. Broil for 10-20 minutes, until the skin has bubbled over completely
+7. Place the pork in the preheated oven and roast for 40min
+8. Remove the pork from the oven, and remove the sea salt and foil cover.
+9. Set the oven on broil and place the pork, completely uncovered, onto the top rack. Broil for 10 minutes, until the skin has bubbled over completely
 10. Remove the pork from the oven and allow to rest for 15min before serving
 
 ![Final presentation of Crispy Pork Belly](Images/Crispy%20Pork%20Belly%20-%20Overview.jpg)
