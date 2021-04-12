@@ -1,4 +1,4 @@
-# 叉烧 - Char Sui
+# 叉烧 - Char Siu
 
 ## 1. Shopping List
 - [ ] 2lbs of pork shoulders
