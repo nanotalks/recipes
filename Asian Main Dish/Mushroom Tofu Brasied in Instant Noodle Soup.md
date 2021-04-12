@@ -44,7 +44,7 @@
 ## 4. Garnishing
 |<!-- -->|<!-- -->|
 |---|---|
-| **1 tsp** of cornstarch | **2 tsp** of Sichuan peppercorn |
+| **1 tsp** of cornstarch | **1 tsp** of Sichuan peppercorn |
 | **1 tsp** of sesame oil | **1 tsp** of white sesame seeds|
 
 1. Heat up a small pan on low heat
