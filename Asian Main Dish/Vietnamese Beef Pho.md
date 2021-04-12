@@ -47,15 +47,15 @@
 |<!-- -->|<!-- -->|
 |---|---|
 **3 cups (12 ladles)** of beef broth|**1 packet** of Vietnamese pho spices
-**1/4** of a white onion, sliced|Salt
-**2** stalks of green onion|Beef tendon
-Beef meet balls|Slices of beef briskets or ribeye
+Salt|Beef meet balls
+**1/4** of a white onion, sliced|Beef tendon
+**2** stalks of green onion|Slices of beef briskets or ribeye
 Beef tripe|
 
 1. Prepare the broth, and add salt to taste
-2. Add tendons, beef meatballs, sliced onions
-3. While boiling, add the packet of spices, and allow to steep for 20min in low heat
-4. Soak sliced beef in cold water for about 10minutes, changing the water once
+2. While boiling, add the packet of spices, and beef meatballs and allow to simmer for 10 minutes in low heat
+3. Add the beef tendons and sliced onions into the broth and simmer another 10 minutes
+4. Soak sliced beef in cold water for about 10 minutes, changing the water once
 5. Remove the packet, and add green onions, tripe, sliced beef
 
 ## 4. Noodles
