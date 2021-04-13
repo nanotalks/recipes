@@ -70,6 +70,7 @@
 1. In a pot, bring **2L** of water to a boil
 2. Add **1 tsp** of table salt into the pot 
 3. Add the fresh pasta or egg noodles into the pot and boil for 4 minutes
-4. Strain, and immediately add to the sauce. Mix until evenly coated before serving.
+4. Strain, and immediately add to the sauce and stir.
+5. Add the beef back into the pan. Mix until evenly coated before serving.
 
 [1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Sour%20Cream.md
