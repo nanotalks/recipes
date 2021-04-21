@@ -59,5 +59,3 @@
 3. Add the fresh pasta or egg noodles into the pot and boil for 4 minutes
 4. Strain, and immediately add to the pan with the seafood. Mix evenly before serving.
 5. Serve with freshly ground black peppercorn and Parmesan cheese.
-
-[1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Sour%20Cream.md
