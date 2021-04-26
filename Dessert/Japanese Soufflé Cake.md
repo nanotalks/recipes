@@ -11,18 +11,35 @@
 - [ ] Pinch of table salt
 - [ ] 1/2 lemon (2tbsp of lemon juice + lemon zest)
 
-1. Melt and mix cream cheese and butter
-2. Add whole milk and mix
-3. Sift flour, cornstarch, table salt and add lemon zest
-4. Separate egg white and yolk
-5. Add yolk into batter and mix
-6. Blend egg white and lemon juice
-7. Add sugar into the meringue in 3 parts, and beat until stiff peak
-8. Mix a few scoops of meringue into the batter
-9. Fold batter into the meringue
-10. Wrap springform cake pan in 2 layers of aluminum
-11. Add parchment paper to the bottom of the pan, and butter to the sides
-12. Place cake in pan, and pan in water bath
-13. Bake at 320°F for 20min
-14. Bake at 265°F for 45min
-15. Coat top with honey
+## 2. Batter
+|<!-- -->|<!-- -->|
+|---|---|
+| **250g** of cream cheese |**60g (4tbsp)** of butter |
+| **1/2 cup** of whole milk | **pinch** of table salt |
+| **60g** of cake flour | **2 tbsp** of corn starch |
+| **1/2** a lemon zest | **6** egg yolks |
+
+1. Melt and mix cream cheese and butter using a large bowl in a hot water bath
+2. Add whole milk and mix until batter is consistent
+3. Sift table salt, flour and cornstarch into the batter and mix until consistent
+4. Add the lemon zest and egg yolks, and mix
+
+## 3. Soufflé
+|<!-- -->|<!-- -->|
+|---|---|
+| butter | **6** egg whites |
+| **2 tbsp** of lemon juice | **50g (1/4 cup)** of granulated sugar |
+
+1. Preheat oven to 320°F
+2. Coat a springform pan with pan with butter
+3. Add a sheet of parchment paper to the bottom of the pan
+4. Wrap outside of the pan with aluminum foil, to prevent water from getting into the batter
+5. Blend egg white and lemon juice
+6. Add sugar into meringue in 3 stage, and beat until stiff peak
+7. Mix a few scoops of meringue into the batter
+8. Fold batter back into the meringue
+9. Place cake in a water bath
+10. Bake for 20min
+11. Open the oven door for 5 seconds while adjusting the oven temperature to 265°F
+12. Bake for 45min
+13. Remove the cake pan from the oven and allow to cool for 5 minutes before popping the cake out of the springform.
