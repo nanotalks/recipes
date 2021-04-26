@@ -3,7 +3,7 @@
 ## 1. Shopping List
 - [ ] 1/2 cup squid
 - [ ] 1/2 cup of shrimps, peeled and deveined
-- [ ] 1/2 cup of mussels
+- [ ] 1/2 cup of scallops
 - [ ] 1 yolk of a large egg
 - [ ] 5 stalks of green onion
 - [ ] 1 clove of garlic
