@@ -2,14 +2,14 @@
 
 ## 1. Shopping List (Serves 8)
 - [ ] 6 large eggs
-- [ ] 250g of Philadelphia cream cheese
-- [ ] 1/2 cup of whole milk
-- [ ] 60g (4 tbsp) of butter 
-- [ ] 60g of cake flour (or all-purpose)
-- [ ] 2tbsp Cornstarch
-- [ ] 50g (0.25 cup) of granulated sugar
-- [ ] Pinch of table salt
 - [ ] 1/2 lemon (2tbsp of lemon juice + lemon zest)
+- [ ] 250g of Philadelphia cream cheese
+- [ ] Whole milk
+- [ ] Butter 
+- [ ] Cake flour (or all-purpose)
+- [ ] Cornstarch
+- [ ] Granulated sugar
+- [ ] Table salt
 
 ## 2. Batter
 |<!-- -->|<!-- -->|
