@@ -1,7 +1,7 @@
 # Beef Short Ribs
 
 ## 1. Shopping List
-- [ ] 6 slices of beef short ribs
+- [ ] 6 slices of beef short ribs, cut about 1/2" thick
 - [ ] 1 Asian pear
 - [ ] 1/2 medium white onion
 - [ ] 3 cloves of garlic
@@ -24,12 +24,11 @@
 | **1 stalk** of green onion, chopped | **1/2 tsp** of granulated sugar |
 | **2 tsp** of black peppercorn, ground | |
 
-1. Wash ribs in cold water to remove bone fragments. 
-2. Soak ribs in cold water for 30minutes; change water once after 15 min
-3. Mix the puree with cooking wine, dark soy sauce, light soy sauce, and sesame oil
-4. Strain the ribs, and add in onions, garlic and green onions
-5. Mix in the sauce, sugar and ground black pepper
-6. Let the marinade sit overnight
+1. Palm-heel strike the short ribs until flatten to about 1/4" thick
+2. Cover the short rubs with the purée on both sides of the short rib, and allow the ribs to soak for 30min
+3. Mix the cooking wine, dark soy sauce, light soy sauce, and sesame oil together. 
+4. Add sauce to ribs with onions, garlic and green onions
+5. Let the marinade sit overnight
 
 ## 3. Broil/Grill
 |<!-- -->|<!-- -->|
@@ -38,7 +37,7 @@
 
 1. Preheat the oven or BBQ grill to 500°F
 2. If using an oven, turn on the broiler when the oven is preheated
-3. Lay the ribs out flat and grill each side for 2-3 minutes
+3. Lay the ribs out flat and grill each side for 3 minutes
 4. Plate and serve the ribs, garnished with sesame seeds and green onions
 
 ![Final presentation of Beef Short Ribs](Images/Beef%20Short%20Ribs%20-%20Overview.jpg)

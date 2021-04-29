@@ -30,7 +30,7 @@
 1. Start with the chain of the tenderloin, or whole tenderloins cut into 1" medallions
 2. Palm heel strike the meat to flatten into about 1/2" thick pieces
 3. Cut beef across the grain into strips, about 1/4" wide
-4. *Optional:* Lay the strips out in a dish, and sprinkle baking soda onto the meet
+4. *Optional:* Lay the strips out in a dish, and cover with baking soda
 5. *Optional:* Massage the baking sode evenly into the steak, and rest for 30min
 6. *Optional:* Rinse the steak in cold water. Apply gentle pressure to squeeze dry
 7. Lay the strips out again, and sprinkle generously with salt and ground black peppercorn
@@ -46,16 +46,16 @@
 | **1/2 cup** of sour cream | **1 tbsp** of Dijon mustard |
 | **1/3 tsp** of table salt | **1 stalk** of green onion, chopped finely |
 
-1. In a heavy pan, heat up **1 tbps** of canola oil to smoke point
+1. In a heavy pan, heat up **1 tbsp** of canola oil to smoke point
 2. Add half the beef strips into the pan. Briefly stir until beef is evenly spread out on the pan
-3. Sear for 30s without moving. Then stir again vigoursly until all strips have been stirred.
+3. Sear for 30s without moving. Then stir again vigourously until all strips have been stirred.
 4. Sear for another 30s. Stir again, and place in bowl immediately (the beef will still be red)
 5. Repeat steps 1-4 for the other half of the beef strips
-6. Add **3 tbspp** of butter into the pan
+6. Add **3 tbsp** of butter into the pan
 7. Once the butter is fully melted, add the onion and garlic into the pan.
 8. When fragrant, add the mushrooms and stir
 9. When the onions become soft, add the cooking wine to the pot to help deglaze
-10. Add a pinch of sugar to help the oninos brown
+10. Add a pinch of sugar to help the onions brown
 11. Slowly stir in **2 tbsp** of flour. Be careful not to dump it directly into the pot, as it will stick and burn
 12. Slowly add the **2 cups** of beef broth into the pot
 13. Add the Worcestershire sauce, sour cream and Dijon mustard into the pot
