@@ -26,7 +26,7 @@
 | **2 tbsp** of butter | Dijon mustard |
 
 1. Select the centre cut of a tenderloin, where the piece is most consistent in size
-2. Season generously with salt, pepper and minced garlic on all sides
+2. Season generously with salt, pepper and garlic powder on all sides
 3. Allow the tenderloin to rest for at least 30 minutes in the fridge, covered
 4. Heat up a cast iron skillet on high, and melt **2 tbsp** of butter
 5. Sear all sides and end of the meat until brown, about 30s on each side
