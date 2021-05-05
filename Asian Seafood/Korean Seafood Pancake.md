@@ -23,8 +23,8 @@
 | **100g** of squids, diced | **100g** of shrimps, diced |
 | **100g** of clam meat | **1/2 cup** of all-purpose flour |
 | **1/2 cup** of rice flour | **2 tbsp** of potato starch |
-| **4 stalks** of green oninons, chopped roughly | **1** dried red chili pepper, crushed |
-| **1** large egg, beaten | **2 tbsp** of canola oil |
+| **4 stalks** of green oninons, chopped roughly | **1** large egg, beaten |
+| **1** dried red chili pepper | **2 tbsp** of canola oil |
 
 1. Bring **4 cups** of water to a boil
 2. Blanche each of the seafood separately for about 3 seconds, and chill immediately in ice bath
@@ -32,10 +32,11 @@
 4. Pat seafood dry with paper towel
 5. Mix all-purpose flour, rice flour, potato starch together. Add **1/2 cup** to **1 cup** of water from step 3 to the batter, and mix until runny consistency
 6. Mix in the green onions, seafood, and egg into the batter and mix well
-7. Heat up a pan on medium heat with oil
-8. Pour in the batter, and cover the pan bottom
-9. After 5 minutes, flip the pancakes
-10. After another 5 minutes, remove and plate
+7. Remove the seeds and capsaicin glands from the red pepper, and crush
+8. Heat up a pan on medium heat with oil
+9. Pour in the batter, and cover the pan bottom
+10. After 5 minutes, flip the pancakes
+11. After another 5 minutes, remove and plate
 
 ## 3. Sauce
 |<!-- -->|<!-- -->|
