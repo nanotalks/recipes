@@ -35,9 +35,9 @@
 | Left-over marinade | **2 tbsp** of honey | 
 
 1. Takethe marinade bag out of the fridge 1 hour ahead of roasting.
-2. Preheat the oven to 425°F
+2. Preheat the oven to 425°F (or 400°F on a convection oven)
 3. Place the pork on baking racks, sitting over an aluminum lined baking tray.
-4. Carefully pour 2 tbsp of water into the bottom of the tray.
+4. Carefully pour water into the bottom of the tray to prevent drippings from burning.
 5. Roast the pork for 40min. Baste the leftover marinade onto the pork after 15min and 30min
 6. After 40min of roasting, baste with **2 tbsp** of honey, mixed with **2 tbsp** of water
 7. Set the oven to broil, and broil the pork for another 5 minutes.
