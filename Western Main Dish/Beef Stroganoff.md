@@ -28,10 +28,10 @@
 | **1 tbsp** of table salt | **2 tbsp** of black peppercorn, freshly ground |
 
 1. Start with the chain of the tenderloin, or whole tenderloins cut into 1" medallions
-2. Palm heel strike the meat to flatten into about 1/2" thick pieces
+2. Palm heel strike the meat to flatten into 1/2" thick slices
 3. Cut beef across the grain into strips, about 1/4" wide
 4. *Optional:* Lay the strips out in a dish, and cover with baking soda
-5. *Optional:* Massage the baking sode evenly into the steak, and rest for 30min
+5. *Optional:* Massage the steak and rest for 30min
 6. *Optional:* Rinse the steak in cold water. Apply gentle pressure to squeeze dry
 7. Lay the strips out again, and sprinkle generously with salt and ground black peppercorn
 
