@@ -36,7 +36,7 @@
 **1 tbsp** of rice vinegar|**1/3 tsp** of chicken bouillon
 **3 cloves** of garlic, minced|**1** stalk of green onion, finely chopped
 **1 tsp** of chili flakes|**1/2 tsp** of ground Szechuan peppercorn
-**2 tbsp** of canola oil|
+**2 tbsp** of canola oil| |
 
 1. Mix the shredded eggplant with the enoki into a bowl
 2. Add **1/3 tsp** of salt, **1/3 tsp** of sugar and **1/2 tsp** of chicken bouillon
