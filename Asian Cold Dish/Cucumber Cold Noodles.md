@@ -3,7 +3,6 @@
 ## 1. Shopping List
 - [ ] 1 Cucumber
 - [ ] 3 Cloves of garlic
-- [ ] Salt
 - [ ] Peanut butter
 - [ ] Sesame paste
 - [ ] Chinese black vinegar
