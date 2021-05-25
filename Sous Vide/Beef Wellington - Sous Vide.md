@@ -4,7 +4,7 @@
 - [ ] 0.5kg beef tenderloin (centre cut)
 - [ ] 100g of prosciutto
 - [ ] 2 large eggs
-- [ ] 200g of puff pastry
+- [ ] 400g of puff pastry
 - [ ] Butter
 - [ ] 300g of button mushroom
 - [ ] 3 shallots

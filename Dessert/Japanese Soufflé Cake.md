@@ -15,9 +15,9 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **250g** of cream cheese |**60g (4tbsp)** of butter |
-| **1/2 cup** of whole milk | **pinch** of table salt |
-| **60g** of cake flour | **2 tbsp** of corn starch |
-| **1/2** a lemon zest | **6** egg yolks |
+| **1/2 cup** of whole milk | **60g** of cake flour | 
+| **2 tbsp** of corn starch | **1/2** a lemon zest | 
+| **6** egg yolks | |
 
 1. Melt and mix cream cheese and butter using a large bowl in a hot water bath
 2. Add whole milk and mix until batter is consistent
@@ -28,7 +28,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | butter | **6** egg whites |
-| **2 tbsp** of lemon juice | **50g (1/4 cup)** of granulated sugar |
+| **2 tbsp** of lemon juice | **75g (6 tbsp)** of granulated sugar |
 
 1. Preheat oven to 320°F
 2. Coat a springform pan with pan with butter
