@@ -35,6 +35,6 @@
 
 1. Preheat air fryer to 360°F. Coat the basket with a thin layer of canola oil.
 2. Lay the drumsticks out on a baking tray, coat evenly with a the cornstarch and panko crumb mixture
-3. Coat the drumsticks lightly with  oil, and add the to preheated basket. Do not overfill the basket.
+3. Coat the drumsticks lightly with  oil, and add to the preheated basket. Do not overfill the basket.
 4. Fry for 15 minutes, until the internal temperature reaches 165°F. Flip the drumsticks after 10 minutes
 5. Remove from the tray and sprink with a mix of **2 tsp** of table salt and **1 tsp** of five spice powder.
