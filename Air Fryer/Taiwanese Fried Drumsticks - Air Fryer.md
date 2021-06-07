@@ -1,4 +1,4 @@
-# Honey Garlic Chicken Wings - BBQ
+# Taiwanese Fried Drumsticks - Air Fryer
 
 ## 1. Shopping List
 - [ ] 12 drumsticks
