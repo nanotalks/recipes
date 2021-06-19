@@ -89,8 +89,8 @@
 | **1 sprig** of thyme|**2 tbsp** of cornstarch|
 
 1. Strain the sous vide juice through a fine mesh filter, and add the liquids to a pot
-2. Place the pot on a stove over medium high heat, and add **2 tbsp** of olive oil, **1 tbsp** each of Hoisin sauce and honey, and **1 tsp** of Worcestershire sauce and liquid smoke
-3. Add the dried spices and powders, and mix well. Continue stirring the pot until the gravy has reached the desired consistency.
+2. Place the pot on a stove over medium high heat, and add **3tbsp** of cooking wine, **2 tbsp** of olive oil, **1 tbsp** each of Hoisin sauce and honey, and **1 tsp** of Worcestershire sauce and liquid smoke
+3. Add the dried spices and powders, and mix well. Continue stirring the pot until the gravy begins to thicken.
 4. In a separate bowl mix **2 tbsp** of cornstarch with about **1/2 cup** of cold water, and add to the gravy.
 5. Add the leaves from a sprig of thyme to the gravy.
 6. Wen the gravy reaches desired thickness, add remove from the stove, and serve on the side with the wellington.
