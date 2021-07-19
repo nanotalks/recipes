@@ -47,10 +47,10 @@
 |<!-- -->|<!-- -->|
 |---|---|
 **3 cups (12 ladles)** of beef broth|**1 packet** of Vietnamese pho spices
-Salt|Beef meet balls
+Salt|Beef meat balls
 **1/4** of a white onion, sliced|Beef tendon
 **2** stalks of green onion|Slices of beef briskets or ribeye
-Beef tripe|
+Beef tripe||
 
 1. Prepare the broth, and add salt to taste
 2. While boiling, add the packet of spices, and beef meatballs and allow to simmer for 10 minutes in low heat
