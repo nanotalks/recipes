@@ -16,7 +16,7 @@
 2. Cut up the beef flanks into 1 in cubes
 3. Soak the beef flanks in cold water for 30 min. Change the water once half way
 4. Peel and chop the potatoes into 1in cubes
-5. Put the beef flank into the Instant Pot
+5. Place the beef flank into the Instant Pot with enough water to cover the beef flank.
 6. Add **2 tbsp** of Shaoxing cooking wine to the inner pot
 7. Set the Instant Pot to 35min on high pressure
 8. When the timer is reached, release the pressure, add in the potatoes, and seal again. Set timer for 15 more minutes on high pressure

@@ -27,7 +27,7 @@
 |---|---|
 **2** tendons|**1 stalk** of green onion, chopped roughly
 **2 slices** of ginger|**2 tbsp** of light soy sauce
-**2 tbsp** of Shaoxing cooking wine|
+**2 tbsp** of Shaoxing cooking wine||
 
 1. Add beef tendons to pressure cooker
 2. Fill the pressure cooker up with water to cover the tendons
@@ -46,13 +46,13 @@
 ## 3. Broth
 |<!-- -->|<!-- -->|
 |---|---|
-**3 cups (12 ladles)** of beef broth|**1 packet** of Vietnamese pho spices
+**2.5 cups** of beef broth|**1 packet** of Vietnamese pho spices
 Salt|Beef meat balls
-**1/4** of a white onion, sliced|Beef tendon
+**1** white onion, sliced|Beef tendon
 **2** stalks of green onion|Slices of beef briskets or ribeye
 Beef tripe||
 
-1. Prepare the broth, and add salt to taste
+1. Prepare the broth, add another cup of water, and add salt to taste
 2. While boiling, add the packet of spices, and beef meatballs and allow to simmer for 10 minutes in low heat
 3. Add the beef tendons and sliced onions into the broth and simmer another 10 minutes
 4. Soak sliced beef in cold water for about 10 minutes, changing the water once
