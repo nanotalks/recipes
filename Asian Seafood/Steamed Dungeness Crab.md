@@ -4,13 +4,12 @@
 - [ ] 1-3 lb of live dungeness crab
 - [ ] Ginger
 - [ ] Chinese black vinegar
-- [ ] Table salt
 
 ## 2. Steaming
 |<!-- -->|<!-- -->|
 |---|---|
-| **1-3 lb** live dungeness crab | **1 tsp** of table salt |
-| **4 slices** of ginger | **3 tbsp** Chinese black vinegar |
+| **1-3 lb** live dungeness crab **4 slices** of ginger |
+| **3 tbsp** Chinese black vinegar | |
 
 1. *Optional:* If the dungeness is not cooked immediately, fill a sink up with cold water to partially submerge the crab, and mix in about a tsp of salt. Crabs can be kept like this for a few hours, not overnight.
 2. In a large steamer, add about 3 cups of cold water. Add the dungeness crabs into the pot on a steaming rack or trivet before turning the heat to high.
