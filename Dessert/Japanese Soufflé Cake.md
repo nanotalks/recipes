@@ -21,7 +21,7 @@
 
 1. Melt and mix cream cheese and butter using a large bowl in a hot water bath
 2. Add whole milk and mix until batter is consistent
-3. Sift table salt, flour and cornstarch into the batter and mix until consistent
+3. Sift flour and cornstarch into the batter and mix until consistent
 4. Add the lemon zest and egg yolks, and mix
 
 ## 3. Soufflé

@@ -30,7 +30,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **6 tbsp** of panko crumbs | **1 tbsp** of cornstarch |
-| **6 tbsp** cup of canola oil | **2 tsp** of table salt |
+| **6 tbsp** of canola oil | **2 tsp** of table salt |
 | **1 tsp** of five spice powder | |
 
 1. Preheat air fryer to 360°F. Coat the basket with a thin layer of canola oil.
