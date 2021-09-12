@@ -1,4 +1,4 @@
-# Mushroom Tofu Braised in Instant Noodle Soup
+# Mushroom Tofu Braised in Instant Noodle Broth
 
 ## 1. Shopping List
 - [ ] 500g of firm tofu

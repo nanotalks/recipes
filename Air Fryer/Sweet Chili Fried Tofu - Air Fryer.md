@@ -30,7 +30,7 @@
 | **1 tbsp** Thai sweet chili sauce | **1 stalk** of green onion, chopped finely |
 | Dash of cilantro *(Optional)* | Sprinkle of Sesame seeds |
 
-1. In a separate pan, heat up **1 tbsp** of canola oil on high heat
+1. In a separate pan, heat up **1 tbsp** of sesame oil on medium-high heat
 2. Add the tofu into the pan and toss to coat the tofu
 3. Add hoisin sauce and toss
 4. Remove from heat, add chopped green onions, cilantro and sweet chili sauce, and toss
