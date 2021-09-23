@@ -12,11 +12,10 @@
 ## 2. Cake Assembly
 |<!-- -->|<!-- -->|
 |---|---|
-| **5** large egg yolk |**1** large egg|
-**0.25 cup** of granulated sugar|**3 tbsp** of all-purpose flour|
-| **3 cups** of heavy cream| **2 tsp** of vanilla extract| 
-|**1 tsp** of espresso powder or **1/2 shot** of espresso *(Optional)*|
-|**400g** of puff pastry||
+| **5** large egg yolk | **1** large egg |
+| **0.25 cup** of granulated sugar | **3 tbsp** of all-purpose flour |
+| **3 cups** of heavy cream | **2 tsp** of vanilla extract |
+| **1 tsp** of espresso powder or **1/2 shot** of espresso *(Optional)* | **400g** of puff pastry |
 
 1. Beat the egg and sugar together evenly
 2. Add 1/4 cup of cream 3tbsp of flour to the custard, and blend evenly
