@@ -43,3 +43,5 @@
 7. Set the oven to broil, and broil the pork for another 5 minutes.
 8. Remove the pork from the oven, baste one more time, and rest for 5 minutes
 9. To serve, cut the pork into slices, against the grain. Cover in pan drippings
+
+![Final presentation of Char Siu](Images/Char%20Siu%20-%20Overview.jpg)
