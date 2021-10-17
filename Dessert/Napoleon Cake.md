@@ -15,16 +15,15 @@
 | **5** large egg yolk |**1** large egg|
 **0.25 cup** of granulated sugar|**3 tbsp** of all-purpose flour|
 | **3 cups** of heavy cream| **2 tsp** of vanilla extract| 
-|**1 tsp** of espresso powder or **1/2 shot** of espresso *(Optional)*|
-|**400g** of puff pastry||
+|**1 tsp** of espresso powder or **1/2 shot** of espresso *(Optional)*|**400g** of puff pastry|
 
 1. Beat the egg and sugar together evenly
-2. Add 1/4 cup of cream 3tbsp of flour to the custard, and blend evenly
+2. Add **1/4 cup** of cream and **3tbsp** of flour to the custard, and blend evenly
 3. Preheat the oven to 400°F
-4. Bring 2 3/4 cup of cream to a simmer on medium heat in a pan
-5. While mixing, slowly add 1 cup of cream to the batter, avoiding curdling.
+4. Bring **2 3/4 cup** of cream to a simmer on medium heat in a pan
+5. While mixing, slowly add **1 cup** of cream to the batter, avoiding curdling.
 6. Pour the batter back into the remaining cream, and mix evenly.
-7. Remove from heat and add 2 tsp of vanilla and espresso
+7. Remove from heat and add **2 tsp** of vanilla and espresso
 8. Allow the custard to cool. Cover the surface of the custard with a layer of parchment paper, directly touching the custard, so that no skin form on the surface.
 9. On baking sheets, roll out the puff pastry and trim  to the desired cake size
 10. Any unused trimmings can be roll out into a separate sheet and used as garnish.

@@ -22,7 +22,7 @@
 | **100ml** of white wine | Baguette, sliced and toasted |
 
 1. Debeard and clean barnacles from the mussels under running water
-2. Remove the tops fro each red chili, and remove the seeds. Crush into flakes
+2. Remove the tops from each red chili, and remove the seeds. Crush into flakes
 3. Mix the minced garlic, diced onion, lemon zest, minced thyme, ground black pepper and red pepper flakes together
 4. Melt **2 tbsp** of butter in a pan on medium heat.
 5. Add the spice mix, and stir until fragrant. 
