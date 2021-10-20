@@ -4,16 +4,19 @@
 - [ ] Roast drippings and pan fond
 - [ ] 100ml of white wine
 - [ ] Butter
+- [ ] Hoisin sauce
 - [ ] Apple cider vinegar
 - [ ] Corn starch
 - [ ] Chicken bouillon
+- [ ] Granulated sugar
 
 ## 2. Gravy mix
 |<!-- -->|<!-- -->|
 |---|---|
 | Roast drippings and pan fond from roast | **100 ml** of white wine |
 | **1 tbsp** of butter | **1 tbsp** of corn starch |
-| **1 tsp** of apple cider vinegar | **1 tsp** of chicken bouillon |
+| **1/2 tsp** of apple cider vinegar | **1 tsp** of chicken bouillon |
+| **1/2 tsp** of granulated sugar | **1 tsp** of hoisin sauce | 
 
 1. Return the roasting pan to the hot stove, and add a cup of water and **100ml** of white wine
 2. Once the pan fond has lifted, strain the liquids into a small saucepan
