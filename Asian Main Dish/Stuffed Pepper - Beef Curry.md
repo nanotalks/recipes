@@ -1,12 +1,12 @@
 # Stuffed Pepper - Beef Curry
 
 ## 1. Shopping List
-- [ ] 1/2 lbs ground beef
+- [ ] 200g ground beef
 - [ ] 2 squares of Japanese curry roux cubes (60g)
 - [ ] 2 large pepper
 - [ ] 1 small yellow onion
 - [ ] 1 small bowl of cooked rice (leftovers)
-- [ ] 50-100g of cheddar cheese
+- [ ] Cheddar cheese
 - [ ] Table salt
 - [ ] Granulated sugar
 - [ ] Shaoxing cooking wine
@@ -19,13 +19,13 @@
 ## 2. Ground Beef
 |<!-- -->|<!-- -->|
 |---|---|
-**1** small yellow onion, diced|Canola oil
-**1/2 lbs** of ground beef|**2 tbsp** of Shaoxing cooking wine
-**Pinch** of table salt|**Pinch** of granulated sugar
-**Pinch** of white pepper|**Pinch** of black pepper
-**Pinch** of garlic powder|**Pinch** of onion powder
-**1 bowl** of cooked rice|**2 cubes** of Japanese curry roux cube
-Water|Milk, whole or 2%
+| **1** small yellow onion, diced | Canola oil |
+| **200g** of ground beef | **2 tbsp** of Shaoxing cooking wine |
+| **Pinch** of table salt | **Pinch** of granulated sugar |
+| **Pinch** of white pepper | **Pinch** of black pepper |
+| **Pinch** of garlic powder | **Pinch** of onion powder |
+| **1 bowl** of cooked rice | **2 cubes** of Japanese curry roux cube |
+| Water | Milk, whole or 2% |
 
 1. In a pan on medium high heat, heat up some canola oil
 2. Add the diced onions into the pan when heated, and cook until the onions begin to change colours
@@ -40,7 +40,7 @@ Water|Milk, whole or 2%
 ## 3. Pepper Prepper
 |<!-- -->|<!-- -->|
 |---|---|
-**2** large pepper|**50-100g** of cheddar cheese (based on preference)
+| **2** large pepper | **Handful** of cheddar cheese (based on preference) |
 
 1. Carefully cut along the top of each pepper to remove a cap around the stem
 2. Remove the stem, seeds and white membrane like Capsaicin glands from the inside of the pepper
