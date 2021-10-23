@@ -26,5 +26,5 @@
 7. With the leftover fat, and add in the tofu gan, and the peppers
 8. When the tofu gan browns slightly, add the Doubanjiang and meat back into the pan
 9. Still until evenly mixed
-10. Cut the green onino stalks into 3 segments, and then cut length wise into thin strips. 
+10. Cut the green onion stalks into 3 segments, and then cut length wise into thin strips. 
 11. Serve the pork in a plate topped with the green onion.
