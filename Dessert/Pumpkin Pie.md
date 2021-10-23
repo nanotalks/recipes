@@ -27,13 +27,13 @@
 2. When you can easily push a fork into the thickest part of the squash, remove from the steamer. 
 3. Peel the squash skins away, and using a hand blender, puree the squash fruit.
 4. Preheat the oven to 325°F (or 300°F on convection bake)
-5. Continue to mix in **3** large eggs, maple syrup, vanilla extract, honey, evaporated milk, pumpkin spice, and table salt. 
+5. Continue to mix in **3** large eggs, maple syrup, vanilla extract, honey, evaporated milk, pumpkin spice, table salt and flour. 
 6. Fill up the pie crusts with the pumpkin puree
 7. Fill small oven safe bowls with excess pie fillings
 8. Bake the pie, and any excess, for at least 25min.
-9. Once the 25min has passed, check on the pie every 5-10 minutes. Aside from the outer 4in around the crust, the pie will still be wobbly when shaken.
+9. Once the 25min has passed, check on the pie every 5-10 minutes. Once about 1" of the pie filling around the outer edge firms up, the pie can be removed from the oven.
 10. If the edges of the crust is cooking faster than the pie, cover the edges of the pie with aluminum foils to prevent burning, and return to the oven
-11. Serve after cooling for at least 15 minutes, but best when chilled in a fridge overnight. Top with toppings of your preference, such as some whipped cream, ground nutmeg, or pumpkin spice.
+11. Allow the pie to cool for 30 minutes. The centre of the pie filling should firm up over time. The pie is best served when chilled in a fridge overnight. Top with toppings of your preference, such as some whipped cream, ground nutmeg, or pumpkin spice.
 
 ![Final presentation of Pumpkin Pie](Images/Pumpkin%20Pie%20-%20Overview.jpg)
 
