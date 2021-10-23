@@ -2,10 +2,10 @@
 
 ## 1. Shopping List (Serves 8)
 - [ ] 10 apples (by preference, I use gala)
-- [ ] 1 orange *(optional)*
-- [ ] 1 handful of dried cranberries *(optional)*
+- [ ] *(optional)* 1 orange
+- [ ] *(optional)* 1 handful of dried cranberries
 - [ ] 4 sticks of cinnamon (10cm long)
-- [ ] Granulated sugar *(optional)*
+- [ ] *(optional)* Granulated sugar
 - [ ] Allspice
 
 ## 2. Instant Pot Method
