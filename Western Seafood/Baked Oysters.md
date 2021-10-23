@@ -6,7 +6,7 @@
 - [ ] Handful of parmesan cheese
 - [ ] 1 stalk of green onion
 - [ ] Garlic powder
-- [ ] Black pepper
+- [ ] Black peppercorn
 - [ ] Olive oil
 - [ ] White wine
 

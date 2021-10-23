@@ -8,7 +8,7 @@
 - [ ] 1/2 a large yellow onion
 - [ ] 3 cloves of garlic
 - [ ] 1-2 Chinese whole dried red chilis
-- [ ] Ground black pepper
+- [ ] Black peppercorn
 - [ ] Butter
 - [ ] *(optional)* Baguette
 
