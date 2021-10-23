@@ -21,7 +21,7 @@
 4. Add the cinamon sticks and allspice to a spice pouch, and stick in the centre of the pot
 5. Add enough water to the pot until the apples begin to float. The water level should be around the 3L mark
 
-![Instant Pot inner pot should be filled to about the 3L mark](/Dessert/Images/Apple Cider - Instant Pot.jpg)
+![Instant Pot inner pot should be filled to about the 3L mark](/Dessert/Images/Apple%20Cider%20-%20Instant%20Pot.jpg)
 
 6. Set the Instant Pot to manual, 15min and seal
 7. When the Instant Pot timer runs out, allow the pressure to naturally release
