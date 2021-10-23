@@ -38,4 +38,5 @@
 15. Start layering the cake, alternating with a evenly spread layer of whipped cream and crepe.
 16. Chill the cake in a fridge for at least 2 hours before serving, ideally overnight.
 
+![Final presentation of Matcha Mille Crepe Cake](Images/Matcha%20Mille%20Crepe%20Cake%20-%20Overview.jpg)
 [1]: https://github.com/nanotalks/recipes/blob/master/Dessert/Whipped%20Cream.md
