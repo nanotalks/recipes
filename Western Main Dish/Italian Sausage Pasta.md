@@ -26,7 +26,7 @@
 5. Heat up olive oil on medium heat
 6. Stir in the garlic until fragrant, and then add the sausage 
 7. Cook for 6 minutes, until the sausage takes shape and browns
-8. Add in the kale ribbons, a 1/2 tsp of salt and pepper and cook for another 2 minutes
+8. Add in the kale ribbons, a **1/2 tsp** of salt and pepper and cook for another 2 minutes
 8. Reserve **1/2 cup** of the pasta water from the pot, and strain the pasta.
 9. Add pasta immediately to the kale and sausage and stir.
 10. Add the parmesan cheese and **1/4 cup** of the water into the pasta and mix. Remove pasta from heat.

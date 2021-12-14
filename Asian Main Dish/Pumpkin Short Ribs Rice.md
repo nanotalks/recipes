@@ -30,7 +30,7 @@
 2. Strain the ribs, and wash in cold water
 3. In a pan or wok, heat up **2 tbsp** of canola oil on medium heat
 4. Add the green onions and ginger into the pan and sauté until fragrant
-5. Remove the seeds and capsaicin glands from the rwhole dried red pepper, and add to the pan
+5. Remove the seeds and capsaicin glands from the whole dried red pepper, and add to the pan
 6. Add the peppercorn, star anise and bay leaves 
 7. Add the pork ribs into the pan and stir
 8. When the meat beings to brown, add the granulated sugar, cooking wine, light soy sauce and dark soy sauce
