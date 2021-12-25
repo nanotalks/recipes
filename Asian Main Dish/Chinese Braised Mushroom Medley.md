@@ -4,9 +4,9 @@
 - [ ] 1 bag of (10) gluten puffs (Youmianjin)
 - [ ] 150g of button mushroom
 - [ ] 150g of oyster mushroom
-- [ ] 150g of seafood mushroom
 - [ ] 150g of enoki
 - [ ] 50g of dried shitake mushroom
+- [ ] 1 can of straw mushroom
 - [ ] 1 clove of garlic
 - [ ] White pepper powder
 - [ ] Granulated sugar
@@ -22,7 +22,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **50g** of dried shitake mushrooms | **150g** of oyster mushroom |
-| **150g** of button mushroom | **150g** of seafood mushroom |
+| **150g** of button mushroom | **1 can** of straw mushroom |
 | **150g** of enoki | **150g** of shimeji mushroom |
 | **1 tsp** of sweet soy sauce | **4 tsp** of light soy sauce |
 | **1 tbsp** of oyster sauce | **1/2 tsp** of sugar | 
@@ -34,12 +34,13 @@
 3. Squeeze the shitake mushrooms dry. Reserve the water for use later
 4. Trim off hard bottom of shitake mushroom stem
 5. Cut the shitake mushrooms into long strips, about 1/2cm wide
-6. Trim the bottom of the enoki mushroom and the seafood mushroom, and cut the mushrooms in half
+6. Trim the bottom of the enoki mushroom and cut the mushrooms in half
 7. Cut the oyster mushrooms in slices, along the vertical length mushroom.
 8. Quarter each button mushroom
-9. Prepare the braising sauce by mixing together the sweet soy sauce, light soy sauce, oyster sauce, sugar, sesame oil and white pepper
-10. Add **2 tbsp** of the water that the shitake mushrooms were soaking in, into the braising sauce
-11. Crush the gluten puffs by squeezing each puff with one hand, until the collapses. Set puffs aside 
+9. Drain the can of straw mushroom. Halve the larger mushrooms, and leave the smaller mushrooms whole
+10. Prepare the braising sauce by mixing together the sweet soy sauce, light soy sauce, oyster sauce, sugar, sesame oil and white pepper
+11. Add **2 tbsp** of the water that the shitake mushrooms were soaking in, into the braising sauce
+12. Crush the gluten puffs by squeezing each puff with one hand, until the collapses. Set puffs aside 
 
 ## 3. Braising
 |<!-- -->|<!-- -->|
