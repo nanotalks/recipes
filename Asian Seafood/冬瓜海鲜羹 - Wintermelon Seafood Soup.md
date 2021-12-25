@@ -33,8 +33,8 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1.5lb** of wintermelon | **1 cup** of chicken broth |
-| **4 tbsp** of cornstarch | **1/2 tsp** of table salt |
-| **3** egg whites | **dash** of white peppper |
+| **4 tbsp** of cornstarch | **3** egg whites |
+| **1/2 tsp** of table salt | **dash** of white pepper |
 | **1/2 tsp** of granulated sugar | **1/2 tsp** of chicken bouillon |
 | **1 stalk** of green onion | **1 tsp** of sesame oil |
 | **1 tsp** of olive oil | |
@@ -45,9 +45,9 @@
 4. Bring **1L** of water to a boil on high, and add **1 cup** of chicken broth
 5. Once boiling, add the wintermelon and cover for 5min
 6. In a bowl, mix the cornstarch with some water, until fully mixed
-7. When the soup is boiling, scoop the cornstarch slurry into the soup, **1 tablespoon** at a time. Mix inbetween each spoonful
+7. When the soup is boiling, slowly pour the cornstarch slurry into the soup. Keep stirring the spoon while pouring to prevent clumping of the starch.
 8. Once fully combined, add the seafood into the soup as well.
-9. In a bowl, add 1 tbsp of water to the egg white, and beat for a minute until bubbles form
+9. In a bowl, add **1 tbsp** of water to the egg white, and beat for a minute until bubbles form
 10. Once the soup is boiling again, slowly pour the egg white into the soup, stirring frequently to create the wisp effect for the soup
 11. Add salt, sugar, chicken bouillon and white pepper to taste
 12. Add **1 tsp** of olive oil and **1 tsp** of sesame oil each and mix
