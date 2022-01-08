@@ -44,13 +44,13 @@
 ## 4. Garnishing
 |<!-- -->|<!-- -->|
 |---|---|
-| **1 tsp** of cornstarch | **1 tsp** of Sichuan peppercorn |
+| **1 tsp** of cornstarch | **1 tsp** of Sichuan peppercorn, ground |
 | **1 tsp** of sesame oil | **1 tsp** of white sesame seeds|
 
 1. Heat up a small pan on low heat
 2. Mix **1/2 cup** of cold water with **1 tsp** of cornstarch
 3. Add cornstarch to the tofu, and remove from heat when thickened
-4. Add the Sichuan peppercorn into the heated pan and stir frequently for 2 min
+4. Add the ground Sichuan peppercorn into the heated pan and stir frequently for 2 min
 5. When aromatic, remove and add to a mortar and pestle
 6. Grind into a powder, and add to the tofu
 7. Mince the reserved green stems, and add to the tofu

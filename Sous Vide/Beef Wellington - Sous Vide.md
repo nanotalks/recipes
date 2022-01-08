@@ -93,4 +93,4 @@
 3. Add the dried spices and powders, and mix well. Continue stirring the pot until the gravy begins to thicken.
 4. In a separate bowl mix **2 tbsp** of cornstarch with about **1/2 cup** of cold water, and add to the gravy.
 5. Add the leaves from a sprig of thyme to the gravy.
-6. Wen the gravy reaches desired thickness, add remove from the stove, and serve on the side with the wellington.
+6. When the gravy reaches the desired thickness, remove from the stove, and serve on the side with the wellington.
