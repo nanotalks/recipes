@@ -46,7 +46,7 @@
 4. Add half the beef strips into the pan. Briefly stir until beef is evenly spread out on the pan
 5. Sear for 30s without moving. Then stir again vigourously until all strips have been stirred.
 6. Sear for another 30s. Stir again, and place in bowl immediately (the beef will still be red)
-7. Repeat steps 1-4 for the other half of the beef strips
+7. Repeat steps 4-6 for the other half of the beef strips
 8. Add **1 tbsp** of canola oil to the pan
 9. Add the onion and pepper into the pan and stir
 10. When the onions become soft, add the beef back into the pan
