@@ -1,9 +1,9 @@
 # Shrimp Burger - Air Fryer
 
 ## 1. Shopping List (Serves 2)
-- [ ] 225g of shrimp, any size
+- [ ] 200g of shrimp, any size
 - [ ] 2 Burger buns
-- [ ] 1 slice of bread
+- [ ] 2 slice of bread
 - [ ] 1 large egg
 - [ ] 1 stalk of green onion
 - [ ] Mayonnaise
@@ -17,8 +17,8 @@
 ## 2. Patty
 |<!-- -->|<!-- -->|
 |---|---|
-| **225g** of shrimp, peeled and deveined | **1 slice** of bread|
-| **4 tbsp** of mayonnaise | **1 tsp** of dijon mustard|
+| **200g** of shrimp, peeled and deveined | **2 slice** of bread|
+| **2 tbsp** of mayonnaise | **1 tsp** of dijon mustard|
 | **1/2 tsp** of garlic powder| **1/2 tsp** of onion powder |
 | **1/2 tsp** of black peppercorn, freshly grounded | **1/2 tsp** of table salt |
 | **1** large egg | **1 stalk** of green onion |
@@ -39,7 +39,7 @@
 |---|---|
 |**2** burger buns|**2 tbsp** of home made Tartar sauce|
 
-1. Preheat the air fryer on grill mode to 400°F.
+1. Preheat the air fryer on grill mode to 510°F.
 2. Remove the burgers from the fridge, and lay out on the grill. Grill for 3 minutes on one side
 3. Carefully flip the burgers, and grill for another 2 minutes
 4. Place the buns in the air fryer to toast, and grill for another minute.
