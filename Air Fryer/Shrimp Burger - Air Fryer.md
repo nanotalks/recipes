@@ -40,9 +40,9 @@
 |**2** burger buns|**2 tbsp** of home made Tartar sauce|
 
 1. Preheat the air fryer on grill mode to 510°F.
-2. Remove the burgers from the fridge, and lay out on the grill. Grill for 3 minutes on one side
-3. Carefully flip the burgers, and grill for another 2 minutes
-4. Place the buns in the air fryer to toast, and grill for another minute.
+2. Remove the burgers from the fridge, and lay out on the grill. Grill for 4 minutes on one side
+3. Carefully flip the burgers, and grill for another 4 minutes
+4. Remove the burgers, and place the buns in the air fryer to toast, and grill for another minute.
 5. Remove the buns and the burger from the air fryer.
 6. Serve with a slice of American cheese, Filet-o-Fish style, or with some lettuce
 
