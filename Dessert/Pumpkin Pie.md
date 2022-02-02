@@ -10,7 +10,7 @@
 - [ ] All-purpose flour
 - [ ] Pumpkin pie spice*
 - [ ] Table salt
-- [ ] [One 9" pie crust][1]
+- [ ] [One 9" pie crust - prebaked][1]
 
 **Pumpkin pie spice is a mix of ground cinnamon, cloves, allspice and ginger, in a 3:2:2:1 ratio*
 
