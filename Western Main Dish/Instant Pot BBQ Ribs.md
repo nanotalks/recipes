@@ -1,4 +1,4 @@
-# BBQ Ribs
+# Instant Pot BBQ Ribs
 
 ## 1. Shopping List
 - [ ] Full rack of pork ribs (side/spare ribs or St. Louis-style ribs)
@@ -38,7 +38,7 @@
 | **1 tsp** of liquid smoke | **3 tbsp** whiskey |
 | **4 cloves** of crushed garlic | **5 tbsp** ketchup |
 
-1. Mix the ingredients into the inner pot of the InstantPot
+1. Mix the ingredients into the inner pot of the Instant Pot
 2. After resting the ribs for 3 hours, ensure the vent on the InstantPot is sealed, and set the pressure to high for 120min
 3. Allow the InstantPot to naturally release pressure
 4. Carefully remove the ribs from the inner pot, lay flat on a tray with meat side up, and sear with a torch
