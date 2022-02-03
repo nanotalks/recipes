@@ -5,7 +5,7 @@
 - [ ] 2 stalks of green onion
 - [ ] Ginger
 - [ ] Seafood soy sauce
-- [ ] Shaoxin wine
+- [ ] Shaoxing wine
 - [ ] Canola oil
 
 ## 2. Steaming
