@@ -2,7 +2,7 @@
 
 ## 1. Shopping List
 - [ ] Beef broth (canned or pre-prepared)
-- [ ] 2 Beef tendons
+- [ ] 2 beef tendons
 - [ ] Beef meat balls
 - [ ] Beef slices
 - [ ] Beef tripe
