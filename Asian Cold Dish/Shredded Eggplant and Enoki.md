@@ -2,9 +2,9 @@
 
 ## 1. Shopping List
 - [ ] 2 Chinese eggplants
-- [ ] 1 Bunch of enoki
-- [ ] 3 Cloves of garlic
-- [ ] 1 Stalk of green onion
+- [ ] 1 bunch of enoki
+- [ ] 3 cloves of garlic
+- [ ] 1 stalk of green onion
 - [ ] Rice vinegar
 - [ ] Szechuan peppercorn
 - [ ] Red chili flakes
