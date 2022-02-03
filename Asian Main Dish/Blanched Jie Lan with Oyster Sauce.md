@@ -4,9 +4,9 @@
 - [ ] 1 lb jie lan
 - [ ] 2 tbsp of oyster sauce
 - [ ] 5 cloves of garlic
-- [ ] ginger
-- [ ] table salt
-- [ ] granulated sugar
+- [ ] Ginger
+- [ ] Table salt
+- [ ] Granulated sugar
 - [ ] 1/4 tsp of baking soda
 
 ## 2. Garnish
