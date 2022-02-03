@@ -31,7 +31,7 @@
 | **2 tbsp** of lemon juice | **75g (6 tbsp)** of granulated sugar |
 
 1. Preheat oven to 320°F
-2. Coat a springform pan with pan with butter
+2. Coat a springform pan with butter
 3. Add a sheet of parchment paper to the bottom of the pan
 4. Wrap outside of the pan with aluminum foil, to prevent water from getting into the batter
 5. Blend egg white and lemon juice
