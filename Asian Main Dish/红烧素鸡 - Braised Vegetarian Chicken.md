@@ -3,7 +3,7 @@
 ## 1. Shopping List
 - [ ] 250g of vegetarian chicken
 - [ ] Dried wood ear
-- [ ] Dried shitake mushroom
+- [ ] Dried shiitake mushroom
 - [ ] Dried tea tree mushroom
 - [ ] Star anise
 - [ ] Dried bay leaves

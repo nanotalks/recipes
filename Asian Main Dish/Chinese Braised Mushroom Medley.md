@@ -5,7 +5,7 @@
 - [ ] 150g of button mushroom
 - [ ] 150g of oyster mushroom
 - [ ] 150g of enoki
-- [ ] 50g of dried shitake mushroom
+- [ ] 50g of dried shiitake mushroom
 - [ ] 1 can of straw mushroom
 - [ ] 1 clove of garlic
 - [ ] White pepper powder
