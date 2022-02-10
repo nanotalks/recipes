@@ -7,7 +7,7 @@
 - [ ] 6 pieces of dried shiitake mushrooms
 - [ ] 1 small onion
 - [ ] 1 stalk of green onion
-- [ ] 300g of rice flour
+- [ ] 200g of rice flour
 - [ ] Cornstarch
 - [ ] Table salt
 - [ ] Granulated sugar
