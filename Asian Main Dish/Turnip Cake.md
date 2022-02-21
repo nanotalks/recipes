@@ -7,7 +7,7 @@
 - [ ] 6 pieces of dried shiitake mushrooms
 - [ ] 1 small onion
 - [ ] 1 stalk of green onion
-- [ ] 300g of rice flour
+- [ ] 200g of rice flour
 - [ ] Cornstarch
 - [ ] Table salt
 - [ ] Granulated sugar
@@ -20,7 +20,7 @@
 |---|---|
 | **6 pieces** of shiitake mushroom | **1 tbsp** of dried shrimp |
 | **1 link** of Chinese sausage, diced finely | **1** small onion, diced finely |
-| **900g** of Chinese turnip, grated | **300g** of rice flour |
+| **900g** of Chinese turnip, grated | **200g** of rice flour |
 | **2tbsp** of cornstarch | **1/2tsp** of table salt |
 | **1/2tsp** of granulated sugar | **1/2tsp** of chicken bouillon |
 | **1/2tsp** of white pepper powder | **1tbsp** of canola oil |
@@ -37,7 +37,7 @@
 9. Cook the radish on medium-high until the vegetable begins to soften. Then add up to **3 cup** of water used to soak the shiitake mushroom and shrimp. Be careful not to add grit found at the bottom of the bowl into the turnip.
 10. Cook uncovered on medium for another 7 minutes
 11. Strain the radish from the pan. Reserve **2 cups** of liquids in a separate bowl and allow to cool for 10 minutes. If there isn't enough liquid remaining, add cold water.
-12. Mix the **2 cups** of cooled liquid with **300g** of rice flour, **2tbsp** of cornstarch, table salt, sugar, chicken bouillon and white pepper.
+12. Mix the **2 cups** of cooled liquid with **200g** of rice flour, **2tbsp** of cornstarch, table salt, sugar, chicken bouillon and white pepper.
 13. Add the cooked radish and mix until evenly blended
 14. Heat the batter on medium-low heat for 2 minutes, until the batter begins to thicken. Test the batter thickness by parting the batter with a spoon
 15. Heat up a large steamer with enough water to steam for 50 minutes
@@ -52,7 +52,7 @@
 |---|---|
 | **1 tbsp** of canola oil | **1 stalk** of green onion, minced finely |
 
-1. Heat up a frying pan on medium heat with **1 tbsp** of oil
-2. Add the slices turnip cake, about 1.5cm thick each slice, to the pan
-3. Fry each side of the turnip cake for 4 minutes
-4. Serve with minced green onion, and any sauce of your preference (such as chili oil or seafood soy sauce)
+1. Heat up a frying pan on medium-low heat with **1 tbsp** of oil
+2. Add the slices turnip cake, cut into 1.5cm cubes, to the pan
+3. Fry the turnip cake for 4 minutes, flip, and fry for another 4 minutes
+4. Serve with minced green onion, and any sauce of your preference (such as chili oil, vinegar or seafood soy sauce)
