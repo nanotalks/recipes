@@ -8,7 +8,7 @@
 ## 2. Steaming
 |<!-- -->|<!-- -->|
 |---|---|
-| **1-3 lb** live dungeness crab **4 slices** of ginger |
+| **1-3 lb** live dungeness crab | **4 slices** of ginger |
 | **3 tbsp** Chinese black vinegar | |
 
 1. *Optional:* If the dungeness is not cooked immediately, fill a sink up with cold water to partially submerge the crab, and mix in about a tsp of salt. Crabs can be kept like this for a few hours, not overnight.
