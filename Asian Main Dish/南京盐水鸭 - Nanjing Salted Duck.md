@@ -17,7 +17,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1** whole duck (about 2.5kg) | **4 tbsp** of salt |
-| **2 tbsp** of whole Sichuan peppercorn | **2 tbsp** of five spice powder |
+| **2 tbsp** of whole Sichuan peppercorn | **1 tbsp** of five spice powder |
 
 1. Pat duck dry
 2. Heat up a dry pan on low heat for 10 min

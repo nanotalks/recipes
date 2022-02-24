@@ -27,7 +27,7 @@
 |---|---|
 | **4** eggs | **1 cup** of canola oil |
 | **1/2 cup** of applesauce | **1 tsp** of vanilla extract |
-| **150g** of brown sugar | **50g** of granulated sugar
+| **150g** of brown sugar | **50g** of granulated sugar |
 | **312g** of flour | **2 tsp** of baking soda |
 | **1/3 tsp** of table salt | **1/2 tsp** of ground cinnamon |
 | **1 tsp** of ground ginger | **1/4 tsp** of ground nutmeg |
