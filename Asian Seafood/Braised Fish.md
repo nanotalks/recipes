@@ -7,7 +7,7 @@
 - [ ] Light soy sauce
 - [ ] Dark soy sauce
 - [ ] Seafood soy sauce
-- [ ] Shaoxin cooking wine
+- [ ] Shaoxing cooking wine
 - [ ] Doubanjiang (豆瓣酱)
 - [ ] Brown sugar
 - [ ] Canola oil

@@ -3,13 +3,13 @@
 ## 1. Shopping List
 - [ ] 1 Russet potato
 - [ ] 1 stalk of green onion
-- [ ] [Asian-cajun spice][1]
+- [ ] [Asian-Cajun spice][1]
 - [ ] Canola oil
 
 ## 2. Airfry
 |<!-- -->|<!-- -->|
 |---|---|
-| **1** Russet potato, thin slices | **1 tbsp** of honey garlic sauce |
+| **1** Russet potato, thin slices | **1 tbsp** of Asian-Cajun sauce |
 | **1 tsp** of canola oil | **1 stalk** of green onion, finely chopped |
 
 1. Preheat the air fryer on max, to 510°F
