@@ -38,10 +38,9 @@
 ## 3. Chicken roast
 |<!-- -->|<!-- -->|
 |---|---|
-| **3** potatoes | **1/2 tsp** of salt |
-| **3-4 leaves** of dried bayleaf | **1 tsp** of cornstarch |
+| **3** potatoes | **3-4 leaves** of dried bayleaf |
 
-1. Preheat the oven to 400°F
+1. Preheat the oven to 425°F (400°F in a convection oven)
 2. Remove the chicken from the fridge.
 3. Cut the potatoes into slices, about 0.5cm thick 
 4. Add the potatoes and bayleaf to the bottom of the roasting pan
@@ -51,5 +50,5 @@
 8. Once at the desired temperature, broil for 5 min
 9. Take the chicken out of the oven, and let it rest for another 15min
 10. Remove the pan fond, and bring to a boil in a small pot
-11. Mix cornstarch with **0.5 cups** of cold water, and add to the fond to thicken
+11. Boil the fond until thicken
 12. Serve with chicken as a dip
