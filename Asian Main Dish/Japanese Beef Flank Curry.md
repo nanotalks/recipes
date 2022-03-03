@@ -1,7 +1,7 @@
 # Japanese Beef Flank Curry
 
 ## 1. Shopping List
-- [ ] Beef flank
+- [ ] 1kg of beef flank
 - [ ] 2 large Yukon potatoes
 - [ ] 4 Japanese curry roux cubes
 - [ ] Whole milk
@@ -9,7 +9,7 @@
 ## 2. Pressure cooked
 |<!-- -->|<!-- -->|
 |---|---|
-| Beef flank | **2** large Yukon potatoes |
+| **1 kg** of beef flank | **2** large Yukon potatoes |
 | **2 tbsp** of Shaoxing cooking wine ||
 
 1. Unpack the beef flank. Trim any excess silver skin and fat.
