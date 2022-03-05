@@ -39,7 +39,7 @@
 7. Mix a few scoops of meringue into the batter
 8. Fold batter back into the meringue
 9. Place cake in a water bath
-10. Bake for 20min
+10. Bake for 15min
 11. Open the oven door for 5 seconds while adjusting the oven temperature to 265°F
 12. Bake for 45min
 13. Remove the cake pan from the oven and allow to cool for 5 minutes before popping the cake out of the springform.
