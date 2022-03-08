@@ -17,7 +17,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **12** drumsticks | **2 tbsp** of light soy sauce |
-| **1 tbsp** of Shaoxing wine | **2 tsp** of five spice powder |
+| **1 tbsp** of Shaoxing wine | **1 tsp** of five spice powder |
 | **1 tsp** of granulated sugar | **1 tsp** of garlic powder |
 
 1. Pat drumsticks completely dry with a paper towel.
