@@ -7,7 +7,7 @@
 - [ ] 4 sprigs of rosemary
 - [ ] 4 sprigs of thyme
 - [ ] 12 cloves of garlic
-- [ ] 6-8 leaves of dried bayleaf
+- [ ] 6-8 leaves of dried bay leaves
 - [ ] *(optional)* 2-3 stalks of celery
 - [ ] *(optional)* 1-2 sticks of carrots
 - [ ] *(optional)* 1 small clementine
@@ -25,7 +25,7 @@
 | **1** 6lb chicken |**5 tbsp** of table salt |
 | **4 tbsp** of honey | **1 tbsp** of black peppercorn |
 | **6 cloves** of garlic | **2 sprigs** of rosemary |
-| **3-4 leaves** of dried bayleaf | **2 sprigs** of thyme | 
+| **3-4 leaves** of dried bay leaves | **2 sprigs** of thyme | 
 
 1. Pat the chicken dry
 2. In a pot large enough to brine the chicken, heat up **3 cups** of water to a simmer.
@@ -40,7 +40,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **2-3 stalks** of celery | **1 stick** of carrot, halved length wise |
-| **1** onion, cut roughly | **3-4 leaves** of dried bayleaf |
+| **1** onion, cut roughly | **3-4 leaves** of dried bay leaves |
 | **2 sprigs** of rosemary | **2 sprigs** of thyme |
 | **3 cloves** of garlic, whole | **3 cloves** of garlic, minced |
 | **1 tsp** of table salt |  **1 tsp** of black peppercorn, ground |
@@ -49,7 +49,7 @@
 1. Preheat the oven to 350°F
 2. Remove the chicken from the fridge.
 3. Lay out the celery, carrots and onion on the bottom of a roasting pan as a trivet
-4. Add the bayleaf, rosemary, thyme and whole garlic cloves to the bed
+4. Add the bay leaves, rosemary, thyme and whole garlic cloves to the bed
 5. Melt the butter in the microwave, and mix in the salt, ground peppercorn and minced garlic
 6. Cover the chicken with the butter. For a crispy chicken, use a spoon to separate the skin from the chicken breast, and massage butter in between the two layers
 7. Place the chicken over the trivet, breast side up, and add the clementines into the body cavity. Do not tie up the chicken legs

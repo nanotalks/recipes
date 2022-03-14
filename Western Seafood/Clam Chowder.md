@@ -23,7 +23,7 @@
 | **3 tbsp** of flour | **2 cups** of half-and-half |
 | **2 cans** of clams | **1 8oz. bottle** of clam juice |
 | **1** large potato, peeled and diced | **2 cloves** of garlic, minced |
-| **1** dried bay leaf | Table salt |
+| **1 leaf** of dried bay leaf | Table salt |
 | Ground black pepper | Crackers or croutons |
 
 1. In a pan, heat up 4 slices of bacon on medium heat until crispy.
@@ -32,7 +32,7 @@
 4. When the onions have turned translucent, add the flour into the pan slowly and coat evenly
 5. Add the white wine into the pan with the half-and-half
 6. Strain the juice from 2 cans of clam into the pan. Taste for flavour, and adjust with the bottle of clam juice
-7. Add in the diced potato, garlic and bayleafs into the pan, and lower the stove to medium
+7. Add in the diced potato, garlic and bay leaf into the pan, and lower the stove to medium
 8. With the lid on the pot, allow the chowder to boil for 20 minutes, until the potatoes are tender
 9. Before serving, add the clams into the chowder, along with the crushed bacon, and cook for about 2 minutes.
 10. Serve with crackers or croutons.

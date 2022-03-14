@@ -5,7 +5,7 @@
 - [ ] 6lb fresh, air chilled chicken*
 - [ ] *(optional)* 3 large Yukon or Russet potatoes
 - [ ] 6 cloves of garlic
-- [ ] 3-4 leaves of dried bayleaf
+- [ ] 3-4 leaves of dried bay leaves
 - [ ] Dried oregano 
 - [ ] Chili flake
 - [ ] Smoked paprika powder
@@ -38,12 +38,12 @@
 ## 3. Chicken roast
 |<!-- -->|<!-- -->|
 |---|---|
-| **3** potatoes | **3-4 leaves** of dried bayleaf |
+| **3** potatoes | **3-4 leaves** of dried bay leaves |
 
 1. Preheat the oven to 425°F (400°F in a convection oven)
 2. Remove the chicken from the fridge.
 3. Cut the potatoes into slices, about 0.5cm thick 
-4. Add the potatoes and bayleaf to the bottom of the roasting pan
+4. Add the potatoes and bay leaves to the bottom of the roasting pan
 5. Place the chicken over the trivet, skin side down, and roast for 15 min
 6. Flip the chicken around, baste with marinade at the bottom of the pan, and continue to roast until the temperature of the thickest parts of the chicken reads 165°F
 7. Baste the chicken again every 15 min until the desired temperature

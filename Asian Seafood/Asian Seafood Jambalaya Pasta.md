@@ -21,7 +21,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **300 g** of pasta | **1 tsp** of salt | 
-| **300 g** of shrimp, deshelled and deveined | **6 cloves** of garlic |
+| **300 g** of shrimp, deshelled and deveined | **6 cloves** of garlic, minced |
 | **2 tbsp** of Shaoxing cooking wine | **2 tsp** of cornstarch |
 | **6 slices** of bacon, cut into small pieces | **1** onion, cut into slices |
 | **2 tbsp** of Asian-Cajun spice | **2 tsp** of Gochujang |
@@ -33,7 +33,7 @@
 4. *Optional:* If the sauce is not ready yet, rinse the pasta in cold water
 5. Pat the shrimp dry with paper towel
 6. Add the shrimp, **2 tbsp** of Shaoxing cooking wine, and **2 tsp** of cornstarch
-7. Mince garlic, and add to the shrimp. Marinade while cooking the bacon
+7. Add garlic to the shrimp. Marinade while cooking the bacon
 8. Place a dry sauté pan on the stove on medium heat and add the cut bacon into the pan
 6. Stir the bacon until the oil melts and the bacon begins to brown
 7. Strain the oil from the bacon. Reserve **2 tbsp** of the bacon grease

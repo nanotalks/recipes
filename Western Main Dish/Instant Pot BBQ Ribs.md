@@ -3,7 +3,7 @@
 ## 1. Shopping List
 - [ ] Full rack of pork ribs (side/spare ribs or St. Louis-style ribs)
 - [ ] 4 cloves of garlic
-- [ ] 2-3 pieces of dried bayleaf
+- [ ] 2-3 pieces of dried bay leaves
 - [ ] 1 sprig of thyme
 - [ ] Whiskey
 - [ ] Honey
@@ -48,7 +48,7 @@
 |---|---|
 | **1 tbsp** of cornstarch | **1 tbsp** of sweet soy sauce |
 | **1 tbsp** of butter | **1 tsp** of liquid smoke |
-| **2-3 pieces** of dried bayleaf | **1 sprigs** of thyme |
+| **2-3 pieces** of dried bayleaves | **1 sprigs** of thyme |
 
 1. Bring the liquids in the InstantPot to a boil on medium heat
 2. Mix the cornstarch with cold water until disolved, and add to the sauce

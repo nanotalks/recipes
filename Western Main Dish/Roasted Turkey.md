@@ -15,7 +15,7 @@
 - [ ] 3-4 leaves of sage
 - [ ] 6 sprigs of rosemary
 - [ ] 4 sprigs of thyme
-- [ ] 4 leaves of dried bayleaf
+- [ ] 4 leaves of dried bay leaves
 - [ ] 1/4 cup of dried cranberries or dried apricots
 - [ ] 1 slice of loaf bread (ideally stale)
 - [ ] Butter
@@ -54,7 +54,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **3-4 stalks** of celery | **2-3 sticks** of carrot, halved length wise |
-| **3-4** onions, halved | **4 leaves** of dried bayleaf |
+| **3-4** onions, halved | **4 leaves** of dried bay leaves |
 | **6 sprigs** of rosemary | **4 sprigs** of thyme |
 | **1/2 tsp** of nutmeg | **1 tbsp** of lemon zest |
 | **3 cloves** of garlic, whole | **3 cloves** of garlic, minced |
@@ -66,7 +66,7 @@
 3. Preheat the oven to 350°F
 4. Remove the turkey from the fridge.
 5. Lay out the celery, carrots and onion on the bottom of a roasting pan as a trivet
-6. Add the bayleaf, **4 sprigs** of rosemary, **4 sprigs** of thyme and **3 cloves** of whole garlic to the bed
+6. Add the bay leaves, **4 sprigs** of rosemary, **4 sprigs** of thyme and **3 cloves** of whole garlic to the bed
 7. If the turkey came with giblets, add the giblets to the bed as well
 8. Melt the butter in the microwave, and mix in the salt, ground peppercorn, minced garlic and nutmeg
 9. Chop up the rosemary leaves, and zest the lemon. Add the rosemary leaves and **1 tbsp** of lemon zest to the butter

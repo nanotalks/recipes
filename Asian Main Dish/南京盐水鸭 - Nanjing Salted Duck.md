@@ -1,8 +1,8 @@
 # 南京盐水鸭 - Nanjing Salted Duck
 
 ## 1. Shopping List
-- [ ] 1 Duck (about 2.5kg)
-- [ ] 3 Stalks of green onion
+- [ ] 1 young duck (about 2.5kg)
+- [ ] 3 stalks of green onion
 - [ ] Ginger
 - [ ] Shaoxing cooking wine
 - [ ] Sichuan peppercorn
@@ -16,7 +16,7 @@
 ## 2. Dry brining
 |<!-- -->|<!-- -->|
 |---|---|
-| **1** whole duck (about 2.5kg) | **4 tbsp** of salt |
+| **1** whole duck | **4 tbsp** of salt |
 | **2 tbsp** of whole Sichuan peppercorn | **1 tbsp** of five spice powder |
 
 1. Pat duck dry
