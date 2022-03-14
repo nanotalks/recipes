@@ -3,7 +3,7 @@
 ## 1. Shopping List
 - [ ] 1kg of beef flank
 - [ ] 2 large Yukon potatoes
-- [ ] 4 Japanese curry roux cubes
+- [ ] 3 Japanese curry roux cubes
 - [ ] Whole milk
 
 ## 2. Pressure cooked
@@ -24,10 +24,10 @@
 ## 3. Curry Roux
 |<!-- -->|<!-- -->|
 |---|---|
-| **4 cubes** of Japanese curry roux | **1 cup** of milk (whole or 2%) |
+| **3 cubes** of Japanese curry roux | **1 cup** of milk (whole or 2%) |
 
 1. When the timer runs out, release pressure immediately
 2. Empty the contents into a pan
 3. Add **1 cup** of milk and bring everything to a boil on high heat
-4. Add **4 cubes** of Japanese curry and mix
+4. Add **3 cubes** of Japanese curry and mix
 5. Once mixed well, and at the desired consistency, remove from the heat and serve
