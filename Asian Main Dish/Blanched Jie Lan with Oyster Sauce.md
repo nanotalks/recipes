@@ -17,7 +17,7 @@
 
 1. Mince the garlic, and slice the ginger. 
 2. Smash the ginger with the butt of the knife to help extract the ginger flavour
-3. Heat up 3 tablespoons of canola oil on low heat
+3. Heat up **3 tbsp** of canola oil on low heat
 4. Add the ginger and garlic into the pan, and stir until the garlic is golden brown
 5. Remove the garlic and the ginger from the oil. Save the oil for blanching
 
