@@ -2,11 +2,11 @@
 
 ## 1. Shopping List
 - [ ] 4 large eggs
-- [ ] 1.5 cups of chopped pecans
+- [ ] 1.25 cup of chopped pecans
 - [ ] 2-3 large carrots (250g)
 - [ ] 0.5 cups of raisins
 - [ ] 0.5 cups of applesauce
-- [ ] 225g of Philadelphia cream cheese
+- [ ] 100g of Philadelphia cream cheese
 - [ ] Heavy whipping cream
 - [ ] Butter 
 - [ ] 2.5 cups (312g) of all-purpose flour
@@ -54,8 +54,8 @@
 ## 4. Icing and Garnishing
 |<!-- -->|<!-- -->|
 |---|---|
-| **225g** of cream cheese | **100g** of powdered sugar (or granulated) |
-| **1/3 cup** of heavy whipping cream | **1/2 cup** of pecan, chopped |
+| **100g** of cream cheese | **30g** of powdered sugar (or granulated) |
+| **2 tbsp** of heavy whipping cream | **4 tbsp** of pecan, chopped |
 
 1. Let the cream cheese rest at room temperature for 45 minutes
 2. Add the sugar and cream into the cheese, and mix until even
