@@ -16,7 +16,7 @@
 
 1. Bring **4 cups** of water to a boil with **4 tbsp** of sugar
 2. When the water is boiling, and the sugar fully desolved, add the tapioca pearls
-3. Lower the boil to a simmer, and stir frequently for 15-20min, until the tapioca is translucent
+3. Lower the boil to a simmer, and stir frequently for 10-15min, until the tapioca is translucent
 4. Strain the tapioca, and rinse tapioca in sieve with cold water until the tapioca is cool to the touch
 5. Leave the tapioca to strain
 6. Add a can of coconut milk into a saucepan with honey and vanilla extracts, and bring to a simmer
