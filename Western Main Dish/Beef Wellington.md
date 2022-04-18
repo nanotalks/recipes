@@ -2,7 +2,7 @@
 
 ## 1. Shopping List
 - [ ] 0.5kg beef tenderloin (centre cut)
-- [ ] 200g of prosciutto
+- [ ] 100g of prosciutto
 - [ ] 2 large eggs
 - [ ] 400g of puff pastry
 - [ ] Butter
@@ -38,7 +38,7 @@
 |**3** shallot|**1** sprigs of thyme|
 |**5 cloves** of garlic|**300g** of button mushroom|
 |**2 tbsp** of butter|**100mL** of white wine|
-|**200g** of prosciutto||
+|**100g** of prosciutto||
 
 1. Using a food processor, pulse the shallots, mushrooms, 1 sprig of thyme and garlic finely
 2. In the pan, heat up a tablespoon of butter, and add the diced up vegetables
