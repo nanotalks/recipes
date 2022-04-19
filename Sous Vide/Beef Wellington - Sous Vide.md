@@ -83,7 +83,7 @@
 |---|---|
 | **3 tbsp** of Shaoxing cooking wine | **2 tbsp** of olive oil |
 | **1 tbsp** of Hoisin sauce | **1 tbsp** of honey |
-| **1 tsp** of Worcestershire sauce | **1 tsp** of liquid smoke |
+| **1 tsp** of Worcestershire sauce | **2 drops** of liquid smoke |
 | **1 tsp** of garlic powder | **1 tsp** of onion powder |
 | **1 tsp** of granulated sugar | **1tsp** of chicken bouillon powder |
 | **1 sprig** of thyme|**2 tbsp** of cornstarch|
