@@ -1,4 +1,4 @@
-# Clam and tofu soup
+# Clam and Tofu Soup
 
 ## 1. Shopping List
 - [ ] 300g of clams

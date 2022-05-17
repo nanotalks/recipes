@@ -25,7 +25,7 @@
 | **1** lemon, juice of | **1** lime, juice of |
 | **6 cloves** of garlic, minced | **2 tsp** of oregano |
 | **2 tsp** of sugar | **1 tbsp** of black peppercorn, ground |
-| **4 tsp** of salt | **2 tsp** of chili flakes | 
+| **2 tsp** of salt | **2 tsp** of chili flakes | 
 | **2 tsp** of smoked paprika powder | **2 tsp** of cayenne pepper |
 
 1. Pat the chicken dry
