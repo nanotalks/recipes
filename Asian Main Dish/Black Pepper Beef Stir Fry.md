@@ -34,7 +34,7 @@
 ## 3. Stirfry
 |<!-- -->|<!-- -->|
 |---|---|
-| **3 tbsp** of oyster sauce | **1 tsp** of light soy sauce |
+| **1 tbsp** of oyster sauce | **1 tsp** of light soy sauce |
 | **1 tsp** of black peppercorn, ground | **1/3 tsp** of granulated sugar |
 | **1/3 tsp** of table salt | **1 tsp** of cornstarch |
 | **2 tbsp** of canola oil | **1/2** a bell bepper, sliced thinly |
