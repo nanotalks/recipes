@@ -17,7 +17,7 @@
 ## 2. Lobster Frying
 |<!-- -->|<!-- -->|
 |---|---|
-| **1.5-2 lb** live lobster | **4 tbsp** of cooking wine |
+| **1.5-2 lb** live lobster | **2 tbsp** of cooking wine |
 | **2 tbsp** of cornstarch | **4 tbsp** of all-purpose flour |
 | Canola oil | |
 

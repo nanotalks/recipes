@@ -27,9 +27,9 @@
 ## 3. Mixings
 |<!-- -->|<!-- -->|
 |---|---|
-| **1 tbsp** of white vinegar | **1 tbsp** of black vinegar vinegar |
+| **1 tbsp** of white vinegar | **1 tbsp** of black vinegar |
 | **1 tsp** of light soy sauce | **1 tsp** of sesame oil |
-| **2 tsp** of sesame seads | **1 tsp** of red pepper flakes |
+| **2 tsp** of sesame seeds | **1 tsp** of red pepper flakes |
 
 1. Strain the cucumber
 2. Add all the sauce and spicdes into the bowl and mix
