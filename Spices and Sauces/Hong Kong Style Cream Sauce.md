@@ -1,4 +1,4 @@
-# Hong Kong Cream Sauce
+# Hong Kong Style Cream Sauce
 
 ## 1. Shopping List
 - [ ] Butter
