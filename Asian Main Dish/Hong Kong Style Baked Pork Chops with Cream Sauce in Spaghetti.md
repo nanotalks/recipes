@@ -1,4 +1,4 @@
-# Hong Kong Style Baked Pork Chops with Cream Sauce in Spaghetti 
+# Hong Kong Style Baked Pork Chops with Cream Sauce in Spaghetti
 
 ## 1. Shopping List
 - [ ] 4 boneless pork chops, cut 1.5cm thick
@@ -7,7 +7,6 @@
 - [ ] Corn starch
 - [ ] White pepper powder
 - [ ] Table salt
-- [ ] Granulated sugar
 - [ ] Chicken bouillon powder
 - [ ] Shaoxing cooking wine
 - [ ] Light soy sauce
@@ -22,13 +21,12 @@
 | **1 tbps** of Shaoxing cooking wine | **1 tsp** of light soy sauce |
 | **1 tsp** of sesame oil | **1 tsp** of white pepper powder | 
 | **1/2 tsp** of chicken bouillon | **1/3 tsp** of table salt |
-| **1/3 tsp** of granulated sugar | **3 tbsp** of cornstarch | 
-| **2 tbsp** of canola oil | 
+ | **3 tbsp** of cornstarch |  **2 tbsp** of canola oil |
 
 1. Using the back of a meat cleaver, pound each pork chop to tenderize
 2. Beat a large egg
 3. Use **2tsp** of beaten egg for marinade, and reserve the rest for batter
-4. Add cooking wine, white pepper powder, chicken bouillon, salt and sugar into the marinade
+4. Add cooking wine, white pepper powder, chicken bouillon cubes and salt into the marinade
 5. Mix, and rub into the pork chops. Marinade for 20min before cooking
 6. Mix **3tbsp** of cornstarch and **2tbsp** of canola oil with the remaining egg to use as batter for the pork chop
 
