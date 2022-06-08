@@ -46,7 +46,7 @@
 
 1. In a heavy pan, air fryer, or convection oven heated to 400°F, brush a coat of canola oil on the frying surface
 2. Coat the marinaded pork chop in the egg batter evenly
-3. Fry each side of the pork chop for 3 min
+3. Fry each side of the pork chop for 7 min, 14 min total
 4. Preheat the oven to 375°F
 5. Add the spaghetti into an oven save casserole dish
 6. Lay the pork chops on the spaghetti
