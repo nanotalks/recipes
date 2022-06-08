@@ -2,12 +2,14 @@
 
 ## 1. Shopping List
 - [ ] 1-2 medium sized broccoli crowns
-- [ ] 2 tbsp of oyster sauce
 - [ ] 5 cloves of garlic
-- [ ] ginger
-- [ ] table salt
-- [ ] granulated sugar
-- [ ] 1/4 tsp of baking soda
+- [ ] Ginger
+- [ ] Oyster sauce
+- [ ] Light soy sauce
+- [ ] Shaoxing cooking wine
+- [ ] Table salt
+- [ ] Granulated sugar
+- [ ] Baking soda
 
 ## 2. Garnish
 |<!-- -->|<!-- -->|
