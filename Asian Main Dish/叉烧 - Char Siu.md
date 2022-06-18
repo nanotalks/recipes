@@ -17,8 +17,8 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **2lbs** of pork shoulders | **1 tbsp** of garlic powder
-| **2 tsp** of table salt | **1/2 tsp** of five spice powder |
-| **4 tbsp** of brown sugar | **1 cube** of red fermented bean curd |
+| **1 tsp** of table salt | **1/2 tsp** of five spice powder |
+| **5 tbsp** of brown sugar | **1 cube** of red fermented bean curd |
 | **2 tbsp** of oyster sauce | **2 tbsp** of light soy sauce |
 | **2 tbsp** of red wine | **1 tbsp** of Shaoxing cooking wine |
 

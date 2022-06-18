@@ -3,7 +3,7 @@
 ## 1. Shopping List
 - [ ] 3-4 lb of bone-in, skin-on chicken quarters (or a whole chicken)
 - [ ] Ginger
-- [ ] 4 stalks of green onion
+- [ ] 3 stalks of green onion
 - [ ] Shaoxing cooking wine
 - [ ] Canola oil
 - [ ] Sesame oil
@@ -29,8 +29,8 @@
 ## 3. Ginger-Scallion Sauce
 |<!-- -->|<!-- -->|
 |---|---|
-| **5 tbsp** of canola oil | **40 g** of ginger, minced |
-| **4 stalks** of green onions, cut finely| **1 tsp** of table salt |
+| **5 tbsp** of canola oil | **30 g** of ginger, minced |
+| **3 stalks** of green onions, cut finely| **1 tsp** of table salt |
 | **1 tbsp** of sesame oil | |
 
 1. Heat up the canola oil until the surface starts simmering.
