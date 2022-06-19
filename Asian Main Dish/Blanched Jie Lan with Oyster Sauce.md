@@ -2,12 +2,14 @@
 
 ## 1. Shopping List
 - [ ] 1 lb jie lan
-- [ ] 2 tbsp of oyster sauce
 - [ ] 5 cloves of garlic
 - [ ] Ginger
+- [ ] Oyster sauce
+- [ ] Light soy sauce
+- [ ] Shaoxing cooking wine
 - [ ] Table salt
 - [ ] Granulated sugar
-- [ ] 1/4 tsp of baking soda
+- [ ] Baking soda
 
 ## 2. Garnish
 |<!-- -->|<!-- -->|
