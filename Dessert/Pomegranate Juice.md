@@ -23,5 +23,4 @@
 1. Add the seeds of a whole pomegranate (or **1 cup** of seeds) into the blender
 2. Add **1 cup** of cold water
 3. *Optional:* Add **1 tbsp** of honey
-4. Blend until the ice is broken up
-5. Strain the juice from the pulp and seeds, and serve
+4. Blend and strain the juice from the pulp and seeds, and serve
