@@ -31,9 +31,9 @@
 ## 2. Air Fry
 |<!-- -->|<!-- -->|
 |---|---|
-| **6 tbsp** of panko crumbs | **1 tbsp** of cornstarch |
-| **1 tsp** of five spice powder | **1/2 tsp** of table salt |
-| **6 tbsp** of canola oil | |
+| **4 tbsp** of panko crumbs | **2 tsp** of cornstarch |
+| **1/2 tsp** of five spice powder | **1/3 tsp** of table salt |
+| **4 tbsp** of canola oil | |
 
 1. Preheat air fryer to 360°F. Coat the basket with a thin layer of canola oil.
 2. Mix the cornstarch, panko crumbs, salt and five spice powder together
