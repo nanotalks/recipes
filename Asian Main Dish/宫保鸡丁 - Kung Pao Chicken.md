@@ -34,7 +34,7 @@
 ## 3. Stir-fry
 |<!-- -->|<!-- -->|
 |---|---|
-| **1/2 cup** of blanched peanuts | **1** whole red bell pepper |
+| **1/3 cup** of blanched peanuts | **1** whole red bell pepper |
 | **1 tbsp** of light soy sauce | **2 tbsp** of vinegar |
 | **1 tbsp** of Shaoxing cooking wine | **1 tsp** of rock sugar |
 | **1 tsp** of chicken bouillon powder | **1 tsp** of cornstarch |

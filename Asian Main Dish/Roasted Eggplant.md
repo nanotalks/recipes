@@ -19,7 +19,7 @@
 | **3 cloves** of garlic, minced | **1 stalk** of green onion, finely chopped |
 | **1 tsp** of chili flakes | **1/2 tsp** of Szechuan peppercorn, ground |
 | **1/3 tsp** of sugar | **1 tsp** of sesame seeds |
-| **2 tbsp** of hoisin sauce | **t tbsp** of black Chinese vinegar |
+| **2 tbsp** of hoisin sauce | **1 tbsp** of black Chinese vinegar |
 
 1. Preheat the oven to 400°F
 2. Clean and dry the eggplants. Place on a rack
