@@ -19,6 +19,6 @@
 3. Lower the boil to a simmer, and stir frequently for 10-15min. Remove from heat when the tapioca begins to turn translucent, but the solid core is still visible.
 4. Set the pot with the tapioca aside
 5. Add **2 cans** of coconut milk into a separate saucepan with honey and vanilla extracts, and bring to a simmer
-7. Add the tapioca to the saucepan, stir, then remove from heat
-8. Allow sago to chill in fridge before serving (at least 2 hours)
-9. Serve with chopped mangos
+6. Add the tapioca to the saucepan, stir, then remove from heat
+7. Allow sago to chill in fridge before serving (at least 2 hours)
+8. Serve with chopped mangos

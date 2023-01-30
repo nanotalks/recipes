@@ -3,7 +3,6 @@
 ## 1. Shopping List
 - [ ] 2kg of pork back or side ribs
 - [ ] 1 stalk of green onion
-- [ ] Ginger
 - [ ] Dried cardamom
 - [ ] Cinnamon
 - [ ] Star anise
@@ -19,9 +18,10 @@
 ## 2. Braising
 |<!-- -->|<!-- -->|
 |---|---|
-| **4 tbsp** of canola oil | **2** dried red peppers, deseeded |
-| **2 tbsp** of rock sugar, crushed | **3 tbsp** of light soy sauce |
-| **3 tbsp** of dark soy sauce | **3 tbsp** of Shaoxing wine |
+| **2 kg** of pork ribs |**4 tbsp** of canola oil |
+| **2** dried red peppers, deseeded | **2 tbsp** of rock sugar, crushed |
+| **3 tbsp** of light soy sauce | **3 tbsp** of dark soy sauce |
+| **3 tbsp** of Shaoxing wine | **4 slices** of ginger |
 | **4** star anise | **6** dried bay leaves |
 | **2** dried cardamom |  **2 pieces** of cinnamon |
 | **2 tsp** of Szechuan peppercorn | **1 stalk** of green onion, chopped finely |
@@ -39,7 +39,7 @@
 11. Transfer the ribs into the Instant Pot.
 12. Deglaze the wok, and pour the fond into the Instant Pot
 13.Add light soy sauce, dark soy sauce and Shaoxing cooking wine to the pot
-14. Add star anise, bay leaves, cardamom, cinnamon and peppercorn into the pot and stir well
+14. Add ginger, star anise, bay leaves, cardamom, cinnamon and peppercorn into the pot and stir well
 15. Turn on the Instant Pot and set the mode to "Meat", and a timer of 25min
 16. When the timer ends, allow the Instant Pot pressure to naturally release
 17. Pour the contant of the Instant Pot out into a large fryer, and place on high heat to reduce the fond. Stir constantly
