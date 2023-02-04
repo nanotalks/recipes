@@ -40,7 +40,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 |**2 tbsp** of oyster sauce|**2 tsp** of of light soy sauce|
-|**1 tsp** tsp of granulated sugar|**1 tbsp** of Shaoxing cooking wine|
+|**1 tsp** of granulated sugar|**1 tbsp** of Shaoxing cooking wine|
 |**1 tbsp** of sesame oil||
 
 1. Start by mixing the oyster sauce and and soy sauce in a small sauce pan on low-medium heat
