@@ -1,7 +1,7 @@
 # Crispy Pork Belly
 
 ## 1. Shopping List
-- [ ] 1kg  of pork belly*
+- [ ] 1 kg  of pork belly*
 - [ ] Five spice powder
 - [ ] Black peppercorn
 - [ ] White pepper powder
@@ -31,7 +31,7 @@
 8. Gentally score the skin lenght wise across the belly with a knife. Do not cut through the skin. This is to help portion the belly after roasting. 
 9. Flip the pork belly skin side down, and run the knife across the pork lengthwise and widthwise. Score the lines 1-inch appart and about 1/3 the way into the meat 
 10. Mix together the five spice powder, black peppercorn, white pepper, **1 tsp** of table salt and garlic powder, and mix the dry rub into the scored lines
-11. Brush hoisin sauce into the scored lines and the bottom of the pork belly
+11. Brush Hoisin sauce into the scored lines and the bottom of the pork belly
 12. Flip the pork belly around, skin side up, and clean away any spices from the skin
 13. Spread **3 tsp** of table salt evenly over the skin, without mixing with the rest of the pork belly
 14. Allow the salt to sit for 5 minutes before scrapping off. Use paper towel to towel dry and clean the skin.
