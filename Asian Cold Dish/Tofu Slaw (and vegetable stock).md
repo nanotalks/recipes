@@ -44,6 +44,6 @@
 |<!-- -->|<!-- -->|
 |---|---|
 |**1 tbsp** of garlic powder |**1 tbsp** of onion powder |
-|**1 tsp** of white pepper powder |**1 tsp** of chicken bouillon powder |
+|**dash** of white pepper powder |**1 tsp** of chicken bouillon powder |
 
 1. Take the remaining liquid from the pot after boiling the vegetables, add spices, mix, and set aside.
