@@ -3,6 +3,8 @@
 ## 1. Shopping List
 
 - [ ] 6lb fresh, air chilled chicken*
+- [ ] 1 lemon
+- [ ] 1 lime
 - [ ] *(optional)* 3 large Yukon or Russet potatoes
 - [ ] 6 cloves of garlic
 - [ ] 3-4 leaves of dried bay leaves
