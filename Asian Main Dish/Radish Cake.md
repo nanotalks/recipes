@@ -1,9 +1,9 @@
-# Turnip Cake
+# Radish Cake
 
 ## 1. Shopping List
 - [ ] 1 link of Chinese sausage
 - [ ] 1 tbsp of dried shrimps
-- [ ] 900g of Chinese turnip
+- [ ] 900g of Chinese white radish
 - [ ] 6 pieces of dried shiitake mushrooms
 - [ ] 1 small onion
 - [ ] 1 stalk of green onion
@@ -20,7 +20,7 @@
 |---|---|
 | **6 pieces** of shiitake mushroom | **1 tbsp** of dried shrimp |
 | **1 link** of Chinese sausage, diced finely | **1** small onion, diced finely |
-| **900g** of Chinese turnip, grated | **200g** of rice flour |
+| **900g** of white radish, grated | **200g** of rice flour |
 | **2tbsp** of cornstarch | **1/2tsp** of table salt |
 | **1/2tsp** of granulated sugar | **1/2tsp** of chicken bouillon |
 | **1/2tsp** of white pepper powder | **1tbsp** of canola oil |
@@ -34,7 +34,7 @@
 6. Add the diced onion, into the pan and stir-fry for a minute
 7. Add the minced mushroom and dried shrimp into the pan and stir-fry for a minute
 8. Remove from pan, and add the grated radish
-9. Cook the radish on medium-high until the vegetable begins to soften. Then add up to **3 cup** of water used to soak the shiitake mushroom and shrimp. Be careful not to add grit found at the bottom of the bowl into the turnip.
+9. Cook the radish on medium-high until the vegetable begins to soften. Then add up to **3 cup** of water used to soak the shiitake mushroom and shrimp. Be careful not to add grit found at the bottom of the bowl into the radish.
 10. Cook uncovered on medium for another 7 minutes
 11. Strain the radish from the pan. Reserve **2 cups** of liquids in a separate bowl and allow to cool for 10 minutes. If there isn't enough liquid remaining, add cold water.
 12. Mix the **2 cups** of cooled liquid with **200g** of rice flour, **2tbsp** of cornstarch, table salt, sugar, chicken bouillon and white pepper.
@@ -44,7 +44,7 @@
 16. Find a pan or heat resistant bowl that can hold the batter and fit inside the steamer. Coat all walls and bowl bottom with canola oil
 17. Pour the batter into the bowl, and make sure the top of the batter spreads out flat.
 18. Steam for 50 minutes. Test the cake by poking a chopstick through the centre, and making sure no batter sticks to the chopstick
-19. Remove and chill the turnip cake.
+19. Remove and chill the radish cake.
 20. Remove from the bowl, and cut into pieces that can be pan fried before serving
 
 ## 3. Serving
@@ -53,6 +53,6 @@
 | **1 tbsp** of canola oil | **1 stalk** of green onion, minced finely |
 
 1. Heat up a frying pan on medium-low heat with **1 tbsp** of oil
-2. Add the slices turnip cake, cut into 1.5cm cubes, to the pan
-3. Fry the turnip cake for 4 minutes, flip, and fry for another 4 minutes
+2. Add the slices radish cake, cut into 1.5cm cubes, to the pan
+3. Fry the radish cake for 4 minutes, flip, and fry for another 4 minutes
 4. Serve with minced green onion, and any sauce of your preference (such as chili oil, vinegar or seafood soy sauce)
