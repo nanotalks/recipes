@@ -1,6 +1,6 @@
 # Radish Cake
 
-## 1. Shopping List
+## 1. Shopping List(Serves one 9" pie dishful, about 4 servings)
 - [ ] 1 link of Chinese sausage
 - [ ] 1 tbsp of dried shrimps
 - [ ] 900g of Chinese white radish
@@ -41,18 +41,18 @@
 13. Add the cooked radish and mix until evenly blended
 14. Heat the batter on medium-low heat for 2 minutes, until the batter begins to thicken. Test the batter thickness by parting the batter with a spoon
 15. Heat up a large steamer with enough water to steam for 50 minutes
-16. Find a pan or heat resistant bowl that can hold the batter and fit inside the steamer. Coat all walls and bowl bottom with canola oil
-17. Pour the batter into the bowl, and make sure the top of the batter spreads out flat.
+16. Brush canola oil around the edge and bottom of a pie dish
+17. Pour the batter into the dish, and make sure the top of the batter spreads out flat.
 18. Steam for 50 minutes. Test the cake by poking a chopstick through the centre, and making sure no batter sticks to the chopstick
 19. Remove and chill the radish cake.
-20. Remove from the bowl, and cut into pieces that can be pan fried before serving
 
 ## 3. Serving
 |<!-- -->|<!-- -->|
 |---|---|
 | **1 tbsp** of canola oil | **1 stalk** of green onion, minced finely |
 
-1. Heat up a frying pan on medium-low heat with **1 tbsp** of oil
-2. Add the slices radish cake, cut into 1.5cm cubes, to the pan
+1. Cut the radish cake into 0.5cm cubes that can be fried before serving
+2. **Optional (if pan frying)**: Heat up a frying pan on medium-low heat with **1 tbsp** of oil
+3. **Optional (if air frying)**: Brush canola oil over the cubes, covering all sides
 3. Fry the radish cake for 4 minutes, flip, and fry for another 4 minutes
 4. Serve with minced green onion, and any sauce of your preference (such as chili oil, vinegar or seafood soy sauce)
