@@ -34,11 +34,12 @@
 | **2 tsp** of dark soy sauce | **2 tsp** of Shaoxing cooking wine |
 | **1 L** of canola oil |
 
-1. Mix all of the ingredients together. Avoid using excessive force or use stand-mixer to avoid the meat from heating up.
-2. Scoop up one handful of meat, and toss between two hands until it forms a ball shape, slightly smaller than the size of your fist
-3. Set the balls in the fridge for 30min before deep frying to help the balls firm up.
-4. Heat up a pot of oil for deep frying, until air bubbles begin forming around a chopstick when testing the oil temperature
-5. Add the meatballs to the fryer. Fry for about 10 minutes, rotating frequently to brown evenly.
+1. Mix all of the ingredients together. Avoid using excessive force or mixing for too long to avoid the meat from heating up
+2. Form meat balls of desired size. Traditional style lion's head calls for meatballs that can be up to the size of a small fist. Smaller meatball sizes may be easier to cook
+3. Toss the meatball between two hands until it forms a ball shape
+4. Set the balls in the fridge for 30min before frying to help the balls firm up
+5. **If deepfrying:** Deep fry meatballs in batches using canola oil heated to 350°F; 2min - 10min each batch, depending on the size of the meatball
+6. **If airfrying (ideal for smaller meatballs):** Brush canola oil on the meatballs and airfry in batches at 360°F for 6min, flipping midway
 
 ## 3. Blanched Vegetables
 |<!-- -->|<!-- -->|
@@ -49,7 +50,7 @@
 1. Wash the bok choy in a colander and strain dry. Remove any damanged leaves.
 2. Heat up a pot of water until boil. Use a pot large enough to fully submerged all the bok choy
 3. In the boiling pot, add the canola oil, salt and baking soda
-4. Add the bok choy into the pot to blanch for no more than 3 minutes.
+4. Add the bok choy into the pot to blanch for no more than 2 minutes.
 5. Remove from the pot, strain, and set at the bottom of the serving plate
 
 
