@@ -32,11 +32,13 @@
 |---|---|
 | **4 tbsp** of panko crumbs | **2 tsp** of cornstarch |
 | **1/2 tsp** of five spice powder | **1/3 tsp** of table salt |
-| **4 tbsp** of canola oil | |
+| Canola oil | |
 
-1. Preheat air fryer to 360°F. Coat the basket with a thin layer of canola oil.
+1. Preheat air fryer to 360°F.
 2. Mix the cornstarch, panko crumbs, salt and five spice powder together
-3. Evenly coat each drumstick with the dry coating
-4. Mix about **4 tbsp** of canola oil with **2 tbsp** of cold water. Shake or stir until liquid emulsifies
-5. Coat the drumsticks lightly, and add to the preheated air fryer basket. Do not overfill the basket.
-6. Fry for 15 minutes, until the internal temperature reaches 165°F. Flip the drumsticks after 10 minutes
+3. Once preheated, lay the panko crumbs on the bottom of the air fryer pan, and spray with canola oil
+4. Air fry for 3min
+5. Remove the crumbs from the pan, and allow it to cool for a minute.
+6. Evenly coat each drumstick with the dry coating
+7. Add to the preheated air fryer basket. Do not overfill the basket.
+8. Fry for 15 minutes, until the internal temperature reaches 165°F. Flip the drumsticks after 10 minutes

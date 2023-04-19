@@ -33,12 +33,13 @@
 |---|---|
 | **4 tbsp** of panko crumbs | **2 tsp** of cornstarch |
 | **1/2 tsp** of five spice powder | **1/3 tsp** of table salt |
-| **4 tbsp** of canola oil | |
+| Canola oil | |
 
-1. Preheat air fryer to 360°F. Coat the basket with a thin layer of canola oil.
+1. Preheat air fryer to 360°F.
 2. Mix the cornstarch, panko crumbs, salt and five spice powder together
-3. Evenly coat each piece of chicken with the dry coating
-4. Mix about **4 tbsp** of canola oil with **2 tbsp** of cold water. Shake or stir until liquid emulsifies
-5. Coat the chicken lightly, and add to the preheated air fryer basket. Do not overfill the basket.
-6. Flip each piece after 5 minutes.
-6. Fry for another 3 minutes, until both sides are golden. The largest pieces should have an internal temperature above 165°F.
+3. Once preheated, lay the panko crumbs on the bottom of the air fryer pan, and spray with canola oil
+4. Air fry for 3min
+5. Remove the crumbs from the pan, and allow it to cool for a minute.
+6. Coat the chicken lightly, and add to the preheated air fryer basket. Do not overfill the basket.
+7. Flip each piece after 5 minutes.
+8. Fry for another 3 minutes, until both sides are golden. The largest pieces should have an internal temperature above 165°F.
