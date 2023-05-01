@@ -18,7 +18,7 @@
 - [ ] Shaoxing cooking wine
 - [ ] Canola oil
 
-## 2. Fresh Water Braise
+## 2. Blanching
 |<!-- -->|<!-- -->|
 |---|---|
 | **1** whole duck | **1 tsp** of Sichuan peppercorn, ground |
@@ -31,11 +31,9 @@
 4. Add the ground peppercorn, green onions, ginger, star anise and cinnamon
 5. Use kitchen tongs to get a good hold of the duck, submerge the duck fully into the pot, and then lift and drain of liquids
 6. Wait until the water returns to a boil and repeat 2 more times
-7. Finally, submerge the duck and boil for 20 min
-8. Remove the duck and drain
-9. Clean and filter the braising liquid and reserve
+7. Remove the duck and set aside for braising.
 
-## 3. Second Braise
+## 3. Braising
 |<!-- -->|<!-- -->|
 |---|---|
 | **3 tbsp** of canola oil | **50g** of rock sugar |
@@ -52,12 +50,13 @@
 4. Carefully take the duck with kitchen tongs, and press the duck breast first into the melted sugar. **BE CAREFUL OF SPLATTER**
 5. After frying for 30s, rotate the duck onto its back
 6. Repeat and fry the duck on the back and each side for 30s
-7. Set duck aside, and add **1/2 cup** of braising liquid from before **BE CAREFUL OF SPLATTER**
+7. Set duck aside, and add **1/2 cup** of hot water **BE CAREFUL OF SPLATTER**
 8. Add the green onions, ginger slices, star anis, cinnamon, bay leaves,  and cardamom into the pot, and stir until fragrant
 9. Add the light soy sauce, all purpose marinade, Shaoxing cooking wine, oyster sauce, Hoisin suace and remaining rock sugar into the pan
 10. Taste the liquid, and add salt based on preference
-11. Place the duck on its back into the pan and braise for 20 min
-12. Rotate the duck onto its breast and braise for another 20 min
-13. Remove the duck and rest on plate. 
-14. Raise the stove to a high for the braising liquid, and reduce by half
-15. Pour the remaining liquids on the duck and serve
+11. Place the duck into the pan and braise, covered.
+12. Spoon braising liquid over the duck every 5 minutes
+12. Rotate the duck every 15 min
+13. Allow the duck to reach an internal temperature of 145°F, rotate once more, and braise, covered, for a final 10min on high heat. 
+14. Remove the duck, and continue to reduce the braising liquid to half the original amount
+15. Strain the remaining braising sauce, and pour on the duck before serving

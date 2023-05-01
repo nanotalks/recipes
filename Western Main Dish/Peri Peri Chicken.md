@@ -47,8 +47,8 @@
 3. Cut the potatoes into slices, about 0.5cm thick 
 4. Add the potatoes and bay leaves to the bottom of the roasting pan
 5. Place the chicken over the trivet, skin side down, and roast for 15 min
-6. Flip the chicken around, baste with marinade at the bottom of the pan, and continue to roast until the temperature of the thickest parts of the chicken reads 165°F
-7. Baste the chicken again every 15 min until the desired temperature
+6. Flip the chicken around, baste with marinade at the bottom of the pan, and continue to baste the chicken every 15 min
+7. Roast until the temperature of the thickest parts of the chicken reads 145°F.
 8. Once at the desired temperature, broil for 5 min
 9. Take the chicken out of the oven, and let it rest for another 15min
 10. Remove the pan fond, and bring to a boil in a small pot

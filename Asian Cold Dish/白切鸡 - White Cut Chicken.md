@@ -9,7 +9,7 @@
 - [ ] Sesame oil
 - [ ] Table salt
 
-## 2. Poached Chicken
+## 2. Blanched Chicken
 |<!-- -->|<!-- -->|
 |---|---|
 | **3-4 lbs** of chicken | **1 tsp** of table salt |
