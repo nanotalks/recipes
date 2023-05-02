@@ -38,10 +38,12 @@
 2. Preheat the oven to 425°F (or 400°F on a convection oven)
 3. Place the pork on baking racks, sitting over an aluminum lined baking tray.
 4. Carefully pour water into the bottom of the tray to prevent drippings from burning.
-5. Roast the pork for 40min. Baste the leftover marinade onto the pork after 15min and 30min
-6. After 40min of roasting, baste with **2 tbsp** of honey, mixed with **2 tbsp** of water
-7. Set the oven to broil, and broil the pork for another 5 minutes.
-8. Remove the pork from the oven, baste one more time, and rest for 5 minutes
-9. To serve, cut the pork into slices, against the grain. Cover in pan drippings
+5. Roast the pork to an internal temperature of 140°F
+6. Baste and flip the pork over every 15 min of roasting
+7. Prepare a honey basting sauce with **2 tbsp** of honey and **2 tbsp** of hot water
+8. When the pork has reached 140°F, remove and baste in honey water.
+9. Set the oven to broil, and broil the pork for another 5 minutes.
+10. Remove the pork from the oven, baste again with honey water, and rest for 15 minutes
+11. To serve, cut the pork into slices, against the grain. Cover in pan drippings
 
 ![Final presentation of Char Siu](Images/Char%20Siu%20-%20Overview.jpg)
