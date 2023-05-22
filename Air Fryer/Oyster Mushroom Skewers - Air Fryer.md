@@ -2,17 +2,23 @@
 
 ## 1. Shopping List
 - [ ] 1 box of oyster mushroom
-- [ ] [Honey Garlic Sauce][1]
+- [ ] Garlic powder
+- [ ] Onion powder
+- [ ] Cumin powder
+- [ ] Smoked paprika powder
+- [ ] Black peppercorn
+- [ ] Table salt
 
 ## 2. Airfry
 |<!-- -->|<!-- -->|
 |---|---|
-| **1 box** of oyster mushroom, thick cut slices | **1 tbsp** of honey garlic sauce |
+| **1 tbsp** of garlic powder | **1 tbsp** of onion powder |
+| **1 tbsp** of smoked paprika powder | **1 tsp** of table salt |
+| **1 tsp** of black peppercorn, ground | **1 tbsp** of canola oil |
+| **1 box** of oyster mushroom, thick cut slices | **pinch** of cumin powder |
 
 1. Preheat the air fryer on max, to 510°F
-2. Skewer the oyster mushroom through the slices, leaving about 1 cm of space between each slice
-3. Depending on the amount of mushrooms being grilled, mix an appropriate amount of honey garlic sauce.
-4. Bast the skewers with the sauce and add to the grill immediately
-5. Grill for 1 minute and remove.
-
-[1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Honey%20Garlic%20Sauce.md
+2. Mix together the garlic powder, onion powder, paprika powder, table salt, black peppercorn, canola oil and **1 tbsp** of water
+3. Brush the rub on the oyster mushroom
+4. Skewer the oyster mushroom through the slices, leaving about 1 cm of space between each slice
+5. Grill for 1 minute on each side before serving.

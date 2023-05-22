@@ -2,17 +2,24 @@
 
 ## 1. Shopping List
 - [ ] Tofu sheets *(not bean curd sheets)*
-- [ ] [Honey Garlic Sauce][1]
+- [ ] Garlic powder
+- [ ] Onion powder
+- [ ] Cumin powder
+- [ ] Smoked paprika powder
+- [ ] Black peppercorn
+- [ ] Table salt
 
 ## 2. Airfry
 |<!-- -->|<!-- -->|
 |---|---|
-| Tofu sheets, cut into long strips | **1 tbsp** of honey garlic sauce |
+| **1 tbsp** of garlic powder | **1 tbsp** of onion powder |
+| **1 tbsp** of smoked paprika powder | **1 tsp** of table salt |
+| **1 tsp** of black peppercorn, ground | **1 tbsp** of canola oil |
+| Tofu sheets, cut into long strips | **pinch** of cumin powder |
 
 1. Preheat the air fryer on max, to 510°F
-2. Weave the skewer through a strip of tofu sheets a few times to secure the tofu onto the skewer. The weave should fit the whole strip onto the skewer, and the weaves should be spaced in 1 cm intervals
-3. Depending on the amount of tofu strips being grilled, mix an appropriate amount of honey garlic sauce.
-4. Bast the skewers with the sauce and add to the grill immediately
-5. Grill for 1 minute and remove.
-
-[1]: https://github.com/nanotalks/recipes/blob/master/Spices%20and%20Sauces/Honey%20Garlic%20Sauce.md
+2. Mix together the garlic powder, onion powder, paprika powder, table salt, black peppercorn, canola oil and **1 tbsp** of water
+3. Lay the tofu strips flat out on a baking sheet and coat one side lightly with the rub
+4. Sprinkle cumin powder lightly on the strip
+5. Weave the skewer through a strip of tofu sheets a few times to secure the tofu onto the skewer. The weave should be spaced in 1 cm intervals
+6. Grill for 1 minute on each side before serving.
