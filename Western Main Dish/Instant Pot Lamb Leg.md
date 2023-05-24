@@ -34,7 +34,7 @@
 7. Remove the lamb from the heat. Add **2 cups** of hot water to deglaze the pot. If using a separate pot for searing, pour the fond into the inner pot
 8. Add the chicken bouillon into the fond and mix
 9. Add the roast into the inner pot, and seal the Instant Pot.
-10. Set the Instant Pot on High Pressure cook for 75 minutes
+10. Set the Instant Pot on High Pressure cook for 45 minutes
 11. When the timer runs out, release the pressure immediately
 12. Lift the roast, add the chopped carrots, potatoes and onions to the bottom of the pot, and place the roast over the vegetable
 13. Close and seal the Instant Pot. Cook on High Pressure for another 15 minutes
