@@ -22,4 +22,4 @@
 3. Lay the tofu strips flat out on a baking sheet and coat one side lightly with the rub
 4. Sprinkle cumin powder lightly on the strip
 5. Weave the skewer through a strip of tofu sheets a few times to secure the tofu onto the skewer. The weave should be spaced in 1 cm intervals
-6. Grill for 1 minute on each side before serving.
+6. Grill for 1 minute before serving.

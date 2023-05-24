@@ -18,5 +18,5 @@
 4. Preheat the air fryer on high to 500°F
 5. Skewer the beef
 6. When the air fryer has heated up, brush canola oil over the bottom of the grill plate
-7. Air fry the steaks for 5 min
+7. Air fry the steaks for 4.5 min
 8. Allow the skewers to rest for 5 min before serving
