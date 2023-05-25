@@ -20,8 +20,8 @@
 |---|---|
 | **4lbs** of boneless leg of lamb | **4 cloves** of garlic, minced |
 | **1 sprig** of thyme, chopped finely | **1 sprig** of rosemary, chopped finely |
-| **1/2 tsp** of salt | **1 tsp** of black peppercorn, ground |
-| **3 tbsp** of olive oil | **1/2 tsp** of chicken bouillon |
+| **1 tsp** of salt | **1 tsp** of black peppercorn, ground |
+| **3 tbsp** of olive oil | **1 tsp** of chicken bouillon |
 | **2** carrots, large chunks | **2** potatoes, large chunks |
 | **1** onion, quartered | **1 tbsp** of cornstarch |
 
@@ -41,4 +41,4 @@
 14. When the timer runs out, release the pressure immediately, and remove the roast and the vegetables to rest
 15. Strain the fond into a small sauce pan, and bring to a boil
 16. Mix **1 tbsp** of cornstarch with **1 cup** of cold water, and slowly pour into the sauce pan
-17. Remove from heat, and serve roast with gravy
+17. Remove from heat, and serve roast with gravy    
