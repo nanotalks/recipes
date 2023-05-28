@@ -24,8 +24,8 @@
 | **50g** of dried shitake mushrooms | **150g** of oyster mushroom |
 | **150g** of button mushroom | **1 can** of straw mushroom |
 | **150g** of enoki | **150g** of shimeji mushroom |
-| **1 tsp** of sweet soy sauce | **4 tsp** of light soy sauce |
-| **1 tbsp** of oyster sauce | **1/2 tsp** of sugar | 
+| **1 tsp** of sweet soy sauce | **2 tsp** of light soy sauce |
+| **2 tsp** of oyster sauce | **1/2 tsp** of sugar | 
 | **1 tsp** of sesame oil | **dash** of white pepper |
 | **1 bag** of gluten puffs | |
 
