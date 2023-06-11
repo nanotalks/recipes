@@ -1,7 +1,7 @@
 # Steamed Fish
 
 ## 1. Shopping List
-- [ ] 1.5 lb of talipa or bass
+- [ ] 1.5 lb of tilapia or bass
 - [ ] 2 stalks of green onion
 - [ ] Ginger
 - [ ] Seafood soy sauce
@@ -11,7 +11,7 @@
 ## 2. Steaming
 |<!-- -->|<!-- -->|
 |---|---|
-| **1.5 lb** whole talipa or bass | **1 stalk** of green onion |
+| **1.5 lb** whole tilapia or bass | **1 stalk** of green onion |
 | **2** thick slices of ginger | **2 tbsp** of Shaoxing cooking wine |
 
 1. Wash the fish in cold water.
