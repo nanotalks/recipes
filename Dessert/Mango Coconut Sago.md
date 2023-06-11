@@ -2,7 +2,7 @@
 
 ## 1. Shopping List (serves 6)
 - [ ] 2 cans (400mL) of coconut milk
-- [ ] 1/3 cup of tapioca pearls
+- [ ] 1/4 cup of tapioca pearls
 - [ ] Honey
 - [ ] Granulated sugar
 - [ ] 1 ripe mango (or 1 cup of frozen mangoes)
