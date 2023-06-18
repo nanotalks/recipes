@@ -1,4 +1,4 @@
-# Chicken Gizzard Skewers - Air Fryer
+# Pork Belly Slices - Air Fryer
 
 ## 1. Shopping List
 - [ ] Pork belly slices

@@ -21,7 +21,7 @@
 | **1 tbps** of Shaoxing cooking wine | **1 tsp** of light soy sauce |
 | **1 tsp** of sesame oil | **1 tsp** of white pepper powder | 
 | **1/2 tsp** of chicken bouillon | **1/3 tsp** of table salt |
- | **3 tbsp** of cornstarch |  **2 tbsp** of canola oil |
+| **3 tbsp** of cornstarch |  **2 tbsp** of canola oil |
 
 1. Using the back of a meat cleaver, pound each pork chop to tenderize
 2. Beat a large egg

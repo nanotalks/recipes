@@ -38,7 +38,7 @@
 10. Carefully add 1 cup of hot water into the pan.
 11. Transfer the ribs into the Instant Pot.
 12. Deglaze the wok, and pour the fond into the Instant Pot
-13.Add light soy sauce, dark soy sauce and Shaoxing cooking wine to the pot
+13. Add light soy sauce, dark soy sauce and Shaoxing cooking wine to the pot
 14. Add ginger, star anise, bay leaves, cardamom, cinnamon and peppercorn into the pot and stir well
 15. Turn on the Instant Pot and set the mode to "Meat", and a timer of 25min
 16. When the timer ends, allow the Instant Pot pressure to naturally release
