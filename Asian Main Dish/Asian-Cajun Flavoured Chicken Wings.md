@@ -9,7 +9,6 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **5 tbsp** of Asian-Cajun spice | **10 pieces** of chicken wings |
-| **1 tbps** Canola oil | |
 
 1. Mix spice in water until a thick consistency
 2. Toss chicken wings into the mix and coat evenly
