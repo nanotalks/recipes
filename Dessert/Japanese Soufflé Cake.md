@@ -39,7 +39,7 @@
 8. Hand mix until fully incorporated. Scoop the bottom of the mixing bowl to ensure the batter is fully mixed.
 9. Pour the batter into the pan.
 10. Use a chopstick to stir the batter in the pan gently to help release any air bubbles. Gently tap the pan against the counter helps as well.
-11. Add the baking pan into a high edge baking sheet, and pour 1-2 cm of boiling water into the baking sheet
+11. Add the baking pan into a high edge baking sheet, and pour boiling water around the pan filing up the baking sheet with 1cm of water
 10. Bake for 15min
 11. Open the oven door for 5 seconds while adjusting the oven temperature to 265°F
 12. Bake for 45min. Open the oven door every 15min for 5 seconds

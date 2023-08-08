@@ -43,7 +43,7 @@
 | **1** onion, cut roughly | **3-4 leaves** of dried bay leaves |
 | **2 sprigs** of rosemary | **2 sprigs** of thyme |
 | **3 cloves** of garlic, whole | **3 cloves** of garlic, minced |
-| **1 tsp** of table salt |  **1 tsp** of black peppercorn, ground |
+| **1/3 tsp** of table salt |  **1 tsp** of black peppercorn, ground |
 | **4 tbsp** of butter | **1** Clementine, quartered |
 
 1. Preheat the oven to 350°F
@@ -54,7 +54,7 @@
 6. Cover the chicken with the butter. For a crispy chicken, use a spoon to separate the skin from the chicken breast, and massage butter in between the two layers
 7. Place the chicken over the trivet, breast side up, and add the clementines into the body cavity. Do not tie up the chicken legs
 8. Create aluminum foil wing covers to protect the wings from burning
-9. Place the chicken on the bottom rack of the oven. Roast for about  45min, until the temperature of the thickest parts of the chicken reads 165°F
+9. Place the chicken on the bottom rack of the oven. Roast for about  60min, until the temperature of the thickest parts of the chicken reads 175°F
 10. Take a turkey baster, and baste the chicken every 20 minutes
 11. Take the chicken out of the oven, and let it rest for another 15min
 12. Reserve the roast drippings and pan fond for a [gravy][1].
