@@ -10,7 +10,7 @@
 - [ ] Table salt
 - [ ] Granulated sugar
 
-## 2. Pancake batter
+## 2. Waffle batter
 |<!-- -->|<!-- -->|
 |---|---|
 | **200g** of all-purpose flour | **pinch** of table salt |
@@ -25,3 +25,8 @@
 5. Beat the egg white until stiff peaks
 6. Fold the rest of the batter into the egg whites
 7. Pour batter into the preheated iron, and follow manufacturer's instructions
+8. If cooking in bulk, place the excess waffles on a baking sheet and chill in freezer for 30min before placing in freezer safe container
+
+## 2. Serve
+1. If using frozen waffles, defrost in fridge overnight before serving
+2. Place waffles in a toaster, and toast to medium
