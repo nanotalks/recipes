@@ -36,6 +36,6 @@
 
 1. Coat a cake pan with butter
 2. Pour the cake batter into the pan
-3. Place the pan in the oven and bake for 40 minutes
+3. Place the pan in the oven and bake for 45 minutes
 4. Test by sticking a toothpick into the cake, and testing if anything sticks to the toothpick when removed
 5. Take out of the oven when the toothpick comes out clean
