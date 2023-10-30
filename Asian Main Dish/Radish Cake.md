@@ -38,6 +38,7 @@
 10. Cook uncovered on medium for another 7 minutes
 11. Strain the radish from the pan. Reserve **2 cups** of liquids in a separate bowl and allow to cool for 10 minutes. If there isn't enough liquid remaining, add cold water.
 12. Mix the **2 cups** of cooled liquid with **200g** of rice flour, **2tbsp** of cornstarch, table salt, sugar, chicken bouillon and white pepper.
+13. Add minced mushrooms, shrimp and onion to the batter and mix
 13. Add the cooked radish and mix until evenly blended
 14. Heat the batter on medium-low heat for 2 minutes, until the batter begins to thicken. Test the batter thickness by parting the batter with a spoon
 15. Heat up a large steamer with enough water to steam for 50 minutes
