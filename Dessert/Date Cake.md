@@ -15,7 +15,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1 cup** of dates | **1tsp** of baking soda  |
-| **113g** of butter | **100g** of brown sugar |
+| **113g** of butter | **50g** of brown sugar |
 | **2** eggs | **1 tsp** of vanilla extract |
 | **180g** of flour | **pinch** of table salt |
 | **1tsp** of baking powder | |
