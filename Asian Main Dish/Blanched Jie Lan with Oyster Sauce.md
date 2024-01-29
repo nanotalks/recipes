@@ -14,8 +14,8 @@
 ## 2. Garnish
 |<!-- -->|<!-- -->|
 |---|---|
-|**5 cloves** of garlic|**3 thick slices** of ginger|
-|**3 tbsp** of canola oil||
+| **5 cloves** of garlic | **3 thick slices** of ginger |
+| **3 tbsp** of canola oil |  |
 
 1. Mince the garlic, and slice the ginger. 
 2. Smash the ginger with the butt of the knife to help extract the ginger flavour
@@ -26,8 +26,8 @@
 ## 3. Blanched Vegetable
 |<!-- -->|<!-- -->|
 |---|---|
-|**1 lb** of jie lan|**1 tsp** of table salt|
-|**1/4 tsp** of baking soda|Reserved oil from garnish|
+| **1 lb** of jie lan | **1 tsp** of table salt |
+| **1/4 tsp** of baking soda | Reserved oil from garnish |
 
 1. Use a peeler to remove any tough parts of the jie lan stem
 2. Heat up a pot of water until boil. Use a pot large enough to fit the entire jie lan flat and fully submerged
@@ -39,9 +39,9 @@
 ## 4. Sauce
 |<!-- -->|<!-- -->|
 |---|---|
-|**2 tbsp** of oyster sauce|**2 tsp** of of light soy sauce|
-|**1 tsp** of granulated sugar|**1 tbsp** of Shaoxing cooking wine|
-|**1 tbsp** of sesame oil||
+| **2 tbsp** of oyster sauce | **2 tsp** of light soy sauce |
+| **1 tsp** of granulated sugar | **1 tbsp** of Shaoxing cooking wine |
+| **1 tbsp** of sesame oil ||
 
 1. Start by mixing the oyster sauce and and soy sauce in a small sauce pan on low-medium heat
 2. As the sauce begins to boil, add the sugar in mix until dissolved
