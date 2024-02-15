@@ -2,7 +2,7 @@
 
 ## 1. Shopping List
 - [ ] 1/2 lbs of boneless, skinless chicken thighs
-- [ ] 1/2 cup of blanched, plain peanuts
+- [ ] 1/3 cup of blanched, plain peanuts
 - [ ] 1 red bell pepper
 - [ ] 1/2 a yellow onion
 - [ ] 1 stalk of green onion

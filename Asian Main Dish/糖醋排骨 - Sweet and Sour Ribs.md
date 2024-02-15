@@ -27,8 +27,8 @@
 5. Crush the rock sugar into a powder consistency, and add into the wok
 6. Stir constantly, until the sugar has melted
 7. Add the ribs into the wok and stir. Make sure the oil evenly coats the ribs and BE CAREFUL OF SPLATTER.
-8. Carefully add 1 cup of hot water into the pan.
-9.Add light soy sauce, dark soy sauce, black vinegar and Shaoxing cooking wine to the wok
+8. Carefully add **1 cup** of hot water into the pan. 
+9. Add light soy sauce, dark soy sauce, black vinegar and Shaoxing cooking wine to the wok
 10. Add ginger and stir well
 11. Cover, reduce the stove to a low, and allow the ribs to simmer for 10 min.
 12. After 10 minutes, observe if the wok has dried up. Add another cup of water if necessary, and stir. Then cover and simmer for another 10 minutes.

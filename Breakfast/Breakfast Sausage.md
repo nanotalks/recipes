@@ -29,5 +29,5 @@
 3. Divide the pork into 4 balls
 4. Heat up a skillet on medium heat
 5. Once hot, Place the balls into the skillet and press flat until about 1cm thick
-6. Sauté for 2 min on each side, until browned
+6. Sear for 2 min on each side, until browned
 7. Serve with eggs or as part of a breakfast sandwich.
