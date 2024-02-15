@@ -39,7 +39,7 @@
 | **1 tbsp** of Shaoxing cooking wine | **1 tsp** of rock sugar |
 | **1 tsp** of chicken bouillon powder | **1 tsp** of cornstarch |
 | **1 tbsp** of canola oil | **1/2** a yellow onion, diced |
-| **1 stalk** of green onion, diced | **2 slices** of ginger |
+| **1 stalk** of green onion, chopped finely | **2 slices** of ginger |
 | **1 tsp** of red chili flakes | **1 tsp** of  Sichuan peppercorn |
 | **4 cloves** of garlic, minced | |
 
