@@ -5,15 +5,15 @@
 - [ ] Butter
 - [ ] All-purpose flour
 - [ ] Chicken bouillon 
-- [ ] Black pepper powder 
+- [ ] White pepper powder 
 - [ ] Light soy sauce
 
 ## 2. Gravy mix
 |<!-- -->|<!-- -->|
 |---|---|
 | **1 tbsp** of butter | **2 tbsp** of all-purpose flour |
-| **1/2 cup** of coffee cream | **2 tsp** of chicken bouillon |
-| **1 tsp** of light soy sauce | **1 tsp** of black pepper powder | 
+| **1/2 cup** of coffee cream | **1 tsp** of chicken bouillon |
+| **1 tsp** of light soy sauce | **1 tsp** of white pepper powder | 
 
 1. *Optional:* If roasting poutry, add **1/2 cup** of water to the roasting pan, and simmer until pan fond lifts
 2. *Optional:* Allow it the pan fond to cool and remove excess poutry fat
