@@ -21,7 +21,7 @@
 - [ ] White pepper powder
 - [ ] Canola oil
 
-**(look "kong moon" or "jiangmen" on the label)*
+**(look for "kong moon" or "jiangmen" on the label)*
 
 ## 2. Preparation
 |<!-- -->|<!-- -->|
@@ -42,8 +42,8 @@
 ## 3. Vermicelli Sauce
 |<!-- -->|<!-- -->|
 |---|---|
-| **1 tsp** of white pepper | **4 tsp** of fish sauce |
-| **4 tsp** of oyster sauce | |
+| **1 tsp** of white pepper | **2 tsp** of fish sauce |
+| **3 tsp** of oyster sauce | |
 
 1. Mix ingredients together and set aside
 
@@ -69,7 +69,7 @@
 11. Add porkloin into the pan, and stir fry until the pork change colour on all sides.
 12. Remove the porkloin from the pan, and add the onions, pepper and snow peas or bean sprout into the pan
 13. Stir fry the vegetables until the onions are fragrant.
-14. Add a **1/2 cup** of hot water to help deglaze the pan
+14. Add a **1/2 cup** of hot water slowly, until the pan is deglazed
 15. Add the sauce into the pan
 16. Add the eggs, shrimp and porkloin back into the pan
 17. Strain the noodle, and add into the pan
