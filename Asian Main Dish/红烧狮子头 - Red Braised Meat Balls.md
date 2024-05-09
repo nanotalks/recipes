@@ -32,7 +32,7 @@
 | **Dash** of white pepper | **Dash** of five spice powder |
 | **1 tsp** of corn starch | **2 tsp** of light soy sauce |
 | **2 tsp** of dark soy sauce | **2 tsp** of Shaoxing cooking wine |
-| **1 L** of canola oil |
+| **1 L** of canola oil | |
 
 1. Mix all of the ingredients together. Avoid using excessive force or mixing for too long to avoid the meat from heating up
 2. Form meat balls of desired size. Traditional style lion's head calls for meatballs that can be up to the size of a small fist. Smaller meatball sizes may be easier to cook

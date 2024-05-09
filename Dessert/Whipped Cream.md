@@ -13,4 +13,4 @@
 | **1 tsp** of vanilla extract| **1 shot** of rum *(Optional)*|
 
 1. Chill the bowl and whisk in freezer for 30minutes
-2. Mix ingredients together and whisk for 1 minute, until stiff peaks
+2. Mix ingredients together and whisk until stiff peaks

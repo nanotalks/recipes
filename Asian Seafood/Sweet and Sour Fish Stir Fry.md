@@ -20,7 +20,7 @@
 | **500g** of fish filet, cubed | **4 tsp** of cornstarch |
 | **2 tbsp** of Shaoxing cooking wine | **1/2 tsp** of white pepper |
 
-1. Roughly cut the shrimps and fish filet into chunks, about 0.5cm cubes
+1. Roughly cut the fish filet into chunks, about 0.5cm cubes
 2. Cut the imitation crab meat sticks lengthwise into chunks about 1cm long, and set aside
 3. Place the shrimp and fish in a bowl and add the cornstarch, cooking wine and pepper
 4. Allow the shrimp and fish to marinade while the soup is preparing

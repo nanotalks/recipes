@@ -19,7 +19,7 @@
 | **1kg** of pork belly | **1/2 tsp** of five spice powder |
 | **1/2 tsp** of black peppercorn, ground | **1/2 tsp** of white pepper powder |
 | **4 tsp** of table salt | **1 tsp** of garlic powder |
-| **1 tbsp** of  Hoisin sauce  | **1 tbsp** of rice cider vinegar |
+| **1 tbsp** of  Hoisin sauce  | **1 tbsp** of rice vinegar |
 
 1. Scrape the flat side of a knife across the pork belly skin to remove any debris (i.e. hair)
 2. Bring **2 cups** of water to a boil in a pot big enough to fit the pork belly, and keep the stove on high
@@ -30,8 +30,8 @@
 8. Use a few toothpicks or meat tenderizer, poke holes into the skin. Push the prongs about 1-2mm into the skin, without fully penetrating.
 8. Gentally score the skin lenght wise across the belly with a knife. Do not cut through the skin. This is to help portion the belly after roasting. 
 9. Flip the pork belly skin side down, and run the knife across the pork lengthwise and widthwise. Score the lines 1-inch appart and about 1/3 the way into the meat 
-10. Mix together the five spice powder, black peppercorn, white pepper, **1 tsp** of table salt and garlic powder, and mix the dry rub into the scored lines
-11. Brush Hoisin sauce into the scored lines and the bottom of the pork belly
+10. Brush Hoisin sauce into the scored lines and the bottom of the pork belly
+11. Mix together the five spice powder, black peppercorn, white pepper, **1 tsp** of table salt and garlic powder, and mix the dry rub into the scored lines
 12. Flip the pork belly around, skin side up, and clean away any spices from the skin
 13. Spread **3 tsp** of table salt evenly over the skin, without mixing with the rest of the pork belly
 14. Allow the salt to sit for 5 minutes before scrapping off. Use paper towel to towel dry and clean the skin.

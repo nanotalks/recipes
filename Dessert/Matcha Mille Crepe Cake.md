@@ -1,7 +1,7 @@
 # Matcha Mille Crepe Cake
 
 ## 1. Shopping List (Makes one 10" cake)
-- [ ] 6 cups of [whipped cream][1]
+- [ ] 8 cups of [whipped cream][1]
 - [ ] 600mL of whole milk
 - [ ] 40g of Butter
 - [ ] 5 large eggs
@@ -16,10 +16,10 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **600mL** of whole milk | **3** large eggs, whole|
-| **2** large egg yolk | **200g** of cake flour | 
-| **2tsp** of baking powder | **40g** of butter |
+| **2** large egg yolk | **40g** of butter | 
+| **2tsp** of baking powder | **200g** of cake flour |
 | **4tbsp** of sugar | **2tbsp** of matcha powder |
-| Canola oil | **6 cups** of whipped cream |
+| Canola oil | **8 cups** of whipped cream |
 
 1. Warm up milk in a pot, without boiling
 2. Whisk the eggs and egg yolks in a large mixing bowl
