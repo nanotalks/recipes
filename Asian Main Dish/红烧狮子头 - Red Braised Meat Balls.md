@@ -4,7 +4,7 @@
 - [ ] 1kg of ground pork (900g of pork shoulders, 100g of pork belly without the skin, medium ground size)
 - [ ] 1 large egg
 - [ ] 1 lb Shanghai bok choy
-- [ ] 2 stalks of green onion
+- [ ] 3 stalks of green onion
 - [ ] Ginger
 - [ ] 250g of water chestnuts
 - [ ] Star anise
@@ -38,7 +38,7 @@
 2. Form meat balls of desired size. Traditional style lion's head calls for meatballs that can be up to the size of a small fist. Smaller meatball sizes may be easier to cook
 3. Toss the meatball between two hands until it forms a ball shape
 4. Set the balls in the fridge for 30min before frying to help the balls firm up
-5. **If deepfrying:** Deep fry meatballs in batches using canola oil heated to 350°F; 2min - 10min each batch, depending on the size of the meatball
+5. **If deepfrying:** Deep fry meatballs in batches using canola oil heated to 350°F; 2min each batch, until the meatball can hold its shape
 6. **If airfrying (ideal for smaller meatballs):** Brush canola oil on the meatballs and airfry in batches at 360°F for 6min, flipping midway
 
 ## 3. Blanched Vegetables
