@@ -19,7 +19,7 @@
 | **1 tsp** of vanilla extract| **1.25 cups** of whole milk |
 
 1. Preheat the waffle iron. Brush some butter onto both sides of the iron plate.
-2. Mix the dry ingredients (all purpose flower, table salt, sugar and baking powder) together in a large bowl
+2. Mix the dry ingredients (all purpose flour, table salt, sugar and baking powder) together in a large bowl
 3. Mix the egg yolk with the wet ingredients (melted butter, whole milk and vanilla extract)
 4. Once well mixed, add the wet ingredients into the dry ingredients.
 5. Beat the egg white until stiff peaks
