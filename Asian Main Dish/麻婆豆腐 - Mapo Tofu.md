@@ -29,7 +29,7 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **2 stalks** of green onion | **500g** of firm tofu, cubed |
-| **2 tbsp** of canola oil | **2 tbsp** of Doubanjiang |
+| **2 tbsp** of canola oil | **1 tbsp** of Doubanjiang |
 | **1/3 tsp** of five-spice powder | **1 tsp** of chicken bouillon |
 | **2 tsp** of chili oil | **1/2 tsp** of sugar |
 

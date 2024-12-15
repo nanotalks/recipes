@@ -5,7 +5,7 @@
 - [ ] 100g of shrimps, peeled and deveined
 - [ ] 5 sticks of imitation crab meat (~125g)
 - [ ] 3 large eggs
-- [ ] 1.5lb of wintermelon
+- [ ] 700g of wintermelon
 - [ ] 1 stalk of green onion
 - [ ] Cornstarch
 - [ ] Table salt

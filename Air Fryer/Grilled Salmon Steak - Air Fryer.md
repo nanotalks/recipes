@@ -22,6 +22,6 @@
 5. Heat up air fryer grill to 510°F
 6. Lay the salmon steak skin side up on the grill to produce grill marks on the salmon.
 7. Ground some black peppercorn onto the salmon steak
-8. Keep the salmon on the grill for 5 minutes, or until the salmon skin crispens
+8. Keep the salmon on the grill for 5-10 minutes, until the internal temperature of the thickest part reaches 145°F
 9. In a small frying pan, heat up 1 tbsp of butter, and add the minced garlic to fry until crispy
 10. Plate the salmon, and spoon hot butter and crispy garlic onto it before serving.
