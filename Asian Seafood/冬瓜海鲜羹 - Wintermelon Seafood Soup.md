@@ -45,7 +45,7 @@
 4. Bring **1L** of water to a boil on high, and add **1 cup** of chicken broth
 5. Once boiling, add the wintermelon and cover for 5min
 6. In a bowl, mix the cornstarch with some water, until fully mixed
-7. When the soup is boiling, slowly pour the cornstarch slurry into the soup. Keep stirring the spoon while pouring to prevent clumping of the starch.
+7. After 5 min, slowly pour the cornstarch slurry into the soup. Keep stirring the spoon while pouring to prevent clumping of the starch.
 8. Once fully combined, add the seafood into the soup as well.
 9. In a bowl, add **1 tbsp** of water to the egg white, and beat for a minute until bubbles form
 10. Once the soup is boiling again, slowly pour the egg white into the soup, stirring frequently to create the wisp effect for the soup
