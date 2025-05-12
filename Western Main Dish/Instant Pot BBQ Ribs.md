@@ -28,7 +28,7 @@
 2. Remove silver skin (thin membrane) from the back of the rib (use a butter knife to start)
 3. Apply a thin even layer of mustard to both sides of the ribs, to help the dry rub stick better to the ribs
 4. Generously apply the dry rub to both sides of the rib
-5. Rest the ribs in the InstantPot inner pot for 3 hours
+5. Rest the ribs in the fridge, uncovered, overnight
 
 ## 3. Pressure cook
 |<!-- -->|<!-- -->|

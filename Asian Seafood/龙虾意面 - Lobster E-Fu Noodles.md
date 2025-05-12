@@ -36,7 +36,7 @@
 |---|---|
 | **1 disk** of e-noodle | **2 tbsp** of canola oil |
 | **4 large slices** of ginger | **1/2 tsp** of white pepper |
-| **1/2 tsp** of granulated sugar | **2 tbsp** of oyster sauce | 
+| **1/2 tsp** of granulated sugar | **4 tsp** of oyster sauce | 
 | **1 tbsp** of sesame oil | **2 stalks** of green onion, chopped |
 
 1. Bring a pot of water to boil
