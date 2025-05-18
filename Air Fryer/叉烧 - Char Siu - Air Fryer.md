@@ -38,6 +38,6 @@
 6. Prepare a honey basting sauce with **3 tbsp** of honey and **1 tbsp** of hot water
 7. Flip and baste the pork in honey water.
 8. Air fry for another 6mins.
-9. When the pork has reached 140°F, remove and place in the remaining honey water.
+9. When the pork has reached 145°F, remove and place in the remaining honey water.
 10. Allow the meat to rest for 10 minutes
 11. To serve, cut the pork into slices, against the grain.
