@@ -11,7 +11,7 @@
 - [ ] Table salt
 - [ ] Black peppercorn
 
-## 2. Gravy mix
+## 2. Saucy
 |<!-- -->|<!-- -->|
 |---|---|
 | **3 tbsp** of olive oil | **3 cloves** of garlic, minced |
