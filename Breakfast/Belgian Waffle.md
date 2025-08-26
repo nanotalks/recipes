@@ -15,7 +15,7 @@
 |---|---|
 | **200g** of all-purpose flour | **pinch** of table salt |
 | **1 tbsp (12g)** of granulated sugar | **1 tbsp (24g)** of baking powder | 
-| **2** large eggs, separated | **1/3 cup** butter, melted |
+| **2** large eggs, separated | **1/3 cup (76 g)** butter, melted |
 | **1 tsp** of vanilla extract| **1.25 cups** of whole milk |
 
 1. Preheat the waffle iron. Brush some butter onto both sides of the iron plate.

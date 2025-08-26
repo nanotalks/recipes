@@ -22,7 +22,7 @@
 ## 2. Wet Brine
 |<!-- -->|<!-- -->|
 |---|---|
-| **1** 6lb chicken |**5 tbsp** of table salt |
+| **1** 6lb chicken |**4 tbsp** of table salt |
 | **4 tbsp** of honey | **1 tbsp** of black peppercorn |
 | **6 cloves** of garlic | **2 sprigs** of rosemary |
 | **3-4 leaves** of dried bay leaves | **2 sprigs** of thyme | 
