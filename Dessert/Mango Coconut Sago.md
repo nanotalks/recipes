@@ -3,6 +3,7 @@
 ## 1. Shopping List (serves 6)
 - [ ] 2 cans (400mL) of coconut milk
 - [ ] 1/4 cup of tapioca pearls
+- [ ] Pure vanilla extract
 - [ ] Honey
 - [ ] Granulated sugar
 - [ ] 1 ripe mango (or 1 cup of frozen mangoes)
@@ -18,7 +19,7 @@
 2. When the water is boiling, and the sugar fully desolved, add the tapioca pearls
 3. Lower the boil to a simmer, and stir frequently for 10-15min. Remove from heat when the tapioca begins to turn translucent, but the solid core is still visible.
 4. Set the pot with the tapioca aside
-5. Add **2 cans** of coconut milk into a separate saucepan with honey and vanilla extracts, and bring to a simmer
+5. Add **2 cans** of coconut milk into a separate saucepan with honey and bring to a simmer
 6. Add the tapioca to the saucepan, stir, then remove from heat
 7. Allow sago to chill in fridge before serving (at least 2 hours)
-8. Serve with chopped mangos
+8. Serve with vanilla extract and chopped mangos
