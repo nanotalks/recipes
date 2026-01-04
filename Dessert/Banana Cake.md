@@ -16,9 +16,9 @@
 ## 2. Batter
 |<!-- -->|<!-- -->|
 |---|---|
-| **2** bananas | **225g** of butter  |
+| **2** bananas | **175g** of butter  |
 | **1/3 cup** of plain yogurt| **1 tsp** of vanilla extract |
-| **2** eggs | **150g** of brown sugar | 
+| **2** eggs | **125g** of brown sugar | 
 | **250g** of flour | **1 tsp** of baking soda |
 | **pinch** of table salt | **pinch** of ground cinnamon |
 | **0.5 cup** of pecan, chopped | 
