@@ -16,16 +16,16 @@
 ## 2. Batter
 |<!-- -->|<!-- -->|
 |---|---|
-| **2** bananas | **225g** of butter  |
+| **2** bananas | **175g** of butter  |
 | **1/3 cup** of plain yogurt| **1 tsp** of vanilla extract |
-| **2** eggs | **150g** of brown sugar | 
+| **2** eggs | **125g** of brown sugar | 
 | **250g** of flour | **1 tsp** of baking soda |
 | **pinch** of table salt | **pinch** of ground cinnamon |
 | **0.5 cup** of pecan, chopped | 
 
 1. Preheat oven to 350°F (325°F on a convection oven)
 2. Mash the ripe bananas in a large mixing bowl
-3. Add in the butter, yogurt, vanilla extract, and egggs into the banana and mix well
+3. Add in the butter, yogurt, vanilla extract, and eggs into the banana and mix well
 4. Mix the brown sugar, flour, baking soda, salt and cinnamon in a separate bowl, until evenly mixed
 4. Combine the two mixes together by folding the dry ingredients into the wet.
 5. When fully combined, fold the pecan into the batter as well.
