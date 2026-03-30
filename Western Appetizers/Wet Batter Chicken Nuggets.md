@@ -15,9 +15,9 @@
 ## 2. Marination
 |<!-- -->|<!-- -->|
 |---|---|
-| **2lb** chicken breast | **1 tsp** paprika |
-| **1 tsp** garlic powder | **1 tsp** onion powder |
-| **1/2 tsp** salt | |
+| **2lb** of chicken breast | **1 tsp** of paprika |
+| **1 tsp** of garlic powder | **1 tsp** of onion powder |
+| **1/2 tsp** of salt | |
 
 1. Cut the chicken breast into bite-sized pieces, approximately 1-2 inches
 2. In a large bowl, combine all the dry spices
@@ -28,9 +28,9 @@
 |<!-- -->|<!-- -->|
 |---|---|
 | **1-2L** of oil | **1** large eggs |
-| **3/4 cup** milk | **2 tsp** of onion powder |
+| **3/4 cup** of milk | **2 tsp** of onion powder |
 | **1 tbsp** of garlic powder | **2 tsp** of mustard |
-| **1/2 tsp** of salt | **2 cup** all-purpose flour |
+| **1/2 tsp** of salt | **2 cup** of all-purpose flour |
 
 1. Heat oil for deep frying to 350°F (175°C) in a pot
 2. In a shallow bowl, whisk together the eggs, milk, onion powder, garlic powder, mustard, salt and **1 cup** of flour until well combined

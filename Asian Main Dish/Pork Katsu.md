@@ -14,7 +14,7 @@
 |---|---|
 | **2** pork loins | **1/2 cup** of all-purpose flour |
 | **1 tsp** of salt | **1 tsp** of black pepper powder |
-| **1** egg | **1 cup** panko bread crumbs |
+| **1** egg | **1 cup** of panko bread crumbs |
 
 1. Use a small frypan to evenly pound the chops to approximately **¾ inch** thickness.
 2. Reserve **1 tbsp** of flour. Add the rest, along with salt and black pepper, to a bowl and mix.
