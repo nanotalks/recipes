@@ -18,7 +18,7 @@
 1. Fold the bacon strips in half, lengthwise
 2. Wrap the bacon around the scallop, and secure in place with a toothpick. If using smaller scallop, cut the bacon in half, and only one half of the bacon
 3. Preheat up the air fryer to 510°F on indoor grill mode
-4. Season the scallops with groun black peppercorn
+4. Season the scallops with ground black peppercorn
 5. When the grill is preheated, brush the canola oil onto the grill
 6. Lay the scallops on the grill
 7. Grill for **6-8 min**, until the scallops are firm, flipping every 2 minutes
