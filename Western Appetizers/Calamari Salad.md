@@ -37,5 +37,5 @@
 3. Allow the onion to marinade for 15 min
 4. Add the calamari and marinade for another 30 min (up to overnight)
 5. Strain the marinating liquids
-6. Add the lemon zest, red peppers, ground peppercorn and chopped parsley
+6. Add the lmon zest, red peppers, ground peppercorn and chopped parsley
 7. Add table salt to taste, and serve
