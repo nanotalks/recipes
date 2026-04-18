@@ -29,6 +29,7 @@
 
 1. Pat the chicken dry
 2. In a pot large enough to brine the chicken, heat up **3 cups** of water to a simmer.
+3. Add in the table salt, honey and black peppercorn
 3. Crush the garlic cloves with the flat of a kitchen knife 
 4. Add all the spices into the water and let simmer for 5 min
 5. Remove the pot from the stove, and add another **5 cups** of water 
