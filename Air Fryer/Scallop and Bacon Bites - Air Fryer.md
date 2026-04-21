@@ -1,4 +1,4 @@
-# Scallop and Bacon Bites
+# Scallop and Bacon Bites - Air fryer
 
 ## 1. Shopping List
 - [ ] 10 Large scallops, ideally U10
