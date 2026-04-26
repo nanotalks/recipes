@@ -7,6 +7,8 @@
 - [ ] 1 tbsp toasted sesame seeds
 - [ ] Table salt
 - [ ] Baking powder
+- [ ] Onion powder
+- [ ] Garlic powder
 
 ## 2. Preparation
 |<!-- -->|<!-- -->|
