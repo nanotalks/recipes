@@ -18,7 +18,7 @@
 | **1/2 tsp** table salt | **1/2 tsp** baking powder |
 | **1/2 tsp** of onion powder | **1/2 tsp** of garlic powder |
 
-1. Preheat oven to 375 degrees.
+1. Preheat oven to 350°F.
 2. Puree frozen loose leaf spinach in a food processor or blender.
 3. Combine the spinach with the egg, flour, sesame seeds, table salt, baking powder, onion powder, garlic powder and **1 tbsp** water in a mixing bowl until combined.
 4. Knead the dough into a ball.
